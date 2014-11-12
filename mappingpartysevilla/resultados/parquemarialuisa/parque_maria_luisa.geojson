@@ -1,0 +1,2501 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-12T12:46:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1519699693",
+      "properties": {
+        "@id": "node/1519699693",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9870521,
+          37.3716899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699797",
+      "properties": {
+        "@id": "node/1519699797",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878703,
+          37.3736522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699809",
+      "properties": {
+        "@id": "node/1519699809",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877753,
+          37.3736889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699850",
+      "properties": {
+        "@id": "node/1519699850",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883362,
+          37.3744654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699933",
+      "properties": {
+        "@id": "node/1519699933",
+        "amenity": "fountain",
+        "name": "Fuente de los Patos",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889473,
+          37.3746773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519761586",
+      "properties": {
+        "@id": "node/1519761586",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9893072,
+          37.3724883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519761632",
+      "properties": {
+        "@id": "node/1519761632",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878687,
+          37.3734783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519761640",
+      "properties": {
+        "@id": "node/1519761640",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9876108,
+          37.3735605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362231",
+      "properties": {
+        "@id": "node/3149362231",
+        "board_type": "history",
+        "description": "Información a cerca de la fuente de las Ranas",
+        "information": "board",
+        "name": "Fuente de las Ranas",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879946,
+          37.3741656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362232",
+      "properties": {
+        "@id": "node/3149362232",
+        "board_type": "history",
+        "description": "Información a cerca del Jardín de los Leones",
+        "information": "board",
+        "name": "Jardín de los Leones",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877117,
+          37.3734247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362233",
+      "properties": {
+        "@id": "node/3149362233",
+        "board_type": "notice",
+        "description": "normas del parque",
+        "information": "board",
+        "name": "Normas de uso",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879913,
+          37.3741166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362234",
+      "properties": {
+        "@id": "node/3149362234",
+        "board_type": "nature",
+        "description": "Ailanto",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879132,
+          37.3742421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362235",
+      "properties": {
+        "@id": "node/3149362235",
+        "board_type": "history",
+        "description": "información a cerca del monte Gurugú",
+        "information": "board",
+        "name": "monte Gurugú",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9872229,
+          37.3732985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362236",
+      "properties": {
+        "@id": "node/3149362236",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878915,
+          37.3742193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362237",
+      "properties": {
+        "@id": "node/3149362237",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878617,
+          37.3742309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149362238",
+      "properties": {
+        "@id": "node/3149362238",
+        "board_type": "nature",
+        "description": "ciprés de los pantanos",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:24:39Z",
+        "@version": "1",
+        "@changeset": "26324848",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882405,
+          37.3741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363783",
+      "properties": {
+        "@id": "node/3149363783",
+        "board_type": "notice",
+        "description": "Mapa del parque",
+        "information": "board",
+        "name": "Mapa",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9887284,
+          37.3711455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363784",
+      "properties": {
+        "@id": "node/3149363784",
+        "board_type": "history",
+        "description": "Información sobre el museo de Artes y Costumbres Populares",
+        "information": "board",
+        "name": "Museo de Artes y Costumbres Populares",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881414,
+          37.3718306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363785",
+      "properties": {
+        "@id": "node/3149363785",
+        "board_type": "notice",
+        "description": "Normas de utilizacion del parque",
+        "information": "board",
+        "name": "Normas",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9887317,
+          37.3711817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363786",
+      "properties": {
+        "@id": "node/3149363786",
+        "board_type": "nature",
+        "description": "Información sobre limpiatubos",
+        "information": "board",
+        "name": "Panel Botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9884185,
+          37.37154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363787",
+      "properties": {
+        "@id": "node/3149363787",
+        "board_type": "nature",
+        "description": "Descripción de una palmera",
+        "information": "board",
+        "name": "Panel Botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878827,
+          37.3718553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363788",
+      "properties": {
+        "@id": "node/3149363788",
+        "board_type": "plants",
+        "description": "Árbol del Amor",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9885461,
+          37.3711973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363789",
+      "properties": {
+        "@id": "node/3149363789",
+        "board_type": "history",
+        "description": "Plaza de América",
+        "information": "board",
+        "name": "Punto de Interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9884449,
+          37.3711571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149363790",
+      "properties": {
+        "@id": "node/3149363790",
+        "board_type": "history",
+        "description": "Glorietas de las Palomas",
+        "information": "board",
+        "name": "Punto de interes",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:27:34Z",
+        "@version": "1",
+        "@changeset": "26324902",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882954,
+          37.3714084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365673",
+      "properties": {
+        "@id": "node/3149365673",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879071,
+          37.3731008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365674",
+      "properties": {
+        "@id": "node/3149365674",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9873764,
+          37.3731218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365675",
+      "properties": {
+        "@id": "node/3149365675",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.987412,
+          37.3732971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365676",
+      "properties": {
+        "@id": "node/3149365676",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877853,
+          37.3734084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365677",
+      "properties": {
+        "@id": "node/3149365677",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880047,
+          37.3734148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365678",
+      "properties": {
+        "@id": "node/3149365678",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877474,
+          37.3734176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365679",
+      "properties": {
+        "@id": "node/3149365679",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878221,
+          37.3734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365680",
+      "properties": {
+        "@id": "node/3149365680",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879772,
+          37.3734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365681",
+      "properties": {
+        "@id": "node/3149365681",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880208,
+          37.3734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365682",
+      "properties": {
+        "@id": "node/3149365682",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879887,
+          37.3734367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365683",
+      "properties": {
+        "@id": "node/3149365683",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879439,
+          37.3734377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365684",
+      "properties": {
+        "@id": "node/3149365684",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879094,
+          37.3734495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365685",
+      "properties": {
+        "@id": "node/3149365685",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878508,
+          37.3734504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365686",
+      "properties": {
+        "@id": "node/3149365686",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879507,
+          37.3734514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365687",
+      "properties": {
+        "@id": "node/3149365687",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879174,
+          37.3734614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365688",
+      "properties": {
+        "@id": "node/3149365688",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880645,
+          37.3734778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365689",
+      "properties": {
+        "@id": "node/3149365689",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880645,
+          37.3734897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365690",
+      "properties": {
+        "@id": "node/3149365690",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880243,
+          37.3734906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365691",
+      "properties": {
+        "@id": "node/3149365691",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879841,
+          37.3735016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365692",
+      "properties": {
+        "@id": "node/3149365692",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880289,
+          37.3735043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365693",
+      "properties": {
+        "@id": "node/3149365693",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879507,
+          37.3735143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365694",
+      "properties": {
+        "@id": "node/3149365694",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879829,
+          37.3735216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365695",
+      "properties": {
+        "@id": "node/3149365695",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.987953,
+          37.3735317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365696",
+      "properties": {
+        "@id": "node/3149365696",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882494,
+          37.3742492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365697",
+      "properties": {
+        "@id": "node/3149365697",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881127,
+          37.3742967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365698",
+      "properties": {
+        "@id": "node/3149365698",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:35Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883413,
+          37.374377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365699",
+      "properties": {
+        "@id": "node/3149365699",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:35Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881897,
+          37.3744254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374285",
+      "properties": {
+        "@id": "node/3149374285",
+        "amenity": "fountain",
+        "name": "Fuente Plaza de América",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9874703,
+          37.371527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374287",
+      "properties": {
+        "@id": "node/3149374287",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9874047,
+          37.371843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374288",
+      "properties": {
+        "@id": "node/3149374288",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881037,
+          37.3741279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374290",
+      "properties": {
+        "@id": "node/3149374290",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858675,
+          37.3769321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374291",
+      "properties": {
+        "@id": "node/3149374291",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9863985,
+          37.3777939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149377031",
+      "properties": {
+        "@id": "node/3149377031",
+        "amenity": "fountain",
+        "name": "Fuente Luis de Morales",
+        "@timestamp": "2014-10-25T16:41:09Z",
+        "@version": "2",
+        "@changeset": "26325175",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9896894,
+          37.3767412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149377976",
+      "properties": {
+        "@id": "node/3149377976",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:41:09Z",
+        "@version": "1",
+        "@changeset": "26325175",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897562,
+          37.3768331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388072",
+      "properties": {
+        "@id": "node/3149388072",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9888816,
+          37.3746365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388073",
+      "properties": {
+        "@id": "node/3149388073",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9888023,
+          37.3746617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388074",
+      "properties": {
+        "@id": "node/3149388074",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891751,
+          37.3746901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388075",
+      "properties": {
+        "@id": "node/3149388075",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892782,
+          37.3747689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388076",
+      "properties": {
+        "@id": "node/3149388076",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891671,
+          37.3747941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388077",
+      "properties": {
+        "@id": "node/3149388077",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883859,
+          37.3748035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388078",
+      "properties": {
+        "@id": "node/3149388078",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9884533,
+          37.3748949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388079",
+      "properties": {
+        "@id": "node/3149388079",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.989663,
+          37.3762242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388080",
+      "properties": {
+        "@id": "node/3149388080",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9895824,
+          37.3762473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388081",
+      "properties": {
+        "@id": "node/3149388081",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.989802,
+          37.3763092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388082",
+      "properties": {
+        "@id": "node/3149388082",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9898465,
+          37.3763744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388083",
+      "properties": {
+        "@id": "node/3149388083",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9898896,
+          37.376444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388084",
+      "properties": {
+        "@id": "node/3149388084",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9899022,
+          37.3765024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388085",
+      "properties": {
+        "@id": "node/3149388085",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9898215,
+          37.3765305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388086",
+      "properties": {
+        "@id": "node/3149388086",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891474,
+          37.3765356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388087",
+      "properties": {
+        "@id": "node/3149388087",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897184,
+          37.3765683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388088",
+      "properties": {
+        "@id": "node/3149388088",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892002,
+          37.3766163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388089",
+      "properties": {
+        "@id": "node/3149388089",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9894768,
+          37.3766538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388090",
+      "properties": {
+        "@id": "node/3149388090",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.989385,
+          37.3766847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388091",
+      "properties": {
+        "@id": "node/3149388091",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892391,
+          37.3766858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388092",
+      "properties": {
+        "@id": "node/3149388092",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892961,
+          37.3767124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394555",
+      "properties": {
+        "@id": "node/3149394555",
+        "board_type": "nature",
+        "description": "Plátano oriental",
+        "information": "board",
+        "name": "panel botanico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:50:12Z",
+        "@version": "1",
+        "@changeset": "26325364",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880987,
+          37.3774387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395453",
+      "properties": {
+        "@id": "node/3149395453",
+        "board_type": "notice",
+        "description": "Mapa del parque",
+        "information": "board",
+        "name": "Mapa",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:16Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9870138,
+          37.3720148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395454",
+      "properties": {
+        "@id": "node/3149395454",
+        "board_type": "notice",
+        "description": "Mapa del parque",
+        "information": "board",
+        "name": "Mapa",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:16Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9861594,
+          37.3720855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395455",
+      "properties": {
+        "@id": "node/3149395455",
+        "board_type": "notice",
+        "description": "Normas de utilizacion del parque",
+        "information": "board",
+        "name": "Normas",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9886238,
+          37.3709908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395456",
+      "properties": {
+        "@id": "node/3149395456",
+        "board_type": "notice",
+        "description": "Normas de utilizacion del parque",
+        "information": "board",
+        "name": "Normativa",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858252,
+          37.3719116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395457",
+      "properties": {
+        "@id": "node/3149395457",
+        "board_type": "plants",
+        "description": "Información sobre Olmo",
+        "information": "board",
+        "name": "Panel Botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9864487,
+          37.3717177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395458",
+      "properties": {
+        "@id": "node/3149395458",
+        "board_type": "plants",
+        "description": "Información sobre Jabonero de la China",
+        "information": "board",
+        "name": "Panel Botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9861166,
+          37.3720323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395459",
+      "properties": {
+        "@id": "node/3149395459",
+        "board_type": "history",
+        "description": "Museo Arqueológico",
+        "information": "board",
+        "name": "Punto de Interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9873921,
+          37.3711026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395460",
+      "properties": {
+        "@id": "node/3149395460",
+        "board_type": "history",
+        "description": "Glorieta de Cervantes",
+        "information": "board",
+        "name": "Punto de Interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9869017,
+          37.3716233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395461",
+      "properties": {
+        "@id": "node/3149395461",
+        "board_type": "history",
+        "description": "Pabellón Real",
+        "information": "board",
+        "name": "Punto de Interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9867522,
+          37.3717352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395462",
+      "properties": {
+        "@id": "node/3149395462",
+        "board_type": "history",
+        "description": "Glorieta de Rodríguez Marín",
+        "information": "board",
+        "name": "Punto de Interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9870116,
+          37.3718103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395463",
+      "properties": {
+        "@id": "node/3149395463",
+        "board_type": "history",
+        "description": "Plaza de América",
+        "information": "board",
+        "name": "Punto de Interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9862683,
+          37.3721134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149395464",
+      "properties": {
+        "@id": "node/3149395464",
+        "board_type": "notice",
+        "description": "Ruta de ejercicios físicos",
+        "information": "board",
+        "name": "Ruta de ejercicios",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:49:17Z",
+        "@version": "1",
+        "@changeset": "26325339",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881076,
+          37.3709166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402143",
+      "properties": {
+        "@id": "node/3149402143",
+        "information": "map",
+        "name": "Mapa del parque",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:53Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9895687,
+          37.3731623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402144",
+      "properties": {
+        "@id": "node/3149402144",
+        "information": "map",
+        "name": "Mapa del parque",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:53Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9906038,
+          37.3756843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402145",
+      "properties": {
+        "@id": "node/3149402145",
+        "information": "map",
+        "name": "Mapa del parque",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:53Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9901532,
+          37.3776576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402146",
+      "properties": {
+        "@id": "node/3149402146",
+        "board_type": "nature",
+        "description": "Olmo",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:53Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9899624,
+          37.3741868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402147",
+      "properties": {
+        "@id": "node/3149402147",
+        "board_type": "nature",
+        "description": "Aves del parque",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902004,
+          37.3743413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402148",
+      "properties": {
+        "@id": "node/3149402148",
+        "board_type": "nature",
+        "description": "Higuera",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9890303,
+          37.3744556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402149",
+      "properties": {
+        "@id": "node/3149402149",
+        "board_type": "nature",
+        "description": "Arbol de las Lianas",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9904567,
+          37.3745955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402150",
+      "properties": {
+        "@id": "node/3149402150",
+        "board_type": "nature",
+        "description": "Adelfa",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891212,
+          37.3746494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402151",
+      "properties": {
+        "@id": "node/3149402151",
+        "board_type": "nature",
+        "description": "Roble",
+        "information": "board",
+        "name": "Panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902731,
+          37.3769677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402152",
+      "properties": {
+        "@id": "node/3149402152",
+        "board_type": "notice",
+        "description": "Normas del parque",
+        "information": "board",
+        "name": "Panel informativo",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9896377,
+          37.3732287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402153",
+      "properties": {
+        "@id": "node/3149402153",
+        "board_type": "notice",
+        "description": "Normas del parque",
+        "information": "board",
+        "name": "Panel informativo",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9906456,
+          37.3756814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402154",
+      "properties": {
+        "@id": "node/3149402154",
+        "board_type": "notice",
+        "description": "Normas del parque",
+        "information": "board",
+        "name": "Panel informativo",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9901747,
+          37.3775843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402155",
+      "properties": {
+        "@id": "node/3149402155",
+        "board_type": "notice",
+        "description": "Normas del parque",
+        "information": "board",
+        "name": "Panel informativo",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900696,
+          37.3776328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402156",
+      "properties": {
+        "@id": "node/3149402156",
+        "board_type": "notice",
+        "description": "normas del parque",
+        "information": "board",
+        "name": "Panel informativo",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9890724,
+          37.3780909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402157",
+      "properties": {
+        "@id": "node/3149402157",
+        "board_type": "history",
+        "description": "Glorieta de Mas y Prats",
+        "information": "board",
+        "name": "Punto de interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9901659,
+          37.3741623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402158",
+      "properties": {
+        "@id": "node/3149402158",
+        "board_type": "history",
+        "description": "Glorieta de Gustavo Adolfo Bécquer",
+        "information": "board",
+        "name": "Punto de interés",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9890234,
+          37.3779352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402159",
+      "properties": {
+        "@id": "node/3149402159",
+        "board_type": "nature",
+        "description": "Ciruelo pissara",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900387,
+          37.3742128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402160",
+      "properties": {
+        "@id": "node/3149402160",
+        "board_type": "nature",
+        "description": "Aliguste, Durillo",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900242,
+          37.3743991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402161",
+      "properties": {
+        "@id": "node/3149402161",
+        "board_type": "nature",
+        "description": "Nandina",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892525,
+          37.3745515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402162",
+      "properties": {
+        "@id": "node/3149402162",
+        "board_type": "nature",
+        "description": "Cipres de los Pantanos",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902923,
+          37.3768952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402163",
+      "properties": {
+        "@id": "node/3149402163",
+        "board_type": "nature",
+        "description": "Aliguste, Durillo",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:54Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9901724,
+          37.3773526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402164",
+      "properties": {
+        "@id": "node/3149402164",
+        "board_type": "nature",
+        "description": "Palmeras de Senegal",
+        "information": "board",
+        "name": "panel botánico",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:55Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9885576,
+          37.3776007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149402165",
+      "properties": {
+        "@id": "node/3149402165",
+        "board_type": "notice",
+        "description": "normas del parque",
+        "information": "board",
+        "name": "panel informativo",
+        "tourism": "information",
+        "@timestamp": "2014-10-25T16:53:55Z",
+        "@version": "1",
+        "@changeset": "26325448",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9888859,
+          37.3781152
+        ]
+      }
+    }
+  ]
+}
