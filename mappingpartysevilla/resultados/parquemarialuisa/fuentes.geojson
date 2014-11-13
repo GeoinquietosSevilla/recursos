@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-12T20:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1519699693",
+      "properties": {
+        "@id": "node/1519699693",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9870521,
+          37.3716899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699797",
+      "properties": {
+        "@id": "node/1519699797",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878703,
+          37.3736522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699809",
+      "properties": {
+        "@id": "node/1519699809",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877753,
+          37.3736889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699850",
+      "properties": {
+        "@id": "node/1519699850",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883362,
+          37.3744654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519699933",
+      "properties": {
+        "@id": "node/1519699933",
+        "amenity": "fountain",
+        "name": "Fuente de los Patos",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889473,
+          37.3746773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519761632",
+      "properties": {
+        "@id": "node/1519761632",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878687,
+          37.3734783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1519761640",
+      "properties": {
+        "@id": "node/1519761640",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:20Z",
+        "@version": "2",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9876108,
+          37.3735605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374285",
+      "properties": {
+        "@id": "node/3149374285",
+        "amenity": "fountain",
+        "name": "Fuente Plaza de América",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9874703,
+          37.371527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374288",
+      "properties": {
+        "@id": "node/3149374288",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881037,
+          37.3741279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374290",
+      "properties": {
+        "@id": "node/3149374290",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858675,
+          37.3769321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374291",
+      "properties": {
+        "@id": "node/3149374291",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:34:19Z",
+        "@version": "1",
+        "@changeset": "26325045",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9863985,
+          37.3777939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149377031",
+      "properties": {
+        "@id": "node/3149377031",
+        "amenity": "fountain",
+        "name": "Fuente Luis de Morales",
+        "@timestamp": "2014-10-25T16:41:09Z",
+        "@version": "2",
+        "@changeset": "26325175",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9896894,
+          37.3767412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149377976",
+      "properties": {
+        "@id": "node/3149377976",
+        "amenity": "fountain",
+        "@timestamp": "2014-10-25T16:41:09Z",
+        "@version": "1",
+        "@changeset": "26325175",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897562,
+          37.3768331
+        ]
+      }
+    }
+  ]
+}

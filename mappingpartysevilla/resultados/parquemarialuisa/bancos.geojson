@@ -1,0 +1,968 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-12T20:46:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3149365673",
+      "properties": {
+        "@id": "node/3149365673",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879071,
+          37.3731008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365674",
+      "properties": {
+        "@id": "node/3149365674",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9873764,
+          37.3731218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365675",
+      "properties": {
+        "@id": "node/3149365675",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.987412,
+          37.3732971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365676",
+      "properties": {
+        "@id": "node/3149365676",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877853,
+          37.3734084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365677",
+      "properties": {
+        "@id": "node/3149365677",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880047,
+          37.3734148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365678",
+      "properties": {
+        "@id": "node/3149365678",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9877474,
+          37.3734176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365679",
+      "properties": {
+        "@id": "node/3149365679",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878221,
+          37.3734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365680",
+      "properties": {
+        "@id": "node/3149365680",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879772,
+          37.3734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365681",
+      "properties": {
+        "@id": "node/3149365681",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880208,
+          37.3734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365682",
+      "properties": {
+        "@id": "node/3149365682",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879887,
+          37.3734367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365683",
+      "properties": {
+        "@id": "node/3149365683",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879439,
+          37.3734377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365684",
+      "properties": {
+        "@id": "node/3149365684",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879094,
+          37.3734495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365685",
+      "properties": {
+        "@id": "node/3149365685",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878508,
+          37.3734504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365686",
+      "properties": {
+        "@id": "node/3149365686",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879507,
+          37.3734514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365687",
+      "properties": {
+        "@id": "node/3149365687",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879174,
+          37.3734614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365688",
+      "properties": {
+        "@id": "node/3149365688",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880645,
+          37.3734778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365689",
+      "properties": {
+        "@id": "node/3149365689",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880645,
+          37.3734897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365690",
+      "properties": {
+        "@id": "node/3149365690",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880243,
+          37.3734906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365691",
+      "properties": {
+        "@id": "node/3149365691",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879841,
+          37.3735016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365692",
+      "properties": {
+        "@id": "node/3149365692",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9880289,
+          37.3735043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365693",
+      "properties": {
+        "@id": "node/3149365693",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879507,
+          37.3735143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365694",
+      "properties": {
+        "@id": "node/3149365694",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879829,
+          37.3735216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365695",
+      "properties": {
+        "@id": "node/3149365695",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.987953,
+          37.3735317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365696",
+      "properties": {
+        "@id": "node/3149365696",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882494,
+          37.3742492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365697",
+      "properties": {
+        "@id": "node/3149365697",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:34Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881127,
+          37.3742967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365698",
+      "properties": {
+        "@id": "node/3149365698",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:35Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883413,
+          37.374377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149365699",
+      "properties": {
+        "@id": "node/3149365699",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:29:35Z",
+        "@version": "1",
+        "@changeset": "26324942",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9881897,
+          37.3744254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388072",
+      "properties": {
+        "@id": "node/3149388072",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9888816,
+          37.3746365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388073",
+      "properties": {
+        "@id": "node/3149388073",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9888023,
+          37.3746617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388074",
+      "properties": {
+        "@id": "node/3149388074",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891751,
+          37.3746901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388075",
+      "properties": {
+        "@id": "node/3149388075",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892782,
+          37.3747689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388076",
+      "properties": {
+        "@id": "node/3149388076",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891671,
+          37.3747941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388077",
+      "properties": {
+        "@id": "node/3149388077",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:21Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883859,
+          37.3748035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388078",
+      "properties": {
+        "@id": "node/3149388078",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9884533,
+          37.3748949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388079",
+      "properties": {
+        "@id": "node/3149388079",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.989663,
+          37.3762242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388080",
+      "properties": {
+        "@id": "node/3149388080",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9895824,
+          37.3762473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388081",
+      "properties": {
+        "@id": "node/3149388081",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.989802,
+          37.3763092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388082",
+      "properties": {
+        "@id": "node/3149388082",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9898465,
+          37.3763744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388083",
+      "properties": {
+        "@id": "node/3149388083",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9898896,
+          37.376444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388084",
+      "properties": {
+        "@id": "node/3149388084",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9899022,
+          37.3765024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388085",
+      "properties": {
+        "@id": "node/3149388085",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9898215,
+          37.3765305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388086",
+      "properties": {
+        "@id": "node/3149388086",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891474,
+          37.3765356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388087",
+      "properties": {
+        "@id": "node/3149388087",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897184,
+          37.3765683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388088",
+      "properties": {
+        "@id": "node/3149388088",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892002,
+          37.3766163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388089",
+      "properties": {
+        "@id": "node/3149388089",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9894768,
+          37.3766538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388090",
+      "properties": {
+        "@id": "node/3149388090",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.989385,
+          37.3766847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388091",
+      "properties": {
+        "@id": "node/3149388091",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892391,
+          37.3766858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149388092",
+      "properties": {
+        "@id": "node/3149388092",
+        "amenity": "bench",
+        "@timestamp": "2014-10-25T16:48:22Z",
+        "@version": "1",
+        "@changeset": "26325316",
+        "@user": "Guadalcanal",
+        "@uid": "2424666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892961,
+          37.3767124
+        ]
+      }
+    }
+  ]
+}
