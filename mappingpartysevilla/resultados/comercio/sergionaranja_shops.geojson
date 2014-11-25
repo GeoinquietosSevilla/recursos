@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3156569897",
+      "properties": {
+        "@id": "node/3156569897",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "6",
+        "addr:postcode": "41002",
+        "addr:street": "Calle Relator",
+        "name": "El barbero de Sevilla",
+        "phone": "+34/954370758",
+        "shop": "hairdresser",
+        "website": "http://www.elbarberodesevilla.es",
+        "@timestamp": "2014-10-29T18:13:30Z",
+        "@version": "1",
+        "@changeset": "26418452",
+        "@user": "sergionaranja",
+        "@uid": "33103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9923407,
+          37.4002592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3156569899",
+      "properties": {
+        "@id": "node/3156569899",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "25",
+        "addr:postcode": "41002",
+        "addr:street": "Calle Relator",
+        "name": "Quijano Mármoles & Granitos",
+        "shop": "building materials",
+        "@timestamp": "2014-10-29T18:13:30Z",
+        "@version": "1",
+        "@changeset": "26418452",
+        "@user": "sergionaranja",
+        "@uid": "33103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9919473,
+          37.4003595
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1545527324",
+      "properties": {
+        "@id": "node/1545527324",
+        "name": "Bike Life",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00",
+        "shop": "bicycle",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "2",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850533,
+          37.388121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150440364",
+      "properties": {
+        "@id": "node/3150440364",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "67",
+        "addr:province": "Sevilla",
+        "addr:street": "Recaredo",
+        "name": "Floristeria Puerta Carmona",
+        "operator": "Interflora",
+        "phone": "954535484",
+        "shop": "florist",
+        "website": "www.floristeriapuertacarmona.com",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T10:53:11Z",
+        "@version": "1",
+        "@changeset": "26339228",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847061,
+          37.3890451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150440365",
+      "properties": {
+        "@id": "node/3150440365",
+        "name": "Top Mage",
+        "opening_hours": "Mo-Sa 09:30-14:00,16:30-20:00",
+        "phone": "954414971",
+        "shop": "hairdresser",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:53:11Z",
+        "@version": "1",
+        "@changeset": "26339228",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847221,
+          37.3889977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150531545",
+      "properties": {
+        "@id": "node/3150531545",
+        "craft": "pottery",
+        "email": "alfares.sevilla@gmail.com",
+        "name": "Alfares",
+        "opening_hours": "Mo-Fr 09:30-14:00,17:00-21:00; Sa 09:30-14:00",
+        "phone": "954419859",
+        "shop": "craft",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "1",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9849995,
+          37.3882919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150531546",
+      "properties": {
+        "@id": "node/3150531546",
+        "name": "Florida Importaciones",
+        "opening_hours": "Mo-Sa 09:15-14:00,17:00-21:00",
+        "shop": "variety_store",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "1",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847368,
+          37.3889495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150531547",
+      "properties": {
+        "@id": "node/3150531547",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "60",
+        "addr:province": "Sevilla",
+        "addr:street": "Recaredo",
+        "name": "Manuel Riesgo",
+        "opening_hours": "Mo-Th 10:00-15:00,16:00-20:00; Fr 10:00-15:00",
+        "shop": "art",
+        "website": "www.riesgoarte.com",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "1",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.984796,
+          37.3888014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150531548",
+      "properties": {
+        "@id": "node/3150531548",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "55",
+        "addr:province": "Sevilla",
+        "addr:street": "Recaredo",
+        "shop": "vacant",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "1",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848599,
+          37.3886327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150531549",
+      "properties": {
+        "@id": "node/3150531549",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "62",
+        "addr:province": "Sevilla",
+        "addr:street": "Recaredo",
+        "shop": "vacant",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "1",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847652,
+          37.388886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150531550",
+      "properties": {
+        "@id": "node/3150531550",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "57",
+        "addr:province": "Sevilla",
+        "addr:street": "Recaredo",
+        "name": "Rastro Remar",
+        "opening_hours": "Mo-Fr 09:30-14:00,16:00-20:30; Sa 10:00-14:00",
+        "phone": "954999480",
+        "shop": "charity",
+        "website": "www.remar.org",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T13:32:07Z",
+        "@version": "1",
+        "@changeset": "26340489",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848392,
+          37.3886881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162650146",
+      "properties": {
+        "@id": "node/3162650146",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "9",
+        "addr:province": "Sevilla",
+        "addr:state": "ES",
+        "addr:street": "Calle Tintes",
+        "name": "Peluquería Ana",
+        "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:00-13:00",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-02T12:09:32Z",
+        "@version": "2",
+        "@changeset": "26501697",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.985752,
+          37.3881412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162675433",
+      "properties": {
+        "@id": "node/3162675433",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "9",
+        "addr:province": "Sevilla",
+        "addr:street": "Avenida Menéndez Pelayo",
+        "name": "La Segunda Vera",
+        "opening_hours": "Mo-Fr 09:30-14:00,17:30-20:00; Sa 10:00-13:30",
+        "phone": "+34 954 53 63 76",
+        "shop": "dry_cleaning",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-02T12:09:32Z",
+        "@version": "1",
+        "@changeset": "26501697",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859525,
+          37.3862544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162675434",
+      "properties": {
+        "@id": "node/3162675434",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "29",
+        "addr:province": "Sevilla",
+        "addr:street": "Avenida Menéndez Pelayo",
+        "name": "Magia Cadabra",
+        "opening_hours": "Mo-Fr 10:30-13:30,17:30-20:30; Sa 10:30-13:30",
+        "shop": "other",
+        "website": "www.magiacadabra.com",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-02T12:09:32Z",
+        "@version": "1",
+        "@changeset": "26501697",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.985345,
+          37.3874139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162675435",
+      "properties": {
+        "@id": "node/3162675435",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "11",
+        "addr:province": "Sevilla",
+        "addr:street": "Avenida Menéndez Pelayo",
+        "email": "tienda@ohmybikes.com",
+        "name": "Oh my bikes",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00",
+        "phone": "+34 954536017",
+        "shop": "bicycle",
+        "website": "www.ohmybikes.com",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-02T12:09:32Z",
+        "@version": "1",
+        "@changeset": "26501697",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859142,
+          37.3863273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162713911",
+      "properties": {
+        "@id": "node/3162713911",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "20",
+        "addr:province": "Sevilla",
+        "addr:street": "Calle Águilas",
+        "name": "Antigüedades Santa María",
+        "shop": "antiques",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-02T12:36:32Z",
+        "@version": "1",
+        "@changeset": "26502176",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882293,
+          37.3898899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162713912",
+      "properties": {
+        "@id": "node/3162713912",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "3",
+        "addr:province": "Sevilla",
+        "addr:street": "Plaza de Pilatos",
+        "craft": "handicraft",
+        "email": "cocosevilla@gmail.com",
+        "name": "Coco Sevilla",
+        "opening_hours": "Mo-Fr 10:30-19:00",
+        "phone": "+34 657 299 192",
+        "shop": "craft",
+        "website": "https://www.facebook.com/cocosevilla",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-02T12:36:32Z",
+        "@version": "1",
+        "@changeset": "26502176",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9868021,
+          37.3897405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162713913",
+      "properties": {
+        "@id": "node/3162713913",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "24",
+        "addr:province": "Sevilla",
+        "addr:street": "Calle Águilas",
+        "name": "Dulces Artesanos H.H. Clarisas",
+        "shop": "confectionery",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-02T12:36:32Z",
+        "@version": "1",
+        "@changeset": "26502176",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9873894,
+          37.3898192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162713914",
+      "properties": {
+        "@id": "node/3162713914",
+        "name": "Frutería San Esteban",
+        "opening_hours": "Mo-Fr 09:30-13:30,17:30-20:30; Sa 09:30-13:30",
+        "shop": "greengrocer",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-02T12:36:32Z",
+        "@version": "1",
+        "@changeset": "26502176",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859388,
+          37.3897043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162713915",
+      "properties": {
+        "@id": "node/3162713915",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "14",
+        "addr:postcode": "41003",
+        "addr:province": "Sevilla",
+        "addr:state": "ES",
+        "addr:street": "Calle San Esteban",
+        "name": "Kompulsivas",
+        "opening_hours": "Mo-Fr 10:30-13:30,17:30-20:30; Sa 10:30-14:00",
+        "phone": "+34 954 22 75 65",
+        "shop": "clothes",
+        "website": "https://www.facebook.com/kompulsivas",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-02T12:36:32Z",
+        "@version": "1",
+        "@changeset": "26502176",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9862548,
+          37.3897157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162713916",
+      "properties": {
+        "@id": "node/3162713916",
+        "name": "VENE",
+        "opening_hours": "Mo-Fr 09:30-13:30,17:30-20:30; Sa 09:30-13:30",
+        "phone": "+34 600 68 38 50",
+        "shop": "glaziery",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-02T12:36:32Z",
+        "@version": "1",
+        "@changeset": "26502176",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98601,
+          37.3897034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162718748",
+      "properties": {
+        "@id": "node/3162718748",
+        "name": "Confecciones Luís",
+        "opening_hours": "Mo-Fr 09:30-13:30,17:30-20:30; Sa 09:30-13:30",
+        "phone": "+34 954 42 01 55",
+        "shop": "clothes",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-02T12:42:00Z",
+        "@version": "1",
+        "@changeset": "26502262",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9857586,
+          37.3896707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162718749",
+      "properties": {
+        "@id": "node/3162718749",
+        "name": "Human Cycles",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30",
+        "shop": "bicycle",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-02T12:42:00Z",
+        "@version": "1",
+        "@changeset": "26502262",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9856863,
+          37.3896609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162718750",
+      "properties": {
+        "@id": "node/3162718750",
+        "name": "Ultramarinos Martín",
+        "opening_hours": "Mo-Fr 09:30-13:30,17:30-20:30; Sa 09:30-13:30",
+        "shop": "convenience",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-02T12:42:00Z",
+        "@version": "1",
+        "@changeset": "26502262",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858276,
+          37.3896795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3162723231",
+      "properties": {
+        "@id": "node/3162723231",
+        "email": "lmrepullo@gmail.com",
+        "name": "Marquetería San Esteban",
+        "opening_hours": "Mo-Fr 10:00-14:00,16:30-20:30",
+        "phone": "+34 653 69 48 76",
+        "shop": "frame",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-02T12:46:38Z",
+        "@version": "1",
+        "@changeset": "26502332",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9855228,
+          37.3896141
+        ]
+      }
+    }
+  ]
+}

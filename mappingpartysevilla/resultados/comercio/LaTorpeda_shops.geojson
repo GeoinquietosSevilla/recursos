@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1313577555",
+      "properties": {
+        "@id": "node/1313577555",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "37 acc b",
+        "addr:postcode": "41003",
+        "addr:street": "Calle San Primitivo",
+        "name": "Bicycle repair",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-21:00;Sa 10:00-14:00",
+        "phone": "664022260",
+        "shop": "bicycle",
+        "website": "www.tallerdebicicletas.com",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-22T11:17:18Z",
+        "@version": "5",
+        "@changeset": "26949015",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.984394,
+          37.391728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1313583417",
+      "properties": {
+        "@id": "node/1313583417",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:street": "Calle Recaredo",
+        "name": "Librería Maymen",
+        "opening_hours": "Mo-Fr 09:30-13:30;Sa 09:30-13:00",
+        "shop": "books",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-22T11:23:53Z",
+        "@version": "3",
+        "@changeset": "26949110",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.984126,
+          37.39196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150246533",
+      "properties": {
+        "@id": "node/3150246533",
+        "addr:street": "Calle Recaredo",
+        "name": "fun covers",
+        "opening_hours": "Mo-Fr 10:00-14:00, 17:00-21:00;Sa 10:00-15:00",
+        "operator": "varios",
+        "shop": "mobile_phone",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T07:54:35Z",
+        "@version": "1",
+        "@changeset": "26336538",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842984,
+          37.3898971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150248427",
+      "properties": {
+        "@id": "node/3150248427",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "11-A",
+        "addr:street": "Calle Recaredo",
+        "name": "Horno San Roque",
+        "opening_hours": "Mo-Sa 08:00-15:00, 17:30-20:30;Su 08:00-15:00",
+        "shop": "convenience",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T15:51:30Z",
+        "@version": "2",
+        "@changeset": "26343659",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842434,
+          37.3905354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150250332",
+      "properties": {
+        "@id": "node/3150250332",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "9",
+        "addr:street": "Calle Recaredo",
+        "name": "La Fortuna",
+        "opening_hours": "Mo-Fr 09:00-14:00,16:30-20:30;Sa 09:00-14:00",
+        "shop": "lottery",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T08:01:58Z",
+        "@version": "1",
+        "@changeset": "26336643",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842346,
+          37.3905888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150253329",
+      "properties": {
+        "@id": "node/3150253329",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "25",
+        "addr:street": "Calle Recaredo",
+        "name": "Ideas",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30",
+        "shop": "kitchen",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T08:04:47Z",
+        "@version": "1",
+        "@changeset": "26336682",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842529,
+          37.3910791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150840650",
+      "properties": {
+        "@id": "node/3150840650",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "39",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Recaredo",
+        "name": "Carlin",
+        "opening_hours": "Mo-Fr 09:00-14:00,17:00-20:30;Sa 10:30-13:30",
+        "shop": "stationery",
+        "website": "recaredo@web.carlin.es",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-22T11:25:49Z",
+        "@version": "3",
+        "@changeset": "26949137",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842344,
+          37.3921194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150871749",
+      "properties": {
+        "@id": "node/3150871749",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "2",
+        "addr:street": "Calle Diego de Merlo",
+        "name": "Comidas magui",
+        "opening_hours": "Mo-Fr 109:00-15:15,18:00-21:00;Sa 10:00-15:00",
+        "phone": "+34 619 58 67 80",
+        "shop": "convenience",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T16:07:48Z",
+        "@version": "1",
+        "@changeset": "26343999",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848581,
+          37.3928813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150880322",
+      "properties": {
+        "@id": "node/3150880322",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "21",
+        "addr:street": "Calle Salinas",
+        "name": "Esteban distribuciones",
+        "note": "Instrumentos musicales y accesorios para bandas",
+        "opening_hours": "Mo-Fr 10:00-13:30,17:30-21:30;Sa 10:00-13:30",
+        "shop": "music",
+        "website": "www.estebandistribuciones.es",
+        "@timestamp": "2014-10-26T16:10:30Z",
+        "@version": "1",
+        "@changeset": "26344051",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850783,
+          37.3927377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150905929",
+      "properties": {
+        "@id": "node/3150905929",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "1",
+        "addr:postcode": "41003",
+        "addr:street": "Puerta de Carmona",
+        "name": "Puerta Carmona",
+        "note": "summer Mo-Fr 17:30-20:30",
+        "opening_hours": "Mo-Fr 9:00-13:30,16:30-20:00;Sa 9:00-13:00",
+        "phone": "+34 954 41 94 57",
+        "shop": "hardware",
+        "@timestamp": "2014-10-26T16:13:56Z",
+        "@version": "1",
+        "@changeset": "26344117",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848771,
+          37.3894101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150919068",
+      "properties": {
+        "@id": "node/3150919068",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "9",
+        "addr:street": "Calle San Esteban",
+        "name": "Estrella de mar, moda infantil",
+        "opening_hours": "Mo-Fr 10:30-13:30,17:30-20:30;Sa 10:30-13:30",
+        "phone": "+34 954 41 29 87",
+        "shop": "clothes",
+        "website": "www.estrellademaronline.es",
+        "@timestamp": "2014-10-26T16:16:48Z",
+        "@version": "1",
+        "@changeset": "26344178",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858038,
+          37.3897681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150954921",
+      "properties": {
+        "@id": "node/3150954921",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "33",
+        "addr:street": "Calle Recaredo",
+        "name": "Sierra de Aracena",
+        "note": "Jamón,embutidos, miel,quesos, vino",
+        "opening_hours": "Mo-Fr 10:00-14:00,16:30-20:00;Sa 10:00-14:00",
+        "phone": "+34 954 42 10 66",
+        "shop": "convenience",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-22T11:10:02Z",
+        "@version": "2",
+        "@changeset": "26948902",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.984228,
+          37.391615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3154906073",
+      "properties": {
+        "@id": "node/3154906073",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "37 acc b",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Recaredo",
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "name": "electric city motor",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30;Sa 10:00-14:00",
+        "shop": "bicycle",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-22T11:14:53Z",
+        "@version": "2",
+        "@changeset": "26948978",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842288,
+          37.3917673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199765727",
+      "properties": {
+        "@id": "node/3199765727",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "23",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Recaredo",
+        "name": "Shoiv II",
+        "opening_hours": "Mo-Ss 09:30-13:30,17:00-21:30;Su 10:30-13:30",
+        "shop": "bazar_chino",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-22T11:07:00Z",
+        "@version": "1",
+        "@changeset": "26948852",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842181,
+          37.3913134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199785293",
+      "properties": {
+        "@id": "node/3199785293",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "37 acc c",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Recaredo",
+        "name": "Acuario",
+        "note": "Hablan varios idiomas",
+        "opening_hours": "Mo-Fr 09:30-14:00,17:00-20:30;Sa 10:00-14:00",
+        "shop": "dry_cleaning",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-22T11:20:00Z",
+        "@version": "1",
+        "@changeset": "26949059",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9841939,
+          37.3919037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199794862",
+      "properties": {
+        "@id": "node/3199794862",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "45",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Recaredo",
+        "name": "Farmacia Recaredo",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "shop": "medical_supply",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-22T11:28:08Z",
+        "@version": "1",
+        "@changeset": "26949185",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9841357,
+          37.3928155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199851604",
+      "properties": {
+        "@id": "node/3199851604",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:postcode": "41003",
+        "addr:street": "Calle de Doña Berenguela",
+        "name": "Droguería,perfumería",
+        "shop": "chemist",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-22T12:21:36Z",
+        "@version": "1",
+        "@changeset": "26950198",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9845587,
+          37.3930204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199852695",
+      "properties": {
+        "@id": "node/3199852695",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "2",
+        "addr:postcode": "41003",
+        "addr:street": "calle diego de Merlo",
+        "name": "Comidas Magui",
+        "note": "Comidas para llevar",
+        "shop": "convenience",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-22T12:29:17Z",
+        "@version": "2",
+        "@changeset": "26950391",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847277,
+          37.3932377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199866037",
+      "properties": {
+        "@id": "node/3199866037",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "21",
+        "addr:postcode": "41003",
+        "addr:street": "calle salinas",
+        "name": "Esteban distribuciones",
+        "note": "Instrumentos musicales, accesorios para bandas",
+        "opening_hours": "Mo-Fr 10:00-13:00,17:30-21:30;Sa 10:00-13:30",
+        "phone": "954220967",
+        "shop": "music",
+        "website": "www.estebandistribuciones.es",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-22T12:42:56Z",
+        "@version": "1",
+        "@changeset": "26950679",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850657,
+          37.3933677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3199869896",
+      "properties": {
+        "@id": "node/3199869896",
+        "addr:city": "Sevilla / Casco Antiguo / San Bartolomé",
+        "addr:housenumber": "66",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Muro de los Navarros",
+        "name": "Casa tomada",
+        "shop": "books",
+        "website": "www.casastomada.es",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-22T13:02:57Z",
+        "@version": "2",
+        "@changeset": "26951139",
+        "@user": "LaTorpeda",
+        "@uid": "231942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9849852,
+          37.3925942
+        ]
+      }
+    }
+  ]
+}

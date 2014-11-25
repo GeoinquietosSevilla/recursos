@@ -1,0 +1,980 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:18:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1348488636",
+      "properties": {
+        "@id": "node/1348488636",
+        "amenity": "restaurant",
+        "name": "Horno las Doncellas",
+        "opening_hours": "Mo-Sa 06:45-15:30, 17:30-21:00",
+        "shop": "bakery",
+        "@timestamp": "2014-11-01T12:45:33Z",
+        "@version": "2",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9872096,
+          37.3861324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149496626",
+      "properties": {
+        "@id": "node/3149496626",
+        "addr:housenumber": "13",
+        "addr:street": "Pasaje de Vila",
+        "clothes": "women",
+        "email": "contact@lacotonniere.fr",
+        "name": "La Cotonniere",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "organic": "yes",
+        "shop": "clothes",
+        "website": "http://www.lacotonniere.fr",
+        "@timestamp": "2014-11-01T12:45:33Z",
+        "@version": "2",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.990081,
+          37.3858406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149522612",
+      "properties": {
+        "@id": "node/3149522612",
+        "addr:housenumber": "1 B",
+        "addr:street": "Pasaje de Andreu",
+        "email": "info@andalusiantaste.com",
+        "name": "Andalusian taste",
+        "phone": "+34 954211711",
+        "shop": "deli",
+        "website": "http://www.andalusiantaste.com",
+        "@timestamp": "2014-11-01T12:45:33Z",
+        "@version": "2",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9905281,
+          37.3856803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051616",
+      "properties": {
+        "@id": "node/3161051616",
+        "name": "Artesania Bonilla",
+        "opening_hours": "Mo-Sa 11:00-20:30",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902461,
+          37.3856668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051617",
+      "properties": {
+        "@id": "node/3161051617",
+        "name": "Artesanos en cuero",
+        "opening_hours": "Mo-Fr 10:00-22:00; Sa 10:00-14:00",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "shoes",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9864364,
+          37.3856644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051618",
+      "properties": {
+        "@id": "node/3161051618",
+        "name": "Artesanía Santa Teresa",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "gift",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892777,
+          37.3860403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051619",
+      "properties": {
+        "@id": "node/3161051619",
+        "name": "Añil",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "clothes",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9893575,
+          37.3860901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051620",
+      "properties": {
+        "@id": "node/3161051620",
+        "name": "Baraka",
+        "opening_hours": "Mo-Sa 17:30-20:30",
+        "shop": "bag",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9895803,
+          37.3858917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051621",
+      "properties": {
+        "@id": "node/3161051621",
+        "name": "Bordados Isabel",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994121,
+          37.3856282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051622",
+      "properties": {
+        "@id": "node/3161051622",
+        "name": "Ceramica Aida",
+        "opening_hours": "Mo-Fr 10:00-21:00",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9886764,
+          37.3863528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051623",
+      "properties": {
+        "@id": "node/3161051623",
+        "name": "Cerámicas Vida",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9903972,
+          37.3843579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051624",
+      "properties": {
+        "@id": "node/3161051624",
+        "contact:facebook": "lasmoradas-sevilla",
+        "email": "alicialasmoradas@gmail.com",
+        "name": "Cerámicas las Moradas",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "shop": "gift",
+        "website": "http://las-moradas-sevilla.blogspot.com.es",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9907463,
+          37.3849841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051625",
+      "properties": {
+        "@id": "node/3161051625",
+        "name": "Complementos la Carbona",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "shop": "gift",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9909928,
+          37.3852728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051626",
+      "properties": {
+        "@id": "node/3161051626",
+        "name": "El abanico",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "bag",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9896468,
+          37.3858645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051627",
+      "properties": {
+        "@id": "node/3161051627",
+        "name": "Félix Cartelismo",
+        "opening_hours": "Mo-Sa 10:00-14:00,15:00-20:30",
+        "shop": "copyshop",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994111,
+          37.3856656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051628",
+      "properties": {
+        "@id": "node/3161051628",
+        "name": "Herbolário y esencias de Sevilla",
+        "shop": "tea",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:31Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9909244,
+          37.3850531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051629",
+      "properties": {
+        "@id": "node/3161051629",
+        "name": "Inma de la Flor",
+        "opening_hours": "10:00-14:00,17:30-20:30",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "clothes",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9863697,
+          37.3856394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051630",
+      "properties": {
+        "@id": "node/3161051630",
+        "name": "Isabel Olivera",
+        "opening_hours": "Mo-Sa 11:00-21:00",
+        "shop": "gift",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9899228,
+          37.3858468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051631",
+      "properties": {
+        "@id": "node/3161051631",
+        "name": "La monería",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "shop": "gift",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9904171,
+          37.3847021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051632",
+      "properties": {
+        "@id": "node/3161051632",
+        "name": "Las BBB",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "shoes",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9870092,
+          37.3860267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051634",
+      "properties": {
+        "@id": "node/3161051634",
+        "name": "Luna Blanca",
+        "opening_hours": "Mo-Sa 11:00-20:30",
+        "organic": "yes",
+        "shop": "gift",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900937,
+          37.3856622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051635",
+      "properties": {
+        "@id": "node/3161051635",
+        "contact:facebook": "lunaresevilla",
+        "email": "tienda@lunaresevilla.com",
+        "name": "Lunares",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "gift",
+        "website": "http://www.lunaresevilla.com/",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897736,
+          37.3860879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051636",
+      "properties": {
+        "@id": "node/3161051636",
+        "name": "Marco Polo",
+        "opening_hours": "Mo-Sa 11:00-20:30",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9903559,
+          37.3857166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051637",
+      "properties": {
+        "@id": "node/3161051637",
+        "name": "Regalos avenida",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9941181,
+          37.3855942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051638",
+      "properties": {
+        "@id": "node/3161051638",
+        "name": "Rey de Luna",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99043,
+          37.3845232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051639",
+      "properties": {
+        "@id": "node/3161051639",
+        "name": "Salt and Sugar",
+        "opening_hours": "Mo-Fr 08:30-14:30, Sa 09:00-21:00",
+        "shop": "tea",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9894453,
+          37.3859637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051640",
+      "properties": {
+        "@id": "node/3161051640",
+        "contact:facebook": "sangrespanola",
+        "email": "sangrespanolafashion@gmail.com",
+        "name": "Sangre española",
+        "opening_hours": "Mo-Sa 09:30-22:00",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "clothes",
+        "website": "http://www.sangrespanola.com",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892406,
+          37.3859045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051641",
+      "properties": {
+        "@id": "node/3161051641",
+        "name": "Sevilla Arte - Las cadenas",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "shop": "gift",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9903345,
+          37.3843421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3161051642",
+      "properties": {
+        "@id": "node/3161051642",
+        "name": "Tienda Plata",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "shop": "jewelry",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-01T12:45:32Z",
+        "@version": "1",
+        "@changeset": "26480847",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9905753,
+          37.3856724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416885",
+      "properties": {
+        "@id": "node/3164416885",
+        "name": "Caballeros",
+        "opening_hours": "Mo-Fr 09:00-14:00, 17:00-21:00; Sa 09:00-14:00",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-03T12:45:15Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9868231,
+          37.3859956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416886",
+      "properties": {
+        "@id": "node/3164416886",
+        "name": "Cuchilleria Ferretería",
+        "shop": "hardware",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:15Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879089,
+          37.3868108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416887",
+      "properties": {
+        "@id": "node/3164416887",
+        "name": "El rincón de leiho",
+        "shop": "interior_decoration",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:15Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882623,
+          37.3875082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416888",
+      "properties": {
+        "@id": "node/3164416888",
+        "name": "Imprenta Suárez",
+        "shop": "copyshop",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883364,
+          37.3875852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416889",
+      "properties": {
+        "@id": "node/3164416889",
+        "name": "Interiorismo Concha Núñez",
+        "shop": "interior_decoration",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882994,
+          37.3871595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416890",
+      "properties": {
+        "@id": "node/3164416890",
+        "name": "Los angelitos",
+        "opening_hours": "Mo-Sa 06:45-22:00",
+        "shop": "bakery",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9871395,
+          37.3862651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416891",
+      "properties": {
+        "@id": "node/3164416891",
+        "name": "Los caminos",
+        "shop": "curtain",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9925926,
+          37.3887835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416892",
+      "properties": {
+        "@id": "node/3164416892",
+        "contact:email": "ventas@juanforonda.com",
+        "contact:phone": "95 4228467",
+        "contact:website": "http://www.juanforonda.com",
+        "name": "Mantones Bordados Juan Foronda",
+        "opening_hours": "Mo-Sa 10:00-13:30, 16:30-20:30",
+        "shop": "curtain",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9916494,
+          37.387935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416893",
+      "properties": {
+        "@id": "node/3164416893",
+        "contact:email": "oleotecasevilla@gmail.com",
+        "contact:phone": "95 5063536",
+        "contact:website": "http://www.lachinata.es",
+        "name": "Oleoteca Gourmet",
+        "shop": "deli",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9926525,
+          37.3886839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416894",
+      "properties": {
+        "@id": "node/3164416894",
+        "name": "Platería",
+        "shop": "jewelry",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.986239,
+          37.3857558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416895",
+      "properties": {
+        "@id": "node/3164416895",
+        "contact:email": "sangrespanolafashion@gmail.com",
+        "contact:facebook": "sangrespanola",
+        "contact:phone": "95 4535551",
+        "name": "Sangrespañola",
+        "opening_hours": "Mo-Sa 09:30-22:00",
+        "organic": "no",
+        "second_hand": "no",
+        "shop": "clothes",
+        "website": "http://www.sangrespanola.com",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9863297,
+          37.3857878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3164416896",
+      "properties": {
+        "@id": "node/3164416896",
+        "name": "Velasco",
+        "shop": "curtain",
+        "wheelchair": "limited",
+        "@timestamp": "2014-11-03T12:45:16Z",
+        "@version": "1",
+        "@changeset": "26524863",
+        "@user": "Kike-SUGUS",
+        "@uid": "2428958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9927636,
+          37.3886137
+        ]
+      }
+    }
+  ]
+}

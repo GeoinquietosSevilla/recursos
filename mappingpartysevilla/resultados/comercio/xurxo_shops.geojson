@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1133003359",
+      "properties": {
+        "@id": "node/1133003359",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "8",
+        "addr:street": "Calle Arjona",
+        "email": "info@suraventurabikes.es",
+        "name": "Suraventura Bicycles",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00",
+        "phone": "954560095",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://suraventurabikes.es/",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-04T19:26:23Z",
+        "@version": "3",
+        "@changeset": "26555892",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0025599,
+          37.3890838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167142396",
+      "properties": {
+        "@id": "node/3167142396",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "8",
+        "addr:street": "Calle Arjona",
+        "name": "Mak in Line",
+        "opening_hours": "Mo-Fr 10:30-14:00,17:00-21:00; Sa 10:30-14:00",
+        "shop": "sports",
+        "website": "http://www.makinline.com/",
+        "@timestamp": "2014-11-04T19:26:22Z",
+        "@version": "1",
+        "@changeset": "26555892",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0026039,
+          37.3892463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167142397",
+      "properties": {
+        "@id": "node/3167142397",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "8",
+        "addr:street": "Calle Arjona",
+        "name": "Mecánica Express",
+        "opening_hours": "Mo-Fr 09:00-14:00,16:00-19:30; Sa 09:00-12:00",
+        "phone": "954217557",
+        "shop": "car_repair",
+        "website": "http://firststop.es",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-04T19:26:23Z",
+        "@version": "1",
+        "@changeset": "26555892",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0025795,
+          37.3891598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167142398",
+      "properties": {
+        "@id": "node/3167142398",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "10",
+        "addr:street": "Calle Arjona",
+        "name": "Sesentainueve",
+        "opening_hours": "Mo-Fr 11:00-14:00,17:00-21:00; Sa 11:00-14:00",
+        "shop": "tattoo",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-04T20:39:23Z",
+        "@version": "2",
+        "@changeset": "26557489",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024817,
+          37.3888231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167302362",
+      "properties": {
+        "@id": "node/3167302362",
+        "name": "La Barbería",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00",
+        "phone": "636077886",
+        "shop": "furniture",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-04T20:32:08Z",
+        "@version": "1",
+        "@changeset": "26557334",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0023682,
+          37.3883835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167302363",
+      "properties": {
+        "@id": "node/3167302363",
+        "name": "MALPESA",
+        "shop": "trade",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-04T20:32:08Z",
+        "@version": "1",
+        "@changeset": "26557334",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0026191,
+          37.3885216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167302364",
+      "properties": {
+        "@id": "node/3167302364",
+        "name": "Pilar Pacheco",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "671637980",
+        "shop": "hairdresser",
+        "@timestamp": "2014-11-04T20:32:08Z",
+        "@version": "1",
+        "@changeset": "26557334",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0027413,
+          37.3883719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3167302366",
+      "properties": {
+        "@id": "node/3167302366",
+        "name": "Ánforas",
+        "opening_hours": "Mo-Fr 09:00-14:00,17:00-20:30; Sa 09:00-14:00",
+        "phone": "954212921",
+        "shop": "florist",
+        "website": "http://www.floristeria-anforas.com",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-04T20:32:08Z",
+        "@version": "1",
+        "@changeset": "26557334",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024709,
+          37.3884189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3169070576",
+      "properties": {
+        "@id": "node/3169070576",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "8",
+        "addr:street": "Calle Arjona",
+        "brand": "Jimenez Maña",
+        "email": "arjona@jimenezmana.es",
+        "fax": "954 212 702",
+        "name": "Jimenez Maña recambios",
+        "phone": "954 223 400",
+        "shop": "car_parts",
+        "website": "http://www.jimenezmana.es/public/puntos_ventas_AD.php?s_provincia=Sevilla&centrosPage=3",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-05T19:31:15Z",
+        "@version": "1",
+        "@changeset": "26578491",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.002651,
+          37.3894075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3169070577",
+      "properties": {
+        "@id": "node/3169070577",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "6",
+        "addr:street": "Calle Benidorm",
+        "email": "contacto@runningway.com",
+        "name": "Runningway",
+        "opening_hours": "Mo-Fr 10:30-14:00,17:30-20:30; Sa 10:00-14:00",
+        "phone": "954 227 992",
+        "shop": "sports",
+        "website": "http://www.runningway.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-05T19:31:16Z",
+        "@version": "1",
+        "@changeset": "26578491",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0027691,
+          37.3895169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442325",
+      "properties": {
+        "@id": "node/3177442325",
+        "name": "Dos Dieciseis",
+        "opening_hours": "Mo-Sa 10:00-14:00,17:00-21:00",
+        "shop": "toys",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-11T19:29:32Z",
+        "@version": "2",
+        "@changeset": "26719908",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024696,
+          37.3902387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442327",
+      "properties": {
+        "@id": "node/3177442327",
+        "contact:phone": "954564552",
+        "name": "Impact Sea",
+        "opening_hours": "Mo-Sa 10:00-14:15,17:00-21:00",
+        "shop": "sports",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-11T19:29:33Z",
+        "@version": "2",
+        "@changeset": "26719908",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024397,
+          37.3901124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442330",
+      "properties": {
+        "@id": "node/3177442330",
+        "addr:housenumber": "3",
+        "addr:street": "Calle Arjona",
+        "contact:email": "danielgvictorio@gmail.com",
+        "contact:phone": "954908799",
+        "name": "Romdan Victorio",
+        "opening_hours": "Mo-Fr 10:45-19:30; Sa 10:00-14:00",
+        "shop": "hairdresser",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-11T19:29:33Z",
+        "@version": "2",
+        "@changeset": "26719908",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0025367,
+          37.3904969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181533752",
+      "properties": {
+        "@id": "node/3181533752",
+        "name": "Alcazola",
+        "shop": "stationery",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-12T18:50:09Z",
+        "@version": "2",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0028274,
+          37.3899813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181533753",
+      "properties": {
+        "@id": "node/3181533753",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "4",
+        "addr:street": "Calle Arjona",
+        "email": "nani63@hotmail.com",
+        "name": "El templo del hogar",
+        "opening_hours": "Mo-Sa 10:00-14:00,17:30-20:30; Su 10:00-14:00",
+        "phone": "955 517 524",
+        "shop": "furniture",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-12T18:50:09Z",
+        "@version": "2",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0027428,
+          37.389686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181533754",
+      "properties": {
+        "@id": "node/3181533754",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "6",
+        "addr:street": "Calle Arjona",
+        "email": "agminiaturas@terra.com",
+        "name": "Ensueño",
+        "opening_hours": "Mo-Fr 08:00-15:30,17:00-21:00; Sa,Su 09:00-19:00",
+        "phone": "954217889",
+        "shop": "fabric",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-12T18:50:09Z",
+        "@version": "2",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0027168,
+          37.3895921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181533755",
+      "properties": {
+        "@id": "node/3181533755",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "4",
+        "addr:street": "Calle Arjona",
+        "name": "The Room",
+        "opening_hours": "Mo-Sa 10:30-14:00,17:30-21:00; Su 10:30-14:00",
+        "shop": "sports",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-12T18:50:09Z",
+        "@version": "2",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0027689,
+          37.3897893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3183265848",
+      "properties": {
+        "@id": "node/3183265848",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "1",
+        "addr:street": "Avenida del Cristo de la Expiración",
+        "name": "Gremicentro",
+        "opening_hours": "Mo-Fr 09:30-14:00,16:30-20:00; Sa 10:00-14:00",
+        "phone": "955708840",
+        "shop": "chemist",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-12T18:50:08Z",
+        "@version": "1",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0033663,
+          37.3903511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3183265850",
+      "properties": {
+        "@id": "node/3183265850",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "1",
+        "addr:street": "Avenida del Cristo de la Expiración",
+        "name": "Macron",
+        "shop": "sports",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-12T18:50:08Z",
+        "@version": "1",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0032609,
+          37.390366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3183265851",
+      "properties": {
+        "@id": "node/3183265851",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "2",
+        "addr:street": "Calle Arjona",
+        "email": "info@ruachaque.es",
+        "name": "Rua Chaques",
+        "opening_hours": "Mo-Fr 10:00-13:00,16:00-20:30",
+        "phone": "954 210 605",
+        "shop": "tailor",
+        "website": "http://www.ruachaque.es/",
+        "wheelchair": "yes",
+        "@timestamp": "2014-11-12T18:50:08Z",
+        "@version": "1",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0028458,
+          37.3900756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3183265852",
+      "properties": {
+        "@id": "node/3183265852",
+        "shop": "kiosk",
+        "@timestamp": "2014-11-12T18:50:08Z",
+        "@version": "1",
+        "@changeset": "26741623",
+        "@user": "XuRxO",
+        "@uid": "13409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0029688,
+          37.390405
+        ]
+      }
+    }
+  ]
+}

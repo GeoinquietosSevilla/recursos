@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:15:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3177442322",
+      "properties": {
+        "@id": "node/3177442322",
+        "name": "Arjona",
+        "shop": "chemist",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-09T18:09:40Z",
+        "@version": "1",
+        "@changeset": "26670189",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024995,
+          37.3903963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442323",
+      "properties": {
+        "@id": "node/3177442323",
+        "name": "Casa del labrador y ganadero",
+        "opening_hours": "09:00-14:00,17:00-20:30;9:00-13:30",
+        "shop": "garden_centre",
+        "@timestamp": "2014-11-09T18:09:40Z",
+        "@version": "1",
+        "@changeset": "26670189",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0023375,
+          37.3906402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442326",
+      "properties": {
+        "@id": "node/3177442326",
+        "name": "Grupo Hércules",
+        "shop": "copyshop",
+        "@timestamp": "2014-11-09T18:09:40Z",
+        "@version": "1",
+        "@changeset": "26670189",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0033113,
+          37.3890149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442328",
+      "properties": {
+        "@id": "node/3177442328",
+        "name": "La Parra",
+        "opening_hours": "Mo-Fr 08:00-15:15,18:00-20:45; Sa 08:15-15:15",
+        "shop": "bakery",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-09T18:09:41Z",
+        "@version": "1",
+        "@changeset": "26670189",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024602,
+          37.3901649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442329",
+      "properties": {
+        "@id": "node/3177442329",
+        "name": "New York Style",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-09T18:09:41Z",
+        "@version": "1",
+        "@changeset": "26670189",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0023878,
+          37.3899748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442333",
+      "properties": {
+        "@id": "node/3177442333",
+        "shop": "lottery",
+        "@timestamp": "2014-11-09T18:09:41Z",
+        "@version": "1",
+        "@changeset": "26670189",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024677,
+          37.3907401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3194355622",
+      "properties": {
+        "@id": "node/3194355622",
+        "name": "Arjona",
+        "opening_hours": "Mo-Fr 08:00-15:00,18:00-20:30; Sa,Su 08:30-15:00",
+        "shop": "stationery",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-18T19:32:04Z",
+        "@version": "1",
+        "@changeset": "26871698",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0022478,
+          37.3894595
+        ]
+      }
+    }
+  ]
+}

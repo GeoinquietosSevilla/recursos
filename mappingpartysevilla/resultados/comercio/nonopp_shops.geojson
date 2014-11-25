@@ -1,0 +1,1912 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:11:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/366537036",
+      "properties": {
+        "@id": "node/366537036",
+        "addr:country": "ES",
+        "is_in:country": "Spain",
+        "name": "Confitería La Campana",
+        "opening_hours": "10:00-22:00",
+        "shop": "bakery",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "6",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994848,
+          37.3925807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1319842006",
+      "properties": {
+        "@id": "node/1319842006",
+        "name": "El búcaro",
+        "shop": "florist",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:15:58Z",
+        "@version": "5",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9999403,
+          37.3932086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1319844653",
+      "properties": {
+        "@id": "node/1319844653",
+        "name": "Carnicería Fali",
+        "shop": "butcher",
+        "@timestamp": "2014-10-26T22:07:32Z",
+        "@version": "4",
+        "@changeset": "26351657",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.000874,
+          37.3933244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537230646",
+      "properties": {
+        "@id": "node/1537230646",
+        "name": "Pescaderia Alfonso XII",
+        "shop": "seafood",
+        "@timestamp": "2014-10-26T22:07:32Z",
+        "@version": "2",
+        "@changeset": "26351657",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0007695,
+          37.3933265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537230740",
+      "properties": {
+        "@id": "node/1537230740",
+        "name": "Prensa la Campana",
+        "shop": "newsagent",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "4",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9949273,
+          37.3926558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1757029797",
+      "properties": {
+        "@id": "node/1757029797",
+        "name": "brillante",
+        "shop": "convenience",
+        "@timestamp": "2014-10-25T17:15:58Z",
+        "@version": "2",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985274,
+          37.3929142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1757029800",
+      "properties": {
+        "@id": "node/1757029800",
+        "name": "Chino",
+        "shop": "convenience",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:54:27Z",
+        "@version": "2",
+        "@changeset": "26325461",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9983995,
+          37.392905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1905511436",
+      "properties": {
+        "@id": "node/1905511436",
+        "name": "Calzedonia",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "2",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9950519,
+          37.3925566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029878255",
+      "properties": {
+        "@id": "node/2029878255",
+        "name": "viajes Foster",
+        "shop": "travel_agency",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T17:15:58Z",
+        "@version": "2",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9991506,
+          37.3929559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149264563",
+      "properties": {
+        "@id": "node/3149264563",
+        "clothes": "men",
+        "name": "Vertice",
+        "opening_hours": "10:00-13:00,17:30-20:30",
+        "shop": "clothes",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:36:10Z",
+        "@version": "3",
+        "@changeset": "26325086",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.994587,
+          37.3926705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342577",
+      "properties": {
+        "@id": "node/3149342577",
+        "clothes": "women",
+        "name": "DayADay",
+        "shop": "clothes",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9956521,
+          37.3925179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342580",
+      "properties": {
+        "@id": "node/3149342580",
+        "name": "Markade",
+        "shop": "boutique",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9957039,
+          37.3924923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342581",
+      "properties": {
+        "@id": "node/3149342581",
+        "name": "Nicolás",
+        "opening_hours": "10:00-21:00",
+        "shop": "shoes",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9954948,
+          37.3924937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342582",
+      "properties": {
+        "@id": "node/3149342582",
+        "name": "Orange",
+        "shop": "mobile_phone",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9962097,
+          37.3928374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342583",
+      "properties": {
+        "@id": "node/3149342583",
+        "name": "Orobriz",
+        "shop": "jewelry",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9961838,
+          37.3926606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342584",
+      "properties": {
+        "@id": "node/3149342584",
+        "name": "Pilar Burgos",
+        "opening_hours": "10:00-22:00",
+        "shop": "shoes",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9949658,
+          37.3925378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342585",
+      "properties": {
+        "@id": "node/3149342585",
+        "clothes": "women",
+        "name": "Punto Roma",
+        "shop": "clothes",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9963536,
+          37.3926705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342586",
+      "properties": {
+        "@id": "node/3149342586",
+        "name": "Tiger",
+        "shop": "variety_store",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9955931,
+          37.3924703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342587",
+      "properties": {
+        "@id": "node/3149342587",
+        "name": "WikiSmoke",
+        "opening_hours": "10:00-22:00",
+        "shop": "e-cigarette",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9956128,
+          37.3925328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149342588",
+      "properties": {
+        "@id": "node/3149342588",
+        "shop": "vacant",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:10:24Z",
+        "@version": "1",
+        "@changeset": "26324550",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9956235,
+          37.3924604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374464",
+      "properties": {
+        "@id": "node/3149374464",
+        "name": "Elena Prado",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:54:27Z",
+        "@version": "2",
+        "@changeset": "26325461",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9977324,
+          37.3930511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374465",
+      "properties": {
+        "@id": "node/3149374465",
+        "name": "Juan Delgado",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:54:27Z",
+        "@version": "2",
+        "@changeset": "26325461",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9977145,
+          37.3932477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374466",
+      "properties": {
+        "@id": "node/3149374466",
+        "clothes": "women",
+        "name": "Kahyra",
+        "shop": "clothes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:36:09Z",
+        "@version": "1",
+        "@changeset": "26325086",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9972168,
+          37.3927827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374467",
+      "properties": {
+        "@id": "node/3149374467",
+        "name": "Moda Lifa",
+        "shop": "clothes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:36:10Z",
+        "@version": "1",
+        "@changeset": "26325086",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9976341,
+          37.3928317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374468",
+      "properties": {
+        "@id": "node/3149374468",
+        "name": "Peluquería Eladio",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T16:54:27Z",
+        "@version": "2",
+        "@changeset": "26325461",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.997719,
+          37.3931597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374469",
+      "properties": {
+        "@id": "node/3149374469",
+        "clothes": "women",
+        "name": "Sevilla Woman",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T16:36:10Z",
+        "@version": "1",
+        "@changeset": "26325086",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9971444,
+          37.3927763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374470",
+      "properties": {
+        "@id": "node/3149374470",
+        "clothes": "women",
+        "name": "dh",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T16:36:10Z",
+        "@version": "1",
+        "@changeset": "26325086",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9970926,
+          37.3927735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149374471",
+      "properties": {
+        "@id": "node/3149374471",
+        "shop": "vacant",
+        "@timestamp": "2014-10-25T16:36:10Z",
+        "@version": "1",
+        "@changeset": "26325086",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9970113,
+          37.3927635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399836",
+      "properties": {
+        "@id": "node/3149399836",
+        "clothes": "women",
+        "name": "Babylonia",
+        "shop": "clothes",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T16:54:27Z",
+        "@version": "1",
+        "@changeset": "26325461",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9980997,
+          37.3928892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399838",
+      "properties": {
+        "@id": "node/3149399838",
+        "name": "Polvillo",
+        "opening_hours": "7:00-16:00",
+        "shop": "bakery",
+        "@timestamp": "2014-10-25T16:54:27Z",
+        "@version": "1",
+        "@changeset": "26325461",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985054,
+          37.3930042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436817",
+      "properties": {
+        "@id": "node/3149436817",
+        "name": "Antigüedades el Museo",
+        "shop": "antiques",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992363,
+          37.3928068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436819",
+      "properties": {
+        "@id": "node/3149436819",
+        "name": "Collection",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9988878,
+          37.3929495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436820",
+      "properties": {
+        "@id": "node/3149436820",
+        "name": "Droguería Puerta Real",
+        "shop": "houseware",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:21:23Z",
+        "@version": "2",
+        "@changeset": "26326070",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0002577,
+          37.3932527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436821",
+      "properties": {
+        "@id": "node/3149436821",
+        "name": "Ecoturismo",
+        "shop": "ticket",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9989557,
+          37.3929581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436822",
+      "properties": {
+        "@id": "node/3149436822",
+        "name": "Lebrón",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9986501,
+          37.3930198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436823",
+      "properties": {
+        "@id": "node/3149436823",
+        "clothes": "hats",
+        "name": "Reyes Hellin",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9998449,
+          37.3931923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436824",
+      "properties": {
+        "@id": "node/3149436824",
+        "shop": "vacant",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992962,
+          37.392258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436825",
+      "properties": {
+        "@id": "node/3149436825",
+        "shop": "vacant",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992193,
+          37.3928885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436826",
+      "properties": {
+        "@id": "node/3149436826",
+        "shop": "vacant",
+        "@timestamp": "2014-10-25T17:15:57Z",
+        "@version": "1",
+        "@changeset": "26325929",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9996411,
+          37.3931476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149445191",
+      "properties": {
+        "@id": "node/3149445191",
+        "name": "El Cuadro",
+        "shop": "antiques",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:21:23Z",
+        "@version": "1",
+        "@changeset": "26326070",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006428,
+          37.3933031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527760",
+      "properties": {
+        "@id": "node/3149527760",
+        "name": "Carpinteria M. Bobo Perez",
+        "shop": "furniture",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9996985,
+          37.3936523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527762",
+      "properties": {
+        "@id": "node/3149527762",
+        "name": "Cosmeceutical",
+        "shop": "chemist",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9996296,
+          37.3941741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527765",
+      "properties": {
+        "@id": "node/3149527765",
+        "name": "Galería San Vicente 31",
+        "shop": "art",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9994348,
+          37.3953409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527766",
+      "properties": {
+        "@id": "node/3149527766",
+        "name": "La Gallina Clueca",
+        "shop": "organic",
+        "website": "http://www.lagallinaclueca.es",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9990193,
+          37.3934811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527767",
+      "properties": {
+        "@id": "node/3149527767",
+        "name": "La Saika",
+        "service": "repair",
+        "shop": "bicycle",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9994779,
+          37.3950903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527768",
+      "properties": {
+        "@id": "node/3149527768",
+        "clothes": "babies",
+        "name": "M2A",
+        "shop": "clothes",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0000967,
+          37.3954313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527769",
+      "properties": {
+        "@id": "node/3149527769",
+        "name": "Sha Long",
+        "shop": "convenience",
+        "@timestamp": "2014-10-25T18:03:25Z",
+        "@version": "1",
+        "@changeset": "26326871",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9993089,
+          37.3953272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149527771",
+      "properties": {
+        "@id": "node/3149527771",
+        "craft": "glaziery",
+        "name": "venta y reparacion de lámparas cristal",
+        "shop": "furniture",
+        "@timestamp": "2014-10-26T22:07:33Z",
+        "@version": "2",
+        "@changeset": "26351657",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.999664,
+          37.3953793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151701205",
+      "properties": {
+        "@id": "node/3151701205",
+        "clothes": "women",
+        "name": "EX.PRO.IM.JUSA",
+        "shop": "clothes",
+        "@timestamp": "2014-10-26T22:07:32Z",
+        "@version": "1",
+        "@changeset": "26351657",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0008896,
+          37.3932083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151732708",
+      "properties": {
+        "@id": "node/3151732708",
+        "name": "Casa Antonio",
+        "shop": "convenience",
+        "@timestamp": "2014-10-26T22:32:55Z",
+        "@version": "1",
+        "@changeset": "26352045",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0012584,
+          37.3932669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151732709",
+      "properties": {
+        "@id": "node/3151732709",
+        "name": "Compro Oro",
+        "shop": "pawnbroker",
+        "@timestamp": "2014-10-26T22:32:55Z",
+        "@version": "1",
+        "@changeset": "26352045",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0011732,
+          37.3932448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151732710",
+      "properties": {
+        "@id": "node/3151732710",
+        "name": "Papelería Alfonso XII",
+        "shop": "copyshop",
+        "@timestamp": "2014-10-26T22:32:55Z",
+        "@version": "1",
+        "@changeset": "26352045",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0011683,
+          37.3933529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151732711",
+      "properties": {
+        "@id": "node/3151732711",
+        "shop": "tobacco",
+        "@timestamp": "2014-10-26T22:32:55Z",
+        "@version": "1",
+        "@changeset": "26352045",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0013716,
+          37.3932891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153212741",
+      "properties": {
+        "@id": "node/3153212741",
+        "name": "Puro Acero",
+        "shop": "interior_decoration",
+        "@timestamp": "2014-10-27T20:23:48Z",
+        "@version": "1",
+        "@changeset": "26373068",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0012264,
+          37.3933525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153212744",
+      "properties": {
+        "@id": "node/3153212744",
+        "name": "Galeria de arte CAVECANEM",
+        "shop": "art",
+        "@timestamp": "2014-10-27T20:23:48Z",
+        "@version": "1",
+        "@changeset": "26373068",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0014869,
+          37.3938093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153212745",
+      "properties": {
+        "@id": "node/3153212745",
+        "name": "Tu Mascota",
+        "shop": "pet",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "2",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0015621,
+          37.3940559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295886",
+      "properties": {
+        "@id": "node/3153295886",
+        "shop": "vacant",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006999,
+          37.3964056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295887",
+      "properties": {
+        "@id": "node/3153295887",
+        "shop": "vacant",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006972,
+          37.3966082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295888",
+      "properties": {
+        "@id": "node/3153295888",
+        "shop": "greengrocer",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.001491,
+          37.3941472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295889",
+      "properties": {
+        "@id": "node/3153295889",
+        "name": "Supermrecados Mas",
+        "shop": "supermarket",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0013408,
+          37.3947584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295890",
+      "properties": {
+        "@id": "node/3153295890",
+        "name": "Alimentación La Coriana",
+        "shop": "convenience",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0010567,
+          37.3957558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295891",
+      "properties": {
+        "@id": "node/3153295891",
+        "name": "Prensa Baños",
+        "shop": "newsagent",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006275,
+          37.3955001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295892",
+      "properties": {
+        "@id": "node/3153295892",
+        "name": "Armonia",
+        "shop": "hairdresser",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0012498,
+          37.3946499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153295893",
+      "properties": {
+        "@id": "node/3153295893",
+        "name": "CRQ",
+        "shop": "hairdresser",
+        "@timestamp": "2014-10-27T21:03:06Z",
+        "@version": "1",
+        "@changeset": "26374252",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0002976,
+          37.3954574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3156620764",
+      "properties": {
+        "@id": "node/3156620764",
+        "shop": "newsagent",
+        "@timestamp": "2014-10-29T18:43:05Z",
+        "@version": "1",
+        "@changeset": "26419080",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878683,
+          37.3963121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3156620765",
+      "properties": {
+        "@id": "node/3156620765",
+        "name": "Frutas Chari",
+        "shop": "greengrocer",
+        "@timestamp": "2014-10-29T18:43:05Z",
+        "@version": "1",
+        "@changeset": "26419080",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879273,
+          37.3961182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3156620766",
+      "properties": {
+        "@id": "node/3156620766",
+        "name": "droguería San Marcos",
+        "shop": "hardware",
+        "@timestamp": "2014-10-29T18:43:05Z",
+        "@version": "1",
+        "@changeset": "26419080",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879219,
+          37.3960798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3156620767",
+      "properties": {
+        "@id": "node/3156620767",
+        "shop": "convenience",
+        "@timestamp": "2014-10-29T18:43:05Z",
+        "@version": "1",
+        "@changeset": "26419080",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878683,
+          37.3963846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390799",
+      "properties": {
+        "@id": "node/3163390799",
+        "name": "estanco",
+        "shop": "tobacco",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0011802,
+          37.3971603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390801",
+      "properties": {
+        "@id": "node/3163390801",
+        "name": "Supersol",
+        "shop": "supermarket",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9979908,
+          37.3979165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390802",
+      "properties": {
+        "@id": "node/3163390802",
+        "name": "Bicicletas Clemente",
+        "shop": "bicycle",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.000783,
+          37.3977013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390803",
+      "properties": {
+        "@id": "node/3163390803",
+        "shop": "vacant",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006489,
+          37.3978824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390807",
+      "properties": {
+        "@id": "node/3163390807",
+        "name": "Panaderia",
+        "shop": "bakery",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0005901,
+          37.3969898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390808",
+      "properties": {
+        "@id": "node/3163390808",
+        "name": "Cerrajeria La Seguridad",
+        "shop": "locksmith",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0010998,
+          37.3972754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390809",
+      "properties": {
+        "@id": "node/3163390809",
+        "name": "JR Neumaticos",
+        "shop": "car_repair",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0026927,
+          37.3945477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390810",
+      "properties": {
+        "@id": "node/3163390810",
+        "name": "La tienda de Torneo",
+        "shop": "convenience",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0026981,
+          37.3946799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390811",
+      "properties": {
+        "@id": "node/3163390811",
+        "name": "Funeraria Los Ángeles",
+        "shop": "funeral_directors",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0009761,
+          37.397435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390812",
+      "properties": {
+        "@id": "node/3163390812",
+        "name": "Confiteria San Antonio",
+        "shop": "bakery",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.998259,
+          37.3978739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390813",
+      "properties": {
+        "@id": "node/3163390813",
+        "name": "Motos Distribuidora Torneo",
+        "shop": "motorcycle",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0026605,
+          37.3941577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390815",
+      "properties": {
+        "@id": "node/3163390815",
+        "shop": "vacant",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0026257,
+          37.3938914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390817",
+      "properties": {
+        "@id": "node/3163390817",
+        "name": "Salon PinUp",
+        "shop": "hairdresser",
+        "@timestamp": "2014-11-02T19:02:29Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006384,
+          37.3968106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390818",
+      "properties": {
+        "@id": "node/3163390818",
+        "name": "chucherias",
+        "shop": "confectionery",
+        "@timestamp": "2014-11-02T19:02:30Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9988572,
+          37.398724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163390819",
+      "properties": {
+        "@id": "node/3163390819",
+        "name": "Prensa",
+        "shop": "newsagent",
+        "@timestamp": "2014-11-02T19:02:30Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9990798,
+          37.3980124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163410283",
+      "properties": {
+        "@id": "node/3163410283",
+        "name": "La tiendecita",
+        "shop": "convenience",
+        "@timestamp": "2014-11-02T19:13:21Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9976985,
+          37.3972965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163410284",
+      "properties": {
+        "@id": "node/3163410284",
+        "name": "Peluqueria del Valle",
+        "shop": "hairdresser",
+        "@timestamp": "2014-11-02T19:13:21Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9977733,
+          37.3972111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163410285",
+      "properties": {
+        "@id": "node/3163410285",
+        "shop": "convenience",
+        "@timestamp": "2014-11-02T19:13:21Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9980552,
+          37.3971772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163410286",
+      "properties": {
+        "@id": "node/3163410286",
+        "name": "Casa Pepe",
+        "shop": "convenience",
+        "@timestamp": "2014-11-02T19:13:21Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978326,
+          37.3972241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163410288",
+      "properties": {
+        "@id": "node/3163410288",
+        "name": "Peluqueria Teodosio",
+        "shop": "hairdresser",
+        "@timestamp": "2014-11-02T19:13:21Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9977174,
+          37.397247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3163410289",
+      "properties": {
+        "@id": "node/3163410289",
+        "name": "Muebles San Lorenzo",
+        "shop": "furniture",
+        "@timestamp": "2014-11-02T19:13:21Z",
+        "@version": "1",
+        "@changeset": "26510622",
+        "@user": "nonopp",
+        "@uid": "291857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9975965,
+          37.3971793
+        ]
+      }
+    }
+  ]
+}

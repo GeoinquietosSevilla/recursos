@@ -1,0 +1,548 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:16:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/993711712",
+      "properties": {
+        "@id": "node/993711712",
+        "opening_hours": "Lu-Sa 10:30-14:00; Lu-Vi 17:30-20:30",
+        "operator": "Valle de Orosierra",
+        "shop": "butcher",
+        "website": "http://www.orosierra.com/",
+        "@timestamp": "2014-10-30T11:05:18Z",
+        "@version": "3",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9855208,
+          37.3994947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329560083",
+      "properties": {
+        "@id": "node/1329560083",
+        "addr:country": "ES",
+        "is_in:country": "Spain",
+        "name": "Panadería",
+        "shop": "bakery",
+        "@timestamp": "2014-10-30T11:05:18Z",
+        "@version": "4",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879095,
+          37.3962513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329560091",
+      "properties": {
+        "@id": "node/1329560091",
+        "name": "Floristería",
+        "shop": "florist",
+        "@timestamp": "2014-10-30T11:05:18Z",
+        "@version": "2",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879889,
+          37.3960141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719308",
+      "properties": {
+        "@id": "node/3157719308",
+        "name": "Aintas",
+        "opening_hours": "Mo-Fr",
+        "shop": "hairdresser",
+        "@timestamp": "2014-10-30T11:05:16Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9821472,
+          37.3981215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719309",
+      "properties": {
+        "@id": "node/3157719309",
+        "name": "Artesanía Religiosa San Julián",
+        "shop": "antiques",
+        "@timestamp": "2014-10-30T11:05:16Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9826583,
+          37.3978219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719312",
+      "properties": {
+        "@id": "node/3157719312",
+        "name": "Casa Cornelio",
+        "shop": "alcohol",
+        "@timestamp": "2014-10-30T11:05:16Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9841693,
+          37.3974454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719318",
+      "properties": {
+        "@id": "node/3157719318",
+        "name": "Estación Cadeaux",
+        "shop": "stationery",
+        "@timestamp": "2014-10-30T11:05:16Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848331,
+          37.3991759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719320",
+      "properties": {
+        "@id": "node/3157719320",
+        "name": "Fotodepilación American Secrets",
+        "shop": "beauty",
+        "@timestamp": "2014-10-30T11:05:16Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9835891,
+          37.3990137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719323",
+      "properties": {
+        "@id": "node/3157719323",
+        "name": "La Quenelle",
+        "shop": "bakery",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9849841,
+          37.399038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719324",
+      "properties": {
+        "@id": "node/3157719324",
+        "name": "La Ronda",
+        "opening_hours": "Mo-Fr",
+        "shop": "tyres",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9837654,
+          37.399199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719325",
+      "properties": {
+        "@id": "node/3157719325",
+        "name": "La Segunda Vera",
+        "shop": "dry_cleaning",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9822693,
+          37.398073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719326",
+      "properties": {
+        "@id": "node/3157719326",
+        "name": "Las mil y una cosas",
+        "shop": "variety_store",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850094,
+          37.3992165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719328",
+      "properties": {
+        "@id": "node/3157719328",
+        "name": "Luisa Zavalón",
+        "shop": "hairdresser",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9834636,
+          37.3992079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719331",
+      "properties": {
+        "@id": "node/3157719331",
+        "name": "Nuño",
+        "opening_hours": "10:00-14:00,18:00-21:00",
+        "shop": "books",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9886981,
+          37.4004898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719334",
+      "properties": {
+        "@id": "node/3157719334",
+        "name": "PC3",
+        "shop": "computer",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.983864,
+          37.3990643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719335",
+      "properties": {
+        "@id": "node/3157719335",
+        "name": "Patricia",
+        "shop": "greengrocer",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859927,
+          37.4004652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719336",
+      "properties": {
+        "@id": "node/3157719336",
+        "name": "Peluquería Perro Verde",
+        "shop": "pet",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9852572,
+          37.3990929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719337",
+      "properties": {
+        "@id": "node/3157719337",
+        "name": "Pipirigaña",
+        "shop": "toys",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847116,
+          37.3991638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719339",
+      "properties": {
+        "@id": "node/3157719339",
+        "name": "Popurrí Rafaela",
+        "shop": "variety_store",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859518,
+          37.4000058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719340",
+      "properties": {
+        "@id": "node/3157719340",
+        "name": "Rectificado de Motores Sutil S.A.",
+        "shop": "car_repair",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9840653,
+          37.3986931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719342",
+      "properties": {
+        "@id": "node/3157719342",
+        "addr:housenumber": "3-A",
+        "addr:street": "Plaza San Marcos",
+        "name": "San Marcos",
+        "shop": "stationery",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878684,
+          37.3963749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719344",
+      "properties": {
+        "@id": "node/3157719344",
+        "name": "Talleres Jose Antonio Grande de León",
+        "shop": "tailor-bordado oro",
+        "@timestamp": "2014-10-30T11:05:17Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9836608,
+          37.3976694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719345",
+      "properties": {
+        "@id": "node/3157719345",
+        "email": "Ventas@ultramarinosalonso.com",
+        "name": "Ultramarinos Alonso",
+        "opening_hours": "08:15-14:45,17:30-21:00",
+        "phone": "954388806 - 635548510",
+        "shop": "grocery",
+        "website": "www.ultramarinosalonso.com",
+        "@timestamp": "2014-10-30T11:05:18Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9884014,
+          37.4001339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719346",
+      "properties": {
+        "@id": "node/3157719346",
+        "craft": "shoemaker",
+        "name": "Zapata",
+        "opening_hours": "10:00-14:00,18:00-20:00",
+        "shop": "shoes",
+        "@timestamp": "2014-10-30T11:05:18Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9885017,
+          37.4003802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3157719347",
+      "properties": {
+        "@id": "node/3157719347",
+        "name": "2 Renglones",
+        "shop": "gift",
+        "@timestamp": "2014-10-30T11:05:18Z",
+        "@version": "1",
+        "@changeset": "26433214",
+        "@user": "discosStuu",
+        "@uid": "2424608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878377,
+          37.3982068
+        ]
+      }
+    }
+  ]
+}

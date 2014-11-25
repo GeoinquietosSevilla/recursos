@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-25T12:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/2286112625",
+      "properties": {
+        "@id": "node/2286112625",
+        "addr:housenumber": "4",
+        "addr:street": "Pasaje de Andreu",
+        "name": "Antigüedades M. Ortega",
+        "shop": "antiques",
+        "source": "survey",
+        "@timestamp": "2014-10-25T17:55:12Z",
+        "@version": "2",
+        "@changeset": "26326712",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9901075,
+          37.3856964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149290552",
+      "properties": {
+        "@id": "node/3149290552",
+        "addr:housenumber": "31",
+        "addr:street": "Calle Alemanes",
+        "name": "Esencias de Sevilla",
+        "phone": "+34 955 29 40 94",
+        "shop": "tea",
+        "website": "http://www.herbolarioesenciasdesevilla.com",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T16:51:18Z",
+        "@version": "2",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9926461,
+          37.3868529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149290553",
+      "properties": {
+        "@id": "node/3149290553",
+        "clothes": "women;traditional",
+        "fax": "+34 95 421 85 88",
+        "name": "Juan Foronda",
+        "phone": "+34 95 422 76 61",
+        "shop": "boutique",
+        "website": "http://juanforonda.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T15:38:05Z",
+        "@version": "1",
+        "@changeset": "26323907",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9917369,
+          37.3859914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394396",
+      "properties": {
+        "@id": "node/3149394396",
+        "addr:housenumber": "2 A",
+        "addr:street": "Calle Rodrigo Caro",
+        "name": "Artesanías Medina",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9908993,
+          37.3859768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394397",
+      "properties": {
+        "@id": "node/3149394397",
+        "addr:housenumber": "2 B",
+        "addr:street": "Calle Rodrigo Caro",
+        "name": "Cerámica Artística Colón",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.990881,
+          37.3859114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394398",
+      "properties": {
+        "@id": "node/3149394398",
+        "addr:housenumber": "10",
+        "addr:street": "Calle Mateos Gago",
+        "name": "Cerámica Santa Cruz",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9911844,
+          37.386016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394399",
+      "properties": {
+        "@id": "node/3149394399",
+        "addr:housenumber": "10",
+        "addr:street": "Calle Mateos Gago",
+        "craft": "pottery",
+        "name": "El azulejo",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9912356,
+          37.3860204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394401",
+      "properties": {
+        "@id": "node/3149394401",
+        "addr:housenumber": "12",
+        "addr:street": "Calle Mateos Gago",
+        "name": "Luna de Sevilla",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9910949,
+          37.386016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394402",
+      "properties": {
+        "@id": "node/3149394402",
+        "addr:housenumber": "2",
+        "addr:street": "Plaza Virgen de los Reyes",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9921144,
+          37.3858735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149394403",
+      "properties": {
+        "@id": "node/3149394403",
+        "addr:housenumber": "4 A",
+        "addr:street": "Plaza Virgen de los Reyes",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T16:51:17Z",
+        "@version": "1",
+        "@changeset": "26325391",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9921428,
+          37.3857944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149412208",
+      "properties": {
+        "@id": "node/3149412208",
+        "addr:housenumber": "1",
+        "addr:street": "Pasaje de Andreu",
+        "name": "Souvenirs Josefa Rosado",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T17:04:42Z",
+        "@version": "1",
+        "@changeset": "26325676",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9906278,
+          37.3856844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149412209",
+      "properties": {
+        "@id": "node/3149412209",
+        "addr:housenumber": "3 C",
+        "addr:street": "Calle Rodrigo Caro",
+        "name": "Souvenirs Josefa Rosado",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T17:04:42Z",
+        "@version": "1",
+        "@changeset": "26325676",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9906844,
+          37.3857444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149412210",
+      "properties": {
+        "@id": "node/3149412210",
+        "addr:housenumber": "3 A",
+        "addr:street": "Calle Rodrigo Caro",
+        "name": "Souvenirs La Pepa",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T17:04:42Z",
+        "@version": "1",
+        "@changeset": "26325676",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9907057,
+          37.3858623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149496624",
+      "properties": {
+        "@id": "node/3149496624",
+        "addr:housenumber": "2 A",
+        "addr:street": "Pasaje de Vila",
+        "name": "Embrujo",
+        "shop": "gift",
+        "@timestamp": "2014-10-25T17:47:57Z",
+        "@version": "1",
+        "@changeset": "26326573",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9906991,
+          37.3858995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149496625",
+      "properties": {
+        "@id": "node/3149496625",
+        "addr:housenumber": "1",
+        "addr:street": "Calle Jamerdana",
+        "name": "Esencias de Sevilla",
+        "phone": "+34 955 28 94 74",
+        "shop": "tea",
+        "website": "http://www.herbolarioesenciasdesevilla.com",
+        "@timestamp": "2014-10-25T17:47:57Z",
+        "@version": "1",
+        "@changeset": "26326573",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900393,
+          37.3857641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149496627",
+      "properties": {
+        "@id": "node/3149496627",
+        "addr:housenumber": "1",
+        "addr:street": "Calle Ximénez de Enciso",
+        "name": "La Ruta de la Plata",
+        "shop": "jewelry",
+        "@timestamp": "2014-10-25T17:47:57Z",
+        "@version": "1",
+        "@changeset": "26326573",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9899848,
+          37.3858378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149496628",
+      "properties": {
+        "@id": "node/3149496628",
+        "addr:housenumber": "11 A",
+        "addr:street": "Pasaje de Vila",
+        "clothes": "women",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T17:47:57Z",
+        "@version": "1",
+        "@changeset": "26326573",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902028,
+          37.3859963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149506286",
+      "properties": {
+        "@id": "node/3149506286",
+        "addr:housenumber": "5",
+        "addr:street": "Pasaje de Andreu",
+        "clothes": "women;foulard",
+        "shop": "clothes",
+        "@timestamp": "2014-10-25T17:55:12Z",
+        "@version": "1",
+        "@changeset": "26326712",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902237,
+          37.3857411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150361619",
+      "properties": {
+        "@id": "node/3150361619",
+        "addr:housenumber": "15",
+        "addr:street": "Calle Mateos Gago",
+        "name": "Atocha mini-mercado",
+        "shop": "convenience",
+        "@timestamp": "2014-10-26T10:51:39Z",
+        "@version": "2",
+        "@changeset": "26339205",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9903834,
+          37.3862613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150361620",
+      "properties": {
+        "@id": "node/3150361620",
+        "addr:housenumber": "11",
+        "addr:street": "Calle Mateos Gago",
+        "name": "Cerámica el Arte~Sano",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+34 954 21 38 58",
+        "shop": "gift",
+        "@timestamp": "2014-10-26T10:01:12Z",
+        "@version": "1",
+        "@changeset": "26338396",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9907913,
+          37.3861726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150361621",
+      "properties": {
+        "@id": "node/3150361621",
+        "addr:housenumber": "15",
+        "addr:street": "Calle Mateos Gago",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "gift",
+        "@timestamp": "2014-10-26T10:01:12Z",
+        "@version": "1",
+        "@changeset": "26338396",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9904573,
+          37.3862474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150361622",
+      "properties": {
+        "@id": "node/3150361622",
+        "addr:housenumber": "17 A",
+        "addr:street": "Calles Mateos Gago",
+        "shop": "newsagent",
+        "@timestamp": "2014-10-26T10:51:39Z",
+        "@version": "2",
+        "@changeset": "26339205",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.990317,
+          37.3862731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150361623",
+      "properties": {
+        "@id": "node/3150361623",
+        "addr:housenumber": "15",
+        "addr:street": "Calle Mateos Gago",
+        "name": "Souvenirs Lío",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "gift",
+        "@timestamp": "2014-10-26T10:01:12Z",
+        "@version": "1",
+        "@changeset": "26338396",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9904176,
+          37.3862555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150394750",
+      "properties": {
+        "@id": "node/3150394750",
+        "addr:housenumber": "35",
+        "addr:street": "Mateos Gago",
+        "name": "Arjé",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:45; Sa 10:30-14:00",
+        "phone": "+34 954 56 20 29",
+        "shop": "furniture;interior_decoration",
+        "website": "https://www.facebook.com/pages/ARJ%C3%89/342505385774502",
+        "@timestamp": "2014-10-26T10:51:39Z",
+        "@version": "2",
+        "@changeset": "26339205",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897697,
+          37.3868045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150394751",
+      "properties": {
+        "@id": "node/3150394751",
+        "addr:housenumber": "29",
+        "addr:street": "Calle Mateos Gago",
+        "email": "info@mariagavira.com",
+        "name": "María Gavira",
+        "phone": "+34 954 22 19 65",
+        "shop": "bag",
+        "website": "http://www.mariagavira.com/",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T10:51:39Z",
+        "@version": "2",
+        "@changeset": "26339205",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9899362,
+          37.3866078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438970",
+      "properties": {
+        "@id": "node/3150438970",
+        "addr:housenumber": "2",
+        "addr:street": "Pasaje de Andreu",
+        "name": "Arjé",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:45; Sa 10:30-14:00",
+        "phone": "+34 954 56 15 91;+34 954 56 42 96",
+        "shop": "furniture;interior_decoration",
+        "website": "https://www.facebook.com/pages/ARJ%C3%89/342505385774502",
+        "@timestamp": "2014-10-26T10:51:38Z",
+        "@version": "1",
+        "@changeset": "26339205",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9905133,
+          37.3856169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438972",
+      "properties": {
+        "@id": "node/3150438972",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "9",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Guzmán el Bueno",
+        "email": "info@galeriahaurie.com",
+        "fax": "+34 95 456 32 33",
+        "name": "Galería Haurie",
+        "phone": "+34 95 422 57 26",
+        "shop": "art",
+        "website": "http://www.galeriahaurie.com/",
+        "@timestamp": "2014-10-26T10:51:38Z",
+        "@version": "1",
+        "@changeset": "26339205",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900368,
+          37.3870827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150443027",
+      "properties": {
+        "@id": "node/3150443027",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "3",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Don Remondo",
+        "name": "Las Pléyades",
+        "phone": "+34 954 225 821",
+        "shop": "books;hebalist",
+        "website": "https://www.facebook.com/las.pleyadessevilla",
+        "@timestamp": "2014-10-26T11:07:08Z",
+        "@version": "1",
+        "@changeset": "26339409",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9914032,
+          37.3872683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150453732",
+      "properties": {
+        "@id": "node/3150453732",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "21",
+        "addr:street": "Calle Placentines",
+        "name": "De sevillanas maneras",
+        "shop": "gift",
+        "@timestamp": "2014-10-26T11:09:19Z",
+        "@version": "1",
+        "@changeset": "26339446",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9924194,
+          37.3872289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150454161",
+      "properties": {
+        "@id": "node/3150454161",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "35",
+        "addr:street": "Calle Placentines",
+        "name": "La Magdalena",
+        "shop": "gift",
+        "@timestamp": "2014-10-26T11:10:14Z",
+        "@version": "1",
+        "@changeset": "26339460",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9924298,
+          37.3869267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150467051",
+      "properties": {
+        "@id": "node/3150467051",
+        "clothes": "women",
+        "craft": "dressmaker",
+        "email": "placentines1@obando.es",
+        "name": "Obando Atelier",
+        "phone": "+34 954 56 37 68",
+        "shop": "clothes",
+        "website": "http://www.obando.es",
+        "@timestamp": "2014-10-26T11:16:52Z",
+        "@version": "1",
+        "@changeset": "26339563",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9929409,
+          37.3872273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150471083",
+      "properties": {
+        "@id": "node/3150471083",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "11",
+        "addr:postcode": "4104",
+        "addr:street": "Calle Pajaritos",
+        "name": "La Alacena Real",
+        "phone": "+34 954 22 00 90",
+        "shop": "convenience",
+        "@timestamp": "2014-10-26T11:21:07Z",
+        "@version": "1",
+        "@changeset": "26339635",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9919704,
+          37.3884932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150475034",
+      "properties": {
+        "@id": "node/3150475034",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "5",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Pajaritos",
+        "female": "yes",
+        "name": "Peluquería de señoras Ana Curado",
+        "phone": "+34 954217244",
+        "shop": "hairdresser",
+        "@timestamp": "2014-10-26T11:26:22Z",
+        "@version": "2",
+        "@changeset": "26339720",
+        "@user": "juanluisrp",
+        "@uid": "74971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9923934,
+          37.3886413
+        ]
+      }
+    }
+  ]
+}
