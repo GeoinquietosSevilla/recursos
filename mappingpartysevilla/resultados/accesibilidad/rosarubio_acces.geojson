@@ -1,0 +1,555 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-28T16:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/19909739",
+      "properties": {
+        "@id": "way/19909739",
+        "highway": "residential",
+        "name": "Calle Puerta de San Juan",
+        "old_name": "Calle Guadalquivir"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9965564,
+            37.399546
+          ],
+          [
+            -5.9969811,
+            37.3997521
+          ],
+          [
+            -5.9979379,
+            37.4001554
+          ],
+          [
+            -5.9980307,
+            37.4002012
+          ],
+          [
+            -5.9984266,
+            37.4003756
+          ],
+          [
+            -5.9985225,
+            37.4004178
+          ],
+          [
+            -5.9986183,
+            37.4004775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19909760",
+      "properties": {
+        "@id": "way/19909760",
+        "highway": "living_street",
+        "name": "Alameda de Hércules",
+        "oneway": "yes",
+        "source": "PNOA"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9936754,
+            37.400856
+          ],
+          [
+            -5.9937301,
+            37.4005372
+          ],
+          [
+            -5.9937534,
+            37.4004015
+          ],
+          [
+            -5.9937788,
+            37.4002292
+          ],
+          [
+            -5.9938272,
+            37.3999016
+          ],
+          [
+            -5.9938331,
+            37.3998618
+          ],
+          [
+            -5.9939285,
+            37.3993124
+          ],
+          [
+            -5.9939914,
+            37.3989428
+          ],
+          [
+            -5.9940094,
+            37.3988373
+          ],
+          [
+            -5.99407,
+            37.3985182
+          ],
+          [
+            -5.9941848,
+            37.3978872
+          ],
+          [
+            -5.9942408,
+            37.3975308
+          ],
+          [
+            -5.9942617,
+            37.397416
+          ],
+          [
+            -5.9943278,
+            37.3970537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19909770",
+      "properties": {
+        "@id": "way/19909770",
+        "highway": "residential",
+        "name": "Calle Conde de Torrejón",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9932271,
+            37.3971136
+          ],
+          [
+            -5.9929911,
+            37.3970588
+          ],
+          [
+            -5.9924449,
+            37.3969708
+          ],
+          [
+            -5.9920236,
+            37.3970864
+          ],
+          [
+            -5.9918593,
+            37.3971264
+          ],
+          [
+            -5.991651,
+            37.3971737
+          ],
+          [
+            -5.9912996,
+            37.3972473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408741121",
+      "properties": {
+        "@id": "node/1408741121",
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9960524,
+          37.4036125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408741157",
+      "properties": {
+        "@id": "node/1408741157",
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9960012,
+          37.4036877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1409933351",
+      "properties": {
+        "@id": "node/1409933351",
+        "highway": "crossing",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9960793,
+          37.403297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409937",
+      "properties": {
+        "@id": "node/3149409937",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9945923,
+          37.3964558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409938",
+      "properties": {
+        "@id": "node/3149409938",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9946518,
+          37.3965155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409939",
+      "properties": {
+        "@id": "node/3149409939",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9944377,
+          37.396752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409940",
+      "properties": {
+        "@id": "node/3149409940",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9942617,
+          37.397416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409941",
+      "properties": {
+        "@id": "node/3149409941",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9939914,
+          37.3989428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409942",
+      "properties": {
+        "@id": "node/3149409942",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9938272,
+          37.3999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409943",
+      "properties": {
+        "@id": "node/3149409943",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9937788,
+          37.4002292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409944",
+      "properties": {
+        "@id": "node/3149409944",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9937301,
+          37.4005372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149429239",
+      "properties": {
+        "@id": "node/3149429239",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9952767,
+          37.3943093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149429240",
+      "properties": {
+        "@id": "node/3149429240",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9952246,
+          37.394342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149429241",
+      "properties": {
+        "@id": "node/3149429241",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9953218,
+          37.3943491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149429242",
+      "properties": {
+        "@id": "node/3149429242",
+        "crossing": "uncontrolled",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9952677,
+          37.3943659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149429243",
+      "properties": {
+        "@id": "node/3149429243",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9984266,
+          37.4003756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151180798",
+      "properties": {
+        "@id": "node/3151180798",
+        "addr:city": "Sevilla",
+        "addr:housenumber": "32-34",
+        "addr:place": "Alameda",
+        "addr:postcode": "41002",
+        "addr:street": "Conde de Torrejón",
+        "amenity": "arts_centre",
+        "artist_name": "Varios",
+        "artwork_type": "painting",
+        "capacity": "30",
+        "designation": "Galería-Bar",
+        "drinking_water": "si",
+        "name": "Moscow&Artspirits.",
+        "opening_hours": "20:00-2:00",
+        "operator": "Abilio Dominguez Salanova",
+        "phone": "+34692813122",
+        "shop": "paint",
+        "source": "32-34",
+        "tourism": "artwork",
+        "website": "https://www.MoscowArtSpirits.com",
+        "wheelchair": "yes",
+        "wifi": "si"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.991651,
+          37.3971737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409940",
+      "properties": {
+        "@id": "node/3149409940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9942617,
+          37.397416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151180798",
+      "properties": {
+        "@id": "node/3151180798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.991651,
+          37.3971737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149429243",
+      "properties": {
+        "@id": "node/3149429243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9984266,
+          37.4003756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409941",
+      "properties": {
+        "@id": "node/3149409941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9939914,
+          37.3989428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409942",
+      "properties": {
+        "@id": "node/3149409942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9938272,
+          37.3999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409943",
+      "properties": {
+        "@id": "node/3149409943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9937788,
+          37.4002292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149409944",
+      "properties": {
+        "@id": "node/3149409944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9937301,
+          37.4005372
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-28T16:08:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/237655241",
+      "properties": {
+        "@id": "way/237655241",
+        "highway": "residential",
+        "name": "Calle Ximénez de Enciso",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9883906,
+            37.3864895
+          ],
+          [
+            -5.9883002,
+            37.3865475
+          ],
+          [
+            -5.9882198,
+            37.3865695
+          ],
+          [
+            -5.9881419,
+            37.3866117
+          ],
+          [
+            -5.9879398,
+            37.386724
+          ],
+          [
+            -5.9879263,
+            37.3867315
+          ],
+          [
+            -5.9878292,
+            37.3867853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149495500",
+      "properties": {
+        "@id": "node/3149495500",
+        "crossing": "uncontrolled",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879398,
+          37.386724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149495500",
+      "properties": {
+        "@id": "node/3149495500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879398,
+          37.386724
+        ]
+      }
+    }
+  ]
+}
