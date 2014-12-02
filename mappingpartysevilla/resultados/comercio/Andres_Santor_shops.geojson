@@ -2,19 +2,47 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-11-25T12:15:03Z",
+  "timestamp": "2014-12-02T07:27:02Z",
   "features": [
+    {
+      "type": "Feature",
+      "id": "node/1309095100",
+      "properties": {
+        "@id": "node/1309095100",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
+        "name": "Mas",
+        "opening_hours": "Mo-Sa 09:00-21:45",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "3",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0020476,
+          37.3888642
+        ]
+      }
+    },
     {
       "type": "Feature",
       "id": "node/3177442322",
       "properties": {
         "@id": "node/3177442322",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
         "name": "Arjona",
         "shop": "chemist",
         "wheelchair": "no",
-        "@timestamp": "2014-11-09T18:09:40Z",
-        "@version": "1",
-        "@changeset": "26670189",
+        "@timestamp": "2014-12-01T20:15:04Z",
+        "@version": "2",
+        "@changeset": "27164255",
         "@user": "Andres Santor",
         "@uid": "1520044"
       },
@@ -50,14 +78,43 @@
     },
     {
       "type": "Feature",
+      "id": "node/3177442325",
+      "properties": {
+        "@id": "node/3177442325",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
+        "name": "Dos Dieciseis",
+        "opening_hours": "Mo-Sa 10:00-14:00,17:00-21:00",
+        "shop": "toys",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:06Z",
+        "@version": "3",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024696,
+          37.3902387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3177442326",
       "properties": {
         "@id": "node/3177442326",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Radio Sevilla",
         "name": "Grupo Hércules",
         "shop": "copyshop",
-        "@timestamp": "2014-11-09T18:09:40Z",
-        "@version": "1",
-        "@changeset": "26670189",
+        "@timestamp": "2014-12-01T20:15:06Z",
+        "@version": "2",
+        "@changeset": "27164255",
         "@user": "Andres Santor",
         "@uid": "1520044"
       },
@@ -71,16 +128,46 @@
     },
     {
       "type": "Feature",
+      "id": "node/3177442327",
+      "properties": {
+        "@id": "node/3177442327",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
+        "contact:phone": "954564552",
+        "name": "Impact Sea",
+        "opening_hours": "Mo-Sa 10:00-14:15,17:00-21:00",
+        "shop": "sports",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:06Z",
+        "@version": "3",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0024397,
+          37.3901124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3177442328",
       "properties": {
         "@id": "node/3177442328",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
         "name": "La Parra",
         "opening_hours": "Mo-Fr 08:00-15:15,18:00-20:45; Sa 08:15-15:15",
         "shop": "bakery",
         "wheelchair": "no",
-        "@timestamp": "2014-11-09T18:09:41Z",
-        "@version": "1",
-        "@changeset": "26670189",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
         "@user": "Andres Santor",
         "@uid": "1520044"
       },
@@ -97,12 +184,15 @@
       "id": "node/3177442329",
       "properties": {
         "@id": "node/3177442329",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
         "name": "New York Style",
         "shop": "hairdresser",
         "wheelchair": "no",
-        "@timestamp": "2014-11-09T18:09:41Z",
-        "@version": "1",
-        "@changeset": "26670189",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
         "@user": "Andres Santor",
         "@uid": "1520044"
       },
@@ -111,6 +201,35 @@
         "coordinates": [
           -6.0023878,
           37.3899748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3177442330",
+      "properties": {
+        "@id": "node/3177442330",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "3",
+        "addr:street": "Calle Arjona",
+        "contact:email": "danielgvictorio@gmail.com",
+        "contact:phone": "954908799",
+        "name": "Romdan Victorio",
+        "opening_hours": "Mo-Fr 10:45-19:30; Sa 10:00-14:00",
+        "shop": "hairdresser",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:08Z",
+        "@version": "3",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0025367,
+          37.3904969
         ]
       }
     },
@@ -139,13 +258,16 @@
       "id": "node/3194355622",
       "properties": {
         "@id": "node/3194355622",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
         "name": "Arjona",
         "opening_hours": "Mo-Fr 08:00-15:00,18:00-20:30; Sa,Su 08:30-15:00",
         "shop": "stationery",
         "wheelchair": "no",
-        "@timestamp": "2014-11-18T19:32:04Z",
-        "@version": "1",
-        "@changeset": "26871698",
+        "@timestamp": "2014-12-01T20:15:04Z",
+        "@version": "2",
+        "@changeset": "27164255",
         "@user": "Andres Santor",
         "@uid": "1520044"
       },
@@ -154,6 +276,674 @@
         "coordinates": [
           -6.0022478,
           37.3894595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192696",
+      "properties": {
+        "@id": "node/3208192696",
+        "addr:city": "sevilla",
+        "addr:country": "España",
+        "addr:housenumber": "9",
+        "addr:street": "Calle Luis de Vargas",
+        "contact:phone": "954 562 253",
+        "name": "Bald Monkey",
+        "opening_hours": "Mo-Fr 09:30-13:30,16:30-20:30; Sa 09:30-13:30",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-27T20:45:11Z",
+        "@version": "1",
+        "@changeset": "27077275",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.001897,
+          37.3900784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192697",
+      "properties": {
+        "@id": "node/3208192697",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "8",
+        "addr:postcode": "41001",
+        "addr:street": "Calle Luis de Vargas",
+        "contact:email": "hola@belandco.es",
+        "contact:phone": "954227604",
+        "contact:website": "www.belandco.es",
+        "name": "Bel & Co.",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 09:30-13:30",
+        "shop": "hairdresser",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:05Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0021815,
+          37.3901146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192699",
+      "properties": {
+        "@id": "node/3208192699",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
+        "name": "Gotika",
+        "opening_hours": "Mo-Sa 11:00-14:00,17:00-21:00",
+        "shop": "tattoo",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:06Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0021868,
+          37.3892613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192701",
+      "properties": {
+        "@id": "node/3208192701",
+        "name": "Montana Shop",
+        "opening_hours": "Mo-Sa 10:30-14:00,17:00-21:00",
+        "shop": "paint",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-27T20:45:11Z",
+        "@version": "1",
+        "@changeset": "27077275",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0022039,
+          37.3893156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192702",
+      "properties": {
+        "@id": "node/3208192702",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Luis de Vargas",
+        "name": "Oasis",
+        "shop": "travel_agency",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0021474,
+          37.3900347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192703",
+      "properties": {
+        "@id": "node/3208192703",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Reyes Católicos",
+        "name": "Roma",
+        "opening_hours": "Mo-Fr 09:00-14:00,16:15-21:30; Sa 09:00-14:00",
+        "shop": "doityourself",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:08Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0008307,
+          37.3882517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192704",
+      "properties": {
+        "@id": "node/3208192704",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "4",
+        "addr:postcode": "41001",
+        "addr:street": "Calle Marqués del Duero",
+        "contact:phone": "954218359",
+        "name": "Solestetic",
+        "opening_hours": "Mo-Sa 11:00-21:00",
+        "shop": "beauty",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:08Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0021075,
+          37.3897499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192708",
+      "properties": {
+        "@id": "node/3208192708",
+        "name": "Viajes Puente",
+        "opening_hours": "Mo-Fr 09:30-13:30,17:00-20:00; Sa 09:30-13:30",
+        "shop": "travel_agency",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-27T20:45:11Z",
+        "@version": "1",
+        "@changeset": "27077275",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0016334,
+          37.38934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208192709",
+      "properties": {
+        "@id": "node/3208192709",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Arjona",
+        "name": "Yo Móvil",
+        "opening_hours": "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30",
+        "shop": "mobile_phone",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:09Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0017582,
+          37.3883557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677260",
+      "properties": {
+        "@id": "node/3209677260",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Marqués de Paradas",
+        "name": "Ferretería Marqués de Paradas",
+        "opening_hours": "Mo-Fr 09:00-14:00,17:00-20:00; Sa 09:00-14:00",
+        "shop": "doityourself",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:06Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0008698,
+          37.3887276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677961",
+      "properties": {
+        "@id": "node/3209677961",
+        "name": "Gaia",
+        "shop": "organic",
+        "wheelchair": "no",
+        "@timestamp": "2014-11-28T19:55:46Z",
+        "@version": "1",
+        "@changeset": "27097957",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00196,
+          37.3901964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677962",
+      "properties": {
+        "@id": "node/3209677962",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "34",
+        "addr:postcode": "41001",
+        "addr:street": "Calle Marqués de Paradas",
+        "contact:email": "mikasa-pedidos@hotmail.com",
+        "contact:phone": "655096106",
+        "name": "La casa de la bombilla",
+        "opening_hours": "Mo-Fr 09:00-13:45,16:30-20:00; Sa 09:00-13:45",
+        "shop": "doityourself",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0009104,
+          37.3888083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677963",
+      "properties": {
+        "@id": "node/3209677963",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Marqués de Paradas",
+        "name": "Labor",
+        "opening_hours": "Mo-Fr 09:00-13:30,16:30-20:15; Sa 09:00-13:30",
+        "shop": "bicycle",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0007831,
+          37.3885153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677964",
+      "properties": {
+        "@id": "node/3209677964",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "38",
+        "addr:street": "Calle Marqués de Paradas",
+        "contact:email": "margot.coral@gmail.com",
+        "contact:phone": "954286011",
+        "name": "Margot",
+        "shop": "clothes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0008427,
+          37.3886577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677965",
+      "properties": {
+        "@id": "node/3209677965",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "name": "Moni",
+        "opening_hours": "Mo-Fr 09:00-14:00,17:00-20:30; Sa 09:00-14:00",
+        "shop": "variety_store",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0018754,
+          37.3907156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677966",
+      "properties": {
+        "@id": "node/3209677966",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "34",
+        "addr:street": "Calle Marqués de Paradas",
+        "name": "Optica Manguilla",
+        "opening_hours": "Mo-Fr 09:30-13:30,17:00-20:30; Sa 09:30-13:30",
+        "shop": "optician",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:07Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.000968,
+          37.3889617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677967",
+      "properties": {
+        "@id": "node/3209677967",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Trastámara",
+        "name": "V6 Digital",
+        "shop": "copyshop",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:09Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0020819,
+          37.3901722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677970",
+      "properties": {
+        "@id": "node/3209677970",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Marqués de Paradas",
+        "shop": "kiosk",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:09Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0015131,
+          37.3907076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209677971",
+      "properties": {
+        "@id": "node/3209677971",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "name": "5 al día",
+        "opening_hours": "Mo-Fr 09:00-15:00,18:00-21:00; Sa 09:00-15:00",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:09Z",
+        "@version": "2",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0020447,
+          37.3906861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724176",
+      "properties": {
+        "@id": "node/3214724176",
+        "addr:city": "Sevilla",
+        "addr:country": "España",
+        "addr:street": "Calle Julio César",
+        "name": "Cibercenter",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "shop": "computer",
+        "@timestamp": "2014-12-01T20:15:03Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0001156,
+          37.3895939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724177",
+      "properties": {
+        "@id": "node/3214724177",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:street": "Calle Marqués de Paradas",
+        "name": "El Rascacielos",
+        "shop": "doityourself",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:03Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0007271,
+          37.3884059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724181",
+      "properties": {
+        "@id": "node/3214724181",
+        "addr:city": "Sevilla",
+        "addr:country": "España",
+        "addr:housenumber": "20",
+        "addr:street": "Calle Canalejas",
+        "name": "audiocenter",
+        "shop": "hearing_aids",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:03Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.000561,
+          37.390359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724182",
+      "properties": {
+        "@id": "node/3214724182",
+        "addr:city": "Sevilla",
+        "addr:country": "España",
+        "addr:street": "Calle Julio César",
+        "shop": "kiosk",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-01T20:15:04Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006573,
+          37.3899382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724183",
+      "properties": {
+        "@id": "node/3214724183",
+        "addr:city": "Sevilla",
+        "addr:country": "España",
+        "addr:street": "Calle Canalejas",
+        "opening_hours": "Mo-Fr 09:00-14:00,17:00-20:00; Sa 09:00-14:00",
+        "shop": "medical",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-01T20:15:04Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006501,
+          37.3902978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724185",
+      "properties": {
+        "@id": "node/3214724185",
+        "addr:city": "Sevilla",
+        "addr:country": "España",
+        "addr:street": "Calle Gravina",
+        "shop": "newsagent",
+        "wheelchair": "unknown",
+        "@timestamp": "2014-12-01T20:15:04Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0011388,
+          37.39174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214724186",
+      "properties": {
+        "@id": "node/3214724186",
+        "addr:city": "Sevilla",
+        "addr:country": "España",
+        "addr:street": "Calle Gravina",
+        "shop": "copyshop",
+        "wheelchair": "unknown",
+        "@timestamp": "2014-12-01T20:15:04Z",
+        "@version": "1",
+        "@changeset": "27164255",
+        "@user": "Andres Santor",
+        "@uid": "1520044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0010088,
+          37.3917439
         ]
       }
     }
