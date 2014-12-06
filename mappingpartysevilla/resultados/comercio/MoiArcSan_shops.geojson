@@ -2,8 +2,30 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2014-11-25T12:19:02Z",
+  "timestamp": "2014-12-06T13:25:02Z",
   "features": [
+    {
+      "type": "Feature",
+      "id": "node/960293342",
+      "properties": {
+        "@id": "node/960293342",
+        "name": "Eco Frutas",
+        "shop": "greengrocer",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "2",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902509,
+          37.3901474
+        ]
+      }
+    },
     {
       "type": "Feature",
       "id": "node/1545527324",
@@ -615,6 +637,436 @@
         "coordinates": [
           -5.9855228,
           37.3896141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221627556",
+      "properties": {
+        "@id": "node/3221627556",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "35",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Águilas",
+        "contact:phone": "+34 954 220 096",
+        "contact:website": "www.artesanosevilla.com",
+        "name": "Arte-Sano",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "gift",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T12:43:55Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882764,
+          37.3899587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221627557",
+      "properties": {
+        "@id": "node/3221627557",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "13",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Águilas",
+        "contact:phone": "+34 954 227 711",
+        "contact:website": "http://www.esteticadiez.com/",
+        "name": "Estética Díez",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "beauty",
+        "wheelchair": "limited",
+        "@timestamp": "2014-12-06T12:43:56Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9888983,
+          37.3898805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221627558",
+      "properties": {
+        "@id": "node/3221627558",
+        "name": "Panadería Esperanza",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:30-13:30",
+        "shop": "bakery",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T12:43:56Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9883769,
+          37.3899696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221627559",
+      "properties": {
+        "@id": "node/3221627559",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "1",
+        "addr:postcode": "41003",
+        "addr:street": "San Esteban",
+        "contact:email": "pilatos1sevilla@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/pages/Pilatos-I/259508257583013",
+        "contact:phone": "+34 954 225 114",
+        "name": "Pilatos I",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "clothes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-06T12:43:56Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9867394,
+          37.3897972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221627560",
+      "properties": {
+        "@id": "node/3221627560",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "36",
+        "addr:street": "San Esteban",
+        "contact:email": "clientes@tapiceriaroyamo.es",
+        "contact:phone": "+34 954 420 728",
+        "contact:website": "www.tapiceriaroyamo.es",
+        "craft": "upholsterer",
+        "name": "Tapicería Royamo",
+        "opening_hours": "Mo-Fr 09:30-14:30,17:30-21:00; Sa 10:00-13:30",
+        "shop": "craft",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-06T12:43:56Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9851542,
+          37.3894156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221628261",
+      "properties": {
+        "@id": "node/3221628261",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "42",
+        "addr:street": "San Esteban",
+        "contact:email": "comercial@tintastecnoprint.com",
+        "contact:facebook": "https://www.facebook.com/tintastecnoprint.es?fref=ts",
+        "contact:phone": "+34 954 535 483",
+        "contact:website": "www.tintastecnoprint.com",
+        "name": "Titas Tecnoprint",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "copyshop",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T12:43:56Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847642,
+          37.3891973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221628262",
+      "properties": {
+        "@id": "node/3221628262",
+        "shop": "vacant",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-06T12:43:56Z",
+        "@version": "1",
+        "@changeset": "27289081",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.984928,
+          37.3892639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666455",
+      "properties": {
+        "@id": "node/3221666455",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "13",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Alfalfa",
+        "contact:email": "info@aireropacomplementos.com",
+        "contact:facebook": "https://www.facebook.com/pages/Aire-Ropa-Complementos/294491607409851",
+        "contact:phone": "+34 630 862 086",
+        "contact:website": "www.aireropacomplementos.com",
+        "name": "Aire Ropa & Complentos",
+        "opening_hours": "Mo-Sa 10:00-14:00,18:00-21:00",
+        "shop": "clothes",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9900111,
+          37.390054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666456",
+      "properties": {
+        "@id": "node/3221666456",
+        "name": "Antik",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "antiques",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9902049,
+          37.3901243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666457",
+      "properties": {
+        "@id": "node/3221666457",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "3",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Águilas",
+        "name": "Don Barato",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "variety_store",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9893954,
+          37.3899486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666458",
+      "properties": {
+        "@id": "node/3221666458",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "7",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Alfalfa",
+        "contact:email": "lankajewerely@gmail.com",
+        "contact:phone": "+34 955 101 886",
+        "contact:website": "arteycreaciongalan.es",
+        "name": "La Gitana Loca",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "jewelry",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9901548,
+          37.3901017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666459",
+      "properties": {
+        "@id": "node/3221666459",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "15",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Alfalfa",
+        "contact:email": "puravidaminerales@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/puravida.minerales",
+        "contact:phone": "+34 954 228 113",
+        "craft": "jeweller",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "craft",
+        "wheelchair": "limited",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9897888,
+          37.3900149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666460",
+      "properties": {
+        "@id": "node/3221666460",
+        "contact:email": "info@panypiu.es",
+        "contact:fax": "+34 955 642 024",
+        "contact:phone": "+34 954 219 348",
+        "contact:website": "http://panypiu.es/",
+        "name": "Pan y Più",
+        "opening_hours": "Mo-Sa 08:30-22:00",
+        "shop": "bakery",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9896971,
+          37.3899285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666661",
+      "properties": {
+        "@id": "node/3221666661",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "11",
+        "addr:postcode": "41003",
+        "addr:street": "Calle Águilas",
+        "contact:email": "travelplanetspain@gmail.com",
+        "contact:facebook": "https://www.facebook.com/PlanetSpain.Sevilla",
+        "contact:phone": "+34 955 288 721",
+        "contact:website": "http://planetspain.es/inicio/",
+        "name": "Planet Spain",
+        "opening_hours": "Mo-Th 11:00-14:00,18:00-20:00; Fr 11:00-14:00",
+        "shop": "travel_agency",
+        "wheelchair": "no",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9890659,
+          37.3898894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3221666662",
+      "properties": {
+        "@id": "node/3221666662",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "8",
+        "addr:postcode": "41004",
+        "addr:street": "Calle Águilas",
+        "contact:email": "aguilas@printsandfriends.com",
+        "contact:phone": "+34 954 212 774",
+        "name": "prints&friends",
+        "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-13:30",
+        "shop": "copyshop",
+        "wheelchair": "yes",
+        "@timestamp": "2014-12-06T13:21:50Z",
+        "@version": "1",
+        "@changeset": "27289705",
+        "@user": "MoiArcSan",
+        "@uid": "691714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891656,
+          37.3898411
         ]
       }
     }
