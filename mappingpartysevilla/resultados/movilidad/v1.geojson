@@ -1,0 +1,7192 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-15T23:26:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/127353582",
+      "properties": {
+        "@id": "way/127353582",
+        "area": "yes",
+        "bicycle": "yes",
+        "highway": "residential",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-25T17:26:43Z",
+        "@version": 3,
+        "@changeset": 26326181,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.0026667,
+              37.3932454
+            ],
+            [
+              -6.0027545,
+              37.3932388
+            ],
+            [
+              -6.0035201,
+              37.3931813
+            ],
+            [
+              -6.0034204,
+              37.3928529
+            ],
+            [
+              -6.0031763,
+              37.3920494
+            ],
+            [
+              -6.0027336,
+              37.3908326
+            ],
+            [
+              -6.0026273,
+              37.3908203
+            ],
+            [
+              -6.0025505,
+              37.3908165
+            ],
+            [
+              -6.0019891,
+              37.3909258
+            ],
+            [
+              -6.0018984,
+              37.3909443
+            ],
+            [
+              -6.0014984,
+              37.391023
+            ],
+            [
+              -6.0018647,
+              37.3920829
+            ],
+            [
+              -6.0022648,
+              37.3932756
+            ],
+            [
+              -6.0026667,
+              37.3932454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18546016",
+      "properties": {
+        "@id": "way/18546016",
+        "highway": "residential",
+        "name": "Calle Cabeza del Rey Don Pedro",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:56:44Z",
+        "@version": 12,
+        "@changeset": 26326746,
+        "@user": "JLGA",
+        "@uid": 2304222
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9899876,
+            37.3896031
+          ],
+          [
+            -5.9900685,
+            37.3894177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18937990",
+      "properties": {
+        "@id": "way/18937990",
+        "highway": "pedestrian",
+        "name": "Calle Descalzos",
+        "surface": "cobblestone",
+        "@timestamp": "2014-10-26T10:56:23Z",
+        "@version": 11,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9885633,
+            37.3907322
+          ],
+          [
+            -5.9889685,
+            37.3909828
+          ],
+          [
+            -5.988974,
+            37.3909862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18940032",
+      "properties": {
+        "@id": "way/18940032",
+        "highway": "pedestrian",
+        "history": "Retrieved from v6; Retrieved from v5",
+        "name": "Calle Placentines",
+        "@timestamp": "2014-10-25T17:51:46Z",
+        "@version": 14,
+        "@changeset": 26326649,
+        "@user": "JLGA",
+        "@uid": 2304222
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9925407,
+            37.3867763
+          ],
+          [
+            -5.9924626,
+            37.386844
+          ],
+          [
+            -5.9924505,
+            37.3871435
+          ],
+          [
+            -5.9924627,
+            37.3874476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18978883",
+      "properties": {
+        "@id": "way/18978883",
+        "highway": "residential",
+        "history": "Retrieved from v6",
+        "name": "Calle Moratín",
+        "@timestamp": "2014-10-25T16:51:45Z",
+        "@version": 14,
+        "@changeset": 26325402,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9990297,
+            37.3890947
+          ],
+          [
+            -5.9990095,
+            37.3891074
+          ],
+          [
+            -5.9988764,
+            37.3891907
+          ],
+          [
+            -5.998706,
+            37.3892933
+          ],
+          [
+            -5.9986412,
+            37.3893298
+          ],
+          [
+            -5.9980676,
+            37.3895758
+          ],
+          [
+            -5.9978305,
+            37.3897165
+          ],
+          [
+            -5.9977049,
+            37.3897905
+          ],
+          [
+            -5.9975072,
+            37.3899168
+          ],
+          [
+            -5.9974215,
+            37.3899674
+          ],
+          [
+            -5.9971151,
+            37.3900537
+          ],
+          [
+            -5.9969891,
+            37.3900822
+          ],
+          [
+            -5.9966739,
+            37.390113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18979063",
+      "properties": {
+        "@id": "way/18979063",
+        "highway": "pedestrian",
+        "history": "Retrieved from v7",
+        "name": "Calle Muñoz Olivé",
+        "@timestamp": "2014-10-25T16:36:41Z",
+        "@version": 12,
+        "@changeset": 26325098,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9967574,
+            37.3903218
+          ],
+          [
+            -5.9967148,
+            37.3903305
+          ],
+          [
+            -5.9965173,
+            37.3903711
+          ],
+          [
+            -5.9957791,
+            37.3905348
+          ],
+          [
+            -5.9953021,
+            37.3906648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18979795",
+      "properties": {
+        "@id": "way/18979795",
+        "highway": "residential",
+        "maxwidth": "1.8",
+        "name": "Calle Bailén",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 20,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9978082,
+            37.3905089
+          ],
+          [
+            -5.9980015,
+            37.3906609
+          ],
+          [
+            -5.9985797,
+            37.3909479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19095795",
+      "properties": {
+        "@id": "way/19095795",
+        "highway": "residential",
+        "lanes": "1",
+        "name": "Calle Alfonso XII",
+        "oneway": "yes",
+        "surface": "sett",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 21,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.996137,
+            37.3927077
+          ],
+          [
+            -5.9962769,
+            37.3927125
+          ],
+          [
+            -5.9969266,
+            37.3927975
+          ],
+          [
+            -5.9977077,
+            37.3928855
+          ],
+          [
+            -5.9984706,
+            37.3929637
+          ],
+          [
+            -5.9985839,
+            37.3929751
+          ],
+          [
+            -5.9991451,
+            37.3930173
+          ],
+          [
+            -5.9992452,
+            37.3930315
+          ],
+          [
+            -5.9997257,
+            37.393113
+          ],
+          [
+            -5.9999777,
+            37.3931584
+          ],
+          [
+            -6.0000308,
+            37.3931676
+          ],
+          [
+            -6.0003325,
+            37.3932218
+          ],
+          [
+            -6.0006071,
+            37.3932566
+          ],
+          [
+            -6.0006208,
+            37.3932577
+          ],
+          [
+            -6.0009522,
+            37.3932843
+          ],
+          [
+            -6.0012214,
+            37.3933114
+          ],
+          [
+            -6.0012653,
+            37.3933173
+          ],
+          [
+            -6.0014482,
+            37.393343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19095805",
+      "properties": {
+        "@id": "way/19095805",
+        "highway": "residential",
+        "name": "Calle del Silencio",
+        "oneway": "yes",
+        "surface": "sett",
+        "@timestamp": "2014-10-26T13:04:24Z",
+        "@version": 12,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9969101,
+            37.3922325
+          ],
+          [
+            -5.9969223,
+            37.3926507
+          ],
+          [
+            -5.9969266,
+            37.3927975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19095809",
+      "properties": {
+        "@id": "way/19095809",
+        "highway": "residential",
+        "name": "Calle Almirante Ulloa",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 11,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9984706,
+            37.3929637
+          ],
+          [
+            -5.9985589,
+            37.3923733
+          ],
+          [
+            -5.998561,
+            37.392359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124173",
+      "properties": {
+        "@id": "way/19124173",
+        "highway": "living_street",
+        "name": "Calle San Pedro Mártir",
+        "oneway": "yes",
+        "surface": "sett",
+        "@timestamp": "2014-10-26T13:04:24Z",
+        "@version": 12,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9995563,
+            37.3913736
+          ],
+          [
+            -6.0003609,
+            37.3913164
+          ],
+          [
+            -6.0004237,
+            37.391248
+          ],
+          [
+            -6.0005183,
+            37.391145
+          ],
+          [
+            -6.0008031,
+            37.390903
+          ],
+          [
+            -6.0008147,
+            37.3908931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124176",
+      "properties": {
+        "@id": "way/19124176",
+        "highway": "residential",
+        "name": "Calle Rafael González Abreu",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:24Z",
+        "@version": 13,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9995353,
+            37.3901905
+          ],
+          [
+            -5.9998551,
+            37.3905149
+          ],
+          [
+            -5.9998727,
+            37.3905328
+          ],
+          [
+            -6.0005183,
+            37.391145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124185",
+      "properties": {
+        "@id": "way/19124185",
+        "highway": "residential",
+        "name": "Calle Pedro del Toro",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "@timestamp": "2014-10-25T17:26:42Z",
+        "@version": 12,
+        "@changeset": 26326181,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0016825,
+            37.3915668
+          ],
+          [
+            -6.0014807,
+            37.3916215
+          ],
+          [
+            -6.0012684,
+            37.3916739
+          ],
+          [
+            -6.0011062,
+            37.3917043
+          ],
+          [
+            -6.0010596,
+            37.3917017
+          ],
+          [
+            -6.0010172,
+            37.3916944
+          ],
+          [
+            -6.0007854,
+            37.3917452
+          ],
+          [
+            -6.0005772,
+            37.3918147
+          ],
+          [
+            -6.0003387,
+            37.3919219
+          ],
+          [
+            -6.0000868,
+            37.392062
+          ],
+          [
+            -6.0000568,
+            37.3920787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124186",
+      "properties": {
+        "@id": "way/19124186",
+        "highway": "residential",
+        "name": "Calle Aguiar",
+        "surface": "paved",
+        "@timestamp": "2014-10-25T17:29:02Z",
+        "@version": 13,
+        "@changeset": 26326234,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0021438,
+            37.3929014
+          ],
+          [
+            -6.0012167,
+            37.3930271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124191",
+      "properties": {
+        "@id": "way/19124191",
+        "highway": "residential",
+        "name": "Calle Cristo del Calvario",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:23Z",
+        "@version": 11,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9985188,
+            37.3900488
+          ],
+          [
+            -5.9985302,
+            37.3900604
+          ],
+          [
+            -5.9989909,
+            37.3905288
+          ],
+          [
+            -5.99922,
+            37.3907835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124195",
+      "properties": {
+        "@id": "way/19124195",
+        "highway": "residential",
+        "history": "Retrieved from v6",
+        "name": "Calle Pastor y Landero",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 15,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0003973,
+            37.38841
+          ],
+          [
+            -6.0000351,
+            37.3881202
+          ],
+          [
+            -5.9995593,
+            37.3877735
+          ],
+          [
+            -5.9994181,
+            37.3876706
+          ],
+          [
+            -5.9990727,
+            37.3873967
+          ],
+          [
+            -5.9983826,
+            37.3868275
+          ],
+          [
+            -5.9982731,
+            37.3866899
+          ],
+          [
+            -5.9982716,
+            37.386688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124202",
+      "properties": {
+        "@id": "way/19124202",
+        "highway": "pedestrian",
+        "history": "Retrieved from v5",
+        "name": "Pasaje Cristóbal Morales",
+        "@timestamp": "2014-10-25T16:57:30Z",
+        "@version": 13,
+        "@changeset": 26325525,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9989128,
+            37.3882832
+          ],
+          [
+            -5.9984762,
+            37.3885631
+          ],
+          [
+            -5.9983044,
+            37.3886822
+          ],
+          [
+            -5.9982879,
+            37.3886936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19124212",
+      "properties": {
+        "@id": "way/19124212",
+        "highway": "residential",
+        "name": "Calle Valdés Leal",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 9,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9979687,
+            37.3870012
+          ],
+          [
+            -5.9972752,
+            37.3866046
+          ],
+          [
+            -5.9973369,
+            37.3864473
+          ],
+          [
+            -5.9973433,
+            37.3864285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19748204",
+      "properties": {
+        "@id": "way/19748204",
+        "highway": "secondary",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:20:14Z",
+        "@version": 13,
+        "@changeset": 26326031,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0014984,
+            37.391023
+          ],
+          [
+            -6.0017294,
+            37.3909775
+          ],
+          [
+            -6.001821,
+            37.3909595
+          ],
+          [
+            -6.0018984,
+            37.3909443
+          ],
+          [
+            -6.0023829,
+            37.3908494
+          ],
+          [
+            -6.0024431,
+            37.3908376
+          ],
+          [
+            -6.0025505,
+            37.3908165
+          ],
+          [
+            -6.0025918,
+            37.3908084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19790066",
+      "properties": {
+        "@id": "way/19790066",
+        "highway": "pedestrian",
+        "name": "Calle Meson del Moro",
+        "@timestamp": "2014-10-25T16:29:14Z",
+        "@version": 8,
+        "@changeset": 26324935,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.990194,
+            37.3862495
+          ],
+          [
+            -5.9899581,
+            37.3861685
+          ],
+          [
+            -5.9897663,
+            37.3861304
+          ],
+          [
+            -5.9895602,
+            37.3860669
+          ],
+          [
+            -5.9894492,
+            37.3860143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19802244",
+      "properties": {
+        "@id": "way/19802244",
+        "highway": "pedestrian",
+        "history": "Retrieved from v2",
+        "name": "Calle Lirio",
+        "oneway": "yes",
+        "surface": "cobblestone",
+        "@timestamp": "2014-10-26T22:42:52Z",
+        "@version": 12,
+        "@changeset": 26352201,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9882714,
+            37.3899224
+          ],
+          [
+            -5.9881976,
+            37.3894395
+          ],
+          [
+            -5.9880053,
+            37.3891761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19802253",
+      "properties": {
+        "@id": "way/19802253",
+        "highway": "residential",
+        "name": "Calle Rodriquez Marín",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T10:56:23Z",
+        "@version": 10,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137482,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9882755,
+            37.3905698
+          ],
+          [
+            -5.9883272,
+            37.3902612
+          ],
+          [
+            -5.9884582,
+            37.3900321
+          ],
+          [
+            -5.9884262,
+            37.389918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19802263",
+      "properties": {
+        "@id": "way/19802263",
+        "highway": "residential",
+        "name": "Calle Conquista",
+        "@timestamp": "2014-10-25T17:43:43Z",
+        "@version": 8,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9864329,
+            37.3861471
+          ],
+          [
+            -5.9861882,
+            37.3860583
+          ],
+          [
+            -5.9860076,
+            37.3859927
+          ],
+          [
+            -5.985906,
+            37.3859558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22295876",
+      "properties": {
+        "@id": "way/22295876",
+        "highway": "residential",
+        "name": "Calle Virgen de la Sierra",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:10:39Z",
+        "@version": 14,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.983107,
+            37.3804822
+          ],
+          [
+            -5.9831236,
+            37.3803627
+          ],
+          [
+            -5.9831869,
+            37.3802983
+          ],
+          [
+            -5.9832288,
+            37.380282
+          ],
+          [
+            -5.9832683,
+            37.3802666
+          ],
+          [
+            -5.983355,
+            37.3802725
+          ],
+          [
+            -5.9844651,
+            37.3806262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22743745",
+      "properties": {
+        "@id": "way/22743745",
+        "highway": "residential",
+        "history": "Retrieved from v1",
+        "name": "Calle Mateos Gago",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:20:42Z",
+        "@version": 10,
+        "@changeset": 26324763,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9917354,
+            37.3860938
+          ],
+          [
+            -5.9913234,
+            37.3860941
+          ],
+          [
+            -5.9911186,
+            37.3860942
+          ],
+          [
+            -5.9909116,
+            37.3860944
+          ],
+          [
+            -5.9908552,
+            37.3860997
+          ],
+          [
+            -5.9904392,
+            37.3861845
+          ],
+          [
+            -5.990194,
+            37.3862495
+          ],
+          [
+            -5.9896596,
+            37.3868288
+          ],
+          [
+            -5.9893141,
+            37.3871838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22743752",
+      "properties": {
+        "@id": "way/22743752",
+        "highway": "living_street",
+        "name": "Calle Miguel de Mañara",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:01:14Z",
+        "@version": 11,
+        "@changeset": 26325601,
+        "@user": "CarlosRodLop",
+        "@uid": 506967,
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4135835,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9926726,
+            37.3840757
+          ],
+          [
+            -5.9926252,
+            37.3841262
+          ],
+          [
+            -5.9922948,
+            37.3843165
+          ],
+          [
+            -5.9922683,
+            37.3843594
+          ],
+          [
+            -5.9923309,
+            37.3844581
+          ],
+          [
+            -5.9924184,
+            37.3845961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22743996",
+      "properties": {
+        "@id": "way/22743996",
+        "highway": "residential",
+        "history": "Retrieved from v2",
+        "name": "Calle Hernando Colón",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T10:52:51Z",
+        "@version": 14,
+        "@changeset": 26339224,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9938128,
+            37.3882145
+          ],
+          [
+            -5.9936865,
+            37.3880137
+          ],
+          [
+            -5.9936406,
+            37.3879005
+          ],
+          [
+            -5.9934375,
+            37.3873997
+          ],
+          [
+            -5.9934248,
+            37.3873669
+          ],
+          [
+            -5.9934212,
+            37.3873573
+          ],
+          [
+            -5.9933495,
+            37.3867985
+          ],
+          [
+            -5.9933423,
+            37.3867438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22744025",
+      "properties": {
+        "@id": "way/22744025",
+        "highway": "residential",
+        "name": "Calle Trastámara",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:20:13Z",
+        "@version": 13,
+        "@changeset": 26326031,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0007577,
+            37.3880628
+          ],
+          [
+            -6.0009652,
+            37.3883152
+          ],
+          [
+            -6.0014184,
+            37.3890467
+          ],
+          [
+            -6.0016102,
+            37.3893972
+          ],
+          [
+            -6.001807,
+            37.3897662
+          ],
+          [
+            -6.0019997,
+            37.390131
+          ],
+          [
+            -6.0023519,
+            37.3907913
+          ],
+          [
+            -6.0023829,
+            37.3908494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26707211",
+      "properties": {
+        "@id": "way/26707211",
+        "highway": "residential",
+        "name": "Calle Cepeda",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:23Z",
+        "@version": 4,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0006362,
+            37.3927007
+          ],
+          [
+            -6.0002701,
+            37.3928987
+          ],
+          [
+            -6.0000684,
+            37.3930778
+          ],
+          [
+            -5.9999947,
+            37.3931433
+          ],
+          [
+            -5.9999777,
+            37.3931584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28081502",
+      "properties": {
+        "@id": "way/28081502",
+        "highway": "residential",
+        "lanes": "1",
+        "name": "Plaza del Museo",
+        "oneway": "yes",
+        "surface": "sett",
+        "@timestamp": "2014-10-26T13:04:25Z",
+        "@version": 7,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9993586,
+            37.3922965
+          ],
+          [
+            -5.9993198,
+            37.3926423
+          ],
+          [
+            -5.9992498,
+            37.3930077
+          ],
+          [
+            -5.9992452,
+            37.3930315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28114058",
+      "properties": {
+        "@id": "way/28114058",
+        "highway": "residential",
+        "history": "Retrieved from v5",
+        "name": "Calle de Nicholas Antonio",
+        "@timestamp": "2014-10-25T16:32:01Z",
+        "@version": 7,
+        "@changeset": 26324991,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9880873,
+            37.3849618
+          ],
+          [
+            -5.9880523,
+            37.3849298
+          ],
+          [
+            -5.9878262,
+            37.3846801
+          ],
+          [
+            -5.987658,
+            37.3844943
+          ],
+          [
+            -5.9871132,
+            37.3843341
+          ],
+          [
+            -5.9869979,
+            37.3843002
+          ],
+          [
+            -5.9868201,
+            37.3842479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28115188",
+      "properties": {
+        "@id": "way/28115188",
+        "highway": "pedestrian",
+        "history": "Retrieved from v2",
+        "name": "Calle Dean Miranda",
+        "@timestamp": "2014-10-25T17:02:20Z",
+        "@version": 4,
+        "@changeset": 26325626,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9923683,
+            37.3836629
+          ],
+          [
+            -5.992178,
+            37.3834209
+          ],
+          [
+            -5.9920108,
+            37.3832159
+          ],
+          [
+            -5.9919997,
+            37.38314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28115849",
+      "properties": {
+        "@id": "way/28115849",
+        "highway": "residential",
+        "name": "Calle Argote de Molina",
+        "oneway": "-1",
+        "@timestamp": "2014-10-25T17:51:45Z",
+        "@version": 7,
+        "@changeset": 26326649,
+        "@user": "JLGA",
+        "@uid": 2304222
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.991284,
+            37.3887191
+          ],
+          [
+            -5.9912053,
+            37.3886571
+          ],
+          [
+            -5.9911036,
+            37.3884674
+          ],
+          [
+            -5.9911637,
+            37.3883284
+          ],
+          [
+            -5.9913208,
+            37.3880974
+          ],
+          [
+            -5.9915055,
+            37.3879643
+          ],
+          [
+            -5.9916794,
+            37.3878617
+          ],
+          [
+            -5.9918225,
+            37.3877358
+          ],
+          [
+            -5.991972,
+            37.3876131
+          ],
+          [
+            -5.9921601,
+            37.3876209
+          ],
+          [
+            -5.9924627,
+            37.3874476
+          ],
+          [
+            -5.9929691,
+            37.3870837
+          ],
+          [
+            -5.9930275,
+            37.3870255
+          ],
+          [
+            -5.9930565,
+            37.386955
+          ],
+          [
+            -5.9930415,
+            37.3867665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28116429",
+      "properties": {
+        "@id": "way/28116429",
+        "highway": "tertiary",
+        "name": "Calle Puerta de Triana",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:51:45Z",
+        "@version": 9,
+        "@changeset": 26325402,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9996317,
+            37.3891543
+          ],
+          [
+            -5.999445,
+            37.3893448
+          ],
+          [
+            -5.9994449,
+            37.3893449
+          ],
+          [
+            -5.99905,
+            37.3897136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28116741",
+      "properties": {
+        "@id": "way/28116741",
+        "highway": "pedestrian",
+        "name": "Calle Ciriaco Esteban",
+        "@timestamp": "2014-10-25T16:36:40Z",
+        "@version": 4,
+        "@changeset": 26325098,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9978926,
+            37.3904554
+          ],
+          [
+            -5.9978875,
+            37.3904487
+          ],
+          [
+            -5.9977965,
+            37.3903271
+          ],
+          [
+            -5.9975072,
+            37.3899168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28117009",
+      "properties": {
+        "@id": "way/28117009",
+        "highway": "residential",
+        "name": "Calle Santas Patronas",
+        "oneway": "-1",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 8,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9996317,
+            37.3891543
+          ],
+          [
+            -5.9995273,
+            37.3890871
+          ],
+          [
+            -5.9993486,
+            37.3888765
+          ],
+          [
+            -5.9992573,
+            37.3887878
+          ],
+          [
+            -5.9990985,
+            37.3885398
+          ],
+          [
+            -5.9989128,
+            37.3882832
+          ],
+          [
+            -5.9986941,
+            37.3880034
+          ],
+          [
+            -5.9985335,
+            37.3878548
+          ],
+          [
+            -5.9984314,
+            37.3876767
+          ],
+          [
+            -5.9982244,
+            37.3874515
+          ],
+          [
+            -5.9978558,
+            37.3870894
+          ],
+          [
+            -5.99785,
+            37.3870837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28117491",
+      "properties": {
+        "@id": "way/28117491",
+        "highway": "residential",
+        "name": "Calle Jimios",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T10:52:51Z",
+        "@version": 8,
+        "@changeset": 26339224,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9947073,
+            37.3865189
+          ],
+          [
+            -5.9947141,
+            37.3865623
+          ],
+          [
+            -5.9947457,
+            37.3866827
+          ],
+          [
+            -5.9948541,
+            37.3867455
+          ],
+          [
+            -5.9950374,
+            37.3870494
+          ],
+          [
+            -5.9952045,
+            37.3871885
+          ],
+          [
+            -5.9954125,
+            37.3873681
+          ],
+          [
+            -5.9954149,
+            37.3873703
+          ],
+          [
+            -5.9954964,
+            37.3874034
+          ],
+          [
+            -5.9956333,
+            37.3876932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28253537",
+      "properties": {
+        "@id": "way/28253537",
+        "highway": "residential",
+        "name": "Calle Gracia Fernández Palacios",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 3,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9973035,
+            37.385759
+          ],
+          [
+            -5.9976483,
+            37.3861173
+          ],
+          [
+            -5.997685,
+            37.3863241
+          ],
+          [
+            -5.9977,
+            37.3864808
+          ],
+          [
+            -5.9977054,
+            37.3865382
+          ],
+          [
+            -5.9977056,
+            37.38654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31283636",
+      "properties": {
+        "@id": "way/31283636",
+        "highway": "residential",
+        "maxspeed": "20",
+        "motor_vehicle": "destination",
+        "name": "Calle Águilas",
+        "note": "La señal de circulación prohibida lleva una nota. Textualmente \"Excepto residentes, servicio público, garajes autorizados, hoteles y de 8 a 12 H y de 16 a 18 H carga y descarga\"",
+        "oneway": "yes",
+        "psv": "yes",
+        "source:maxspeed": "sign",
+        "@timestamp": "2014-10-26T10:56:23Z",
+        "@version": 10,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9872328,
+            37.3898356
+          ],
+          [
+            -5.9872487,
+            37.389837
+          ],
+          [
+            -5.9881251,
+            37.3899157
+          ],
+          [
+            -5.9882714,
+            37.3899224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31283833",
+      "properties": {
+        "@id": "way/31283833",
+        "access": "yes",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "yes",
+        "highway": "living_street",
+        "history": "Retrieved from v7",
+        "motor_vehicle": "yes",
+        "name": "Calle Deán López Cepero",
+        "noexit": "yes",
+        "oneway": "no",
+        "sidewalk": "none",
+        "surface": "cobblestone",
+        "width": "3m",
+        "@timestamp": "2014-10-25T16:34:16Z",
+        "@version": 6,
+        "@changeset": 26325043,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9889854,
+            37.3898373
+          ],
+          [
+            -5.9889071,
+            37.3901471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31648550",
+      "properties": {
+        "@id": "way/31648550",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "yes",
+        "service": "driveway",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 5,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.005421,
+            37.3925912
+          ],
+          [
+            -6.0053401,
+            37.3926864
+          ],
+          [
+            -6.0052199,
+            37.3927769
+          ],
+          [
+            -6.0049576,
+            37.3927938
+          ],
+          [
+            -6.0049041,
+            37.3927973
+          ],
+          [
+            -6.0044404,
+            37.3928219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31739089",
+      "properties": {
+        "@id": "way/31739089",
+        "highway": "residential",
+        "name": "Calle Jándalo",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 10,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.00366,
+            37.3893558
+          ],
+          [
+            -6.0037496,
+            37.3893061
+          ],
+          [
+            -6.0040376,
+            37.3892248
+          ],
+          [
+            -6.0043558,
+            37.3892093
+          ],
+          [
+            -6.0047733,
+            37.3892993
+          ],
+          [
+            -6.0050761,
+            37.3894588
+          ],
+          [
+            -6.0052776,
+            37.38975
+          ],
+          [
+            -6.0054688,
+            37.390184
+          ],
+          [
+            -6.0054824,
+            37.3902952
+          ],
+          [
+            -6.0055223,
+            37.3906221
+          ],
+          [
+            -6.0055388,
+            37.3907121
+          ],
+          [
+            -6.0056079,
+            37.3913818
+          ],
+          [
+            -6.0055472,
+            37.3920617
+          ],
+          [
+            -6.0054789,
+            37.3923732
+          ],
+          [
+            -6.005421,
+            37.3925912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37246858",
+      "properties": {
+        "@id": "way/37246858",
+        "highway": "residential",
+        "name": "Plaza de la Magdalena",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:25Z",
+        "@version": 3,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9969869,
+            37.3907137
+          ],
+          [
+            -5.9970648,
+            37.3908464
+          ],
+          [
+            -5.9972172,
+            37.3911063
+          ],
+          [
+            -5.9972255,
+            37.3911204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37375825",
+      "properties": {
+        "@id": "way/37375825",
+        "highway": "residential",
+        "name": "Calle Gravina",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:24Z",
+        "@version": 5,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0012214,
+            37.3933114
+          ],
+          [
+            -6.0012167,
+            37.3930271
+          ],
+          [
+            -6.0011471,
+            37.3920191
+          ],
+          [
+            -6.0010596,
+            37.3917017
+          ],
+          [
+            -6.000919,
+            37.3912615
+          ],
+          [
+            -6.0008147,
+            37.3908931
+          ],
+          [
+            -6.0006923,
+            37.39064
+          ],
+          [
+            -6.0004435,
+            37.3903135
+          ],
+          [
+            -5.9999496,
+            37.3897684
+          ],
+          [
+            -5.9994452,
+            37.3893449
+          ],
+          [
+            -5.999445,
+            37.3893448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37376927",
+      "properties": {
+        "@id": "way/37376927",
+        "bicycle": "yes",
+        "highway": "living_street",
+        "maxwidth": "2",
+        "name": "Calle Bailén",
+        "oneway": "yes",
+        "surface": "sett",
+        "@timestamp": "2014-10-26T13:04:23Z",
+        "@version": 5,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0000868,
+            37.392062
+          ],
+          [
+            -6.0001017,
+            37.3920783
+          ],
+          [
+            -6.0005196,
+            37.3925356
+          ],
+          [
+            -6.0006362,
+            37.3927007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37379053",
+      "properties": {
+        "@id": "way/37379053",
+        "highway": "residential",
+        "maxspeed": "20",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:20:43Z",
+        "@version": 5,
+        "@changeset": 26324763,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9925407,
+            37.3867763
+          ],
+          [
+            -5.9924898,
+            37.3863785
+          ],
+          [
+            -5.9924178,
+            37.3863092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37569560",
+      "properties": {
+        "@id": "way/37569560",
+        "highway": "residential",
+        "name": "Calle Cabeza del Rey Don Pedro",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:34:16Z",
+        "@version": 4,
+        "@changeset": 26325043,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137484,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "from",
+            "rel": 4137486,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9899876,
+            37.3896031
+          ],
+          [
+            -5.9898529,
+            37.3897404
+          ],
+          [
+            -5.9896928,
+            37.3899671
+          ],
+          [
+            -5.9895839,
+            37.3902191
+          ],
+          [
+            -5.9893173,
+            37.3905023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37569562",
+      "properties": {
+        "@id": "way/37569562",
+        "highway": "residential",
+        "history": "Retrieved from v7",
+        "name": "Calle Boteros",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T10:56:23Z",
+        "@version": 2,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137484,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9888621,
+            37.390538
+          ],
+          [
+            -5.9891239,
+            37.3904763
+          ],
+          [
+            -5.989273,
+            37.3904958
+          ],
+          [
+            -5.9893173,
+            37.3905023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37569563",
+      "properties": {
+        "@id": "way/37569563",
+        "highway": "residential",
+        "maxspeed": "30",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-26T10:16:01Z",
+        "@version": 3,
+        "@changeset": 26338628,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.989273,
+            37.3904958
+          ],
+          [
+            -5.9891074,
+            37.3907482
+          ],
+          [
+            -5.9890989,
+            37.3907987
+          ],
+          [
+            -5.988974,
+            37.3909862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56767120",
+      "properties": {
+        "@id": "way/56767120",
+        "highway": "residential",
+        "history": "Retrieved from v7",
+        "name": "Calle Méndez Núñez",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:36:41Z",
+        "@version": 2,
+        "@changeset": 26325098,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9964081,
+            37.388973
+          ],
+          [
+            -5.9964696,
+            37.3895574
+          ],
+          [
+            -5.9965568,
+            37.3898123
+          ],
+          [
+            -5.9966739,
+            37.390113
+          ],
+          [
+            -5.9967574,
+            37.3903218
+          ],
+          [
+            -5.9969293,
+            37.3907284
+          ],
+          [
+            -5.9969297,
+            37.3907294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56767123",
+      "properties": {
+        "@id": "way/56767123",
+        "highway": "pedestrian",
+        "name": "Calle Barcelona",
+        "@timestamp": "2014-10-26T10:14:13Z",
+        "@version": 2,
+        "@changeset": 26338594,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9955283,
+            37.3881866
+          ],
+          [
+            -5.9954798,
+            37.3877309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67377793",
+      "properties": {
+        "@id": "way/67377793",
+        "highway": "pedestrian",
+        "name": "Plaza de Santa Cruz",
+        "@timestamp": "2014-10-25T16:29:14Z",
+        "@version": 2,
+        "@changeset": 26324935,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9885577,
+            37.3850441
+          ],
+          [
+            -5.988281,
+            37.3851651
+          ],
+          [
+            -5.9882915,
+            37.3852421
+          ],
+          [
+            -5.9883686,
+            37.3853153
+          ],
+          [
+            -5.9885681,
+            37.3852534
+          ],
+          [
+            -5.9886312,
+            37.3851862
+          ],
+          [
+            -5.9885577,
+            37.3850441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67377809",
+      "properties": {
+        "@id": "way/67377809",
+        "history": "Retrieved from v6; Retrieved from v2",
+        "name": "Calle Bamberg",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:51:46Z",
+        "@version": 2,
+        "@changeset": 26326649,
+        "@user": "JLGA",
+        "@uid": 2304222
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9914983,
+            37.3883795
+          ],
+          [
+            -5.9911637,
+            37.3883284
+          ],
+          [
+            -5.9910658,
+            37.3883153
+          ],
+          [
+            -5.990979,
+            37.3882956
+          ],
+          [
+            -5.9909092,
+            37.3882817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122269872",
+      "properties": {
+        "@id": "way/122269872",
+        "highway": "pedestrian",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T16:20:43Z",
+        "@version": 3,
+        "@changeset": 26324763,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9924178,
+            37.3863092
+          ],
+          [
+            -5.9919557,
+            37.3862639
+          ],
+          [
+            -5.9918919,
+            37.386226
+          ],
+          [
+            -5.9917942,
+            37.3861324
+          ],
+          [
+            -5.9917354,
+            37.3860938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127353234",
+      "properties": {
+        "@id": "way/127353234",
+        "highway": "residential",
+        "surface": "paving_stones",
+        "@timestamp": "2014-10-25T17:26:43Z",
+        "@version": 3,
+        "@changeset": 26326181,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0017294,
+            37.3909775
+          ],
+          [
+            -6.0018469,
+            37.3910472
+          ],
+          [
+            -6.0020279,
+            37.3910149
+          ],
+          [
+            -6.0023518,
+            37.390957
+          ],
+          [
+            -6.0024431,
+            37.3908376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129037726",
+      "properties": {
+        "@id": "way/129037726",
+        "foot": "designated",
+        "highway": "cycleway",
+        "maxspeed": "10",
+        "segregated": "no",
+        "@timestamp": "2014-10-25T17:06:29Z",
+        "@version": 10,
+        "@changeset": 26325711,
+        "@user": "CarlosRodLop",
+        "@uid": 506967,
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4135831,
+            "reltags": {
+              "except": "bicycle",
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9948407,
+            37.3882854
+          ],
+          [
+            -5.9944518,
+            37.3880595
+          ],
+          [
+            -5.9943499,
+            37.3879188
+          ],
+          [
+            -5.9942023,
+            37.3868916
+          ],
+          [
+            -5.9941695,
+            37.3866388
+          ],
+          [
+            -5.9939929,
+            37.38568
+          ],
+          [
+            -5.9939019,
+            37.3847647
+          ],
+          [
+            -5.9937645,
+            37.3840077
+          ],
+          [
+            -5.9936456,
+            37.3833241
+          ],
+          [
+            -5.9935754,
+            37.382985
+          ],
+          [
+            -5.9935633,
+            37.3829412
+          ],
+          [
+            -5.9935221,
+            37.3827916
+          ],
+          [
+            -5.9934706,
+            37.382697
+          ],
+          [
+            -5.9933667,
+            37.3825678
+          ],
+          [
+            -5.9932031,
+            37.3824173
+          ],
+          [
+            -5.9930888,
+            37.3823121
+          ],
+          [
+            -5.9930585,
+            37.3822941
+          ],
+          [
+            -5.9930274,
+            37.3822758
+          ],
+          [
+            -5.9929792,
+            37.38235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151278398",
+      "properties": {
+        "@id": "way/151278398",
+        "foot": "yes",
+        "highway": "living_street",
+        "maxwidth": "2",
+        "motor_vehicle": "destination",
+        "name": "Calle Vírgenes",
+        "noexit": "yes",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-26T22:45:41Z",
+        "@version": 7,
+        "@changeset": 26352242,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137481,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "to",
+            "rel": 4137483,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "to",
+            "rel": 4137485,
+            "reltags": {
+              "restriction": "only_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9891843,
+            37.3895873
+          ],
+          [
+            -5.9890298,
+            37.3897491
+          ],
+          [
+            -5.9889854,
+            37.3898373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160129062",
+      "properties": {
+        "@id": "way/160129062",
+        "highway": "residential",
+        "maxspeed": "30",
+        "@timestamp": "2014-10-25T16:35:47Z",
+        "@version": 2,
+        "@changeset": 26325073,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9868201,
+            37.3842479
+          ],
+          [
+            -5.9865397,
+            37.3841551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219896197",
+      "properties": {
+        "@id": "way/219896197",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Calle Jándalo",
+        "oneway": "yes",
+        "source:maxspeed": "zone",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 3,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.005421,
+            37.3925912
+          ],
+          [
+            -6.0053086,
+            37.3928435
+          ],
+          [
+            -6.0053202,
+            37.3929132
+          ],
+          [
+            -6.005205,
+            37.3929344
+          ],
+          [
+            -6.0043071,
+            37.3930994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222105700",
+      "properties": {
+        "@id": "way/222105700",
+        "operator": "Tussam",
+        "railway": "tram",
+        "source": "ide.Sevilla",
+        "source:date": "2011",
+        "source:ref": "http://www.idee.es/local#sevilla",
+        "@timestamp": "2014-10-25T17:06:28Z",
+        "@version": 2,
+        "@changeset": 26325711,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9941443,
+            37.3868705
+          ],
+          [
+            -5.9941276,
+            37.386652
+          ],
+          [
+            -5.9939929,
+            37.38568
+          ],
+          [
+            -5.9939276,
+            37.3852084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225661634",
+      "properties": {
+        "@id": "way/225661634",
+        "barrier": "chain",
+        "highway": "pedestrian",
+        "source": "ide.Sevilla",
+        "source:date": "2011",
+        "@timestamp": "2014-10-25T17:04:28Z",
+        "@version": 2,
+        "@changeset": 26325669,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9935244,
+            37.38485
+          ],
+          [
+            -5.9929354,
+            37.385097
+          ],
+          [
+            -5.9928727,
+            37.3851009
+          ],
+          [
+            -5.9928364,
+            37.3850735
+          ],
+          [
+            -5.9925273,
+            37.3846016
+          ],
+          [
+            -5.9931469,
+            37.3843427
+          ],
+          [
+            -5.9931795,
+            37.3843413
+          ],
+          [
+            -5.9932105,
+            37.3843664
+          ],
+          [
+            -5.9935244,
+            37.38485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235582100",
+      "properties": {
+        "@id": "way/235582100",
+        "highway": "tertiary",
+        "name": "Calle San Pablo",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:24Z",
+        "@version": 4,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.99905,
+            37.3897136
+          ],
+          [
+            -5.9986573,
+            37.3899614
+          ],
+          [
+            -5.9985822,
+            37.3900088
+          ],
+          [
+            -5.9985188,
+            37.3900488
+          ],
+          [
+            -5.998152,
+            37.3902861
+          ],
+          [
+            -5.9981064,
+            37.3903156
+          ],
+          [
+            -5.9978983,
+            37.3904517
+          ],
+          [
+            -5.9978926,
+            37.3904554
+          ],
+          [
+            -5.9978107,
+            37.3905073
+          ],
+          [
+            -5.9978083,
+            37.3905088
+          ],
+          [
+            -5.9978082,
+            37.3905089
+          ],
+          [
+            -5.9973591,
+            37.390613
+          ],
+          [
+            -5.9969869,
+            37.3907137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237655241",
+      "properties": {
+        "@id": "way/237655241",
+        "highway": "residential",
+        "name": "Calle Ximénez de Enciso",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:52:16Z",
+        "@version": 2,
+        "@changeset": 26326660,
+        "@user": "Paco Vte",
+        "@uid": 2422040
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9883906,
+            37.3864895
+          ],
+          [
+            -5.9883002,
+            37.3865475
+          ],
+          [
+            -5.9882198,
+            37.3865695
+          ],
+          [
+            -5.9881419,
+            37.3866117
+          ],
+          [
+            -5.9879398,
+            37.386724
+          ],
+          [
+            -5.9879263,
+            37.3867315
+          ],
+          [
+            -5.9878292,
+            37.3867853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238193529",
+      "properties": {
+        "@id": "way/238193529",
+        "highway": "residential",
+        "name": "Calle Marqués de Paradas",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-25T17:26:42Z",
+        "@version": 2,
+        "@changeset": 26326181,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0014984,
+            37.391023
+          ],
+          [
+            -6.0016825,
+            37.3915668
+          ],
+          [
+            -6.0017167,
+            37.3916638
+          ],
+          [
+            -6.0017981,
+            37.3918943
+          ],
+          [
+            -6.0018343,
+            37.3919969
+          ],
+          [
+            -6.0018647,
+            37.3920829
+          ],
+          [
+            -6.0019219,
+            37.392245
+          ],
+          [
+            -6.0021438,
+            37.3929014
+          ],
+          [
+            -6.0022648,
+            37.3932756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239209578",
+      "properties": {
+        "@id": "way/239209578",
+        "highway": "residential",
+        "name": "Calle Canalejas",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T13:04:23Z",
+        "@version": 2,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9985797,
+            37.3909479
+          ],
+          [
+            -5.9988633,
+            37.3909205
+          ],
+          [
+            -5.9992029,
+            37.3907901
+          ],
+          [
+            -5.99922,
+            37.3907835
+          ],
+          [
+            -5.9998188,
+            37.3905535
+          ],
+          [
+            -5.9998727,
+            37.3905328
+          ],
+          [
+            -6.0004435,
+            37.3903135
+          ],
+          [
+            -6.0009071,
+            37.3901354
+          ],
+          [
+            -6.0010064,
+            37.3900973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257744036",
+      "properties": {
+        "@id": "way/257744036",
+        "highway": "service",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 2,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0043071,
+            37.3930994
+          ],
+          [
+            -6.0043344,
+            37.3930648
+          ],
+          [
+            -6.0043985,
+            37.3929835
+          ],
+          [
+            -6.0043965,
+            37.3929054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261491871",
+      "properties": {
+        "@id": "way/261491871",
+        "highway": "residential",
+        "name": "Calle San Laureano",
+        "oneway": "yes",
+        "surface": "paving_stones",
+        "@timestamp": "2014-10-25T17:29:02Z",
+        "@version": 2,
+        "@changeset": 26326234,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0022648,
+            37.3932756
+          ],
+          [
+            -6.0026667,
+            37.3932454
+          ],
+          [
+            -6.0027545,
+            37.3932388
+          ],
+          [
+            -6.0033429,
+            37.3931946
+          ],
+          [
+            -6.0035201,
+            37.3931813
+          ],
+          [
+            -6.0036526,
+            37.3931713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274571001",
+      "properties": {
+        "@id": "way/274571001",
+        "highway": "residential",
+        "history": "Retrieved from v3",
+        "name": "Calle Rodrigo Caro",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:09:30Z",
+        "@version": 2,
+        "@changeset": 26325788,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9907623,
+            37.3859224
+          ],
+          [
+            -5.9908049,
+            37.3859452
+          ],
+          [
+            -5.9908552,
+            37.3860997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309605282",
+      "properties": {
+        "@id": "way/309605282",
+        "foot": "designated",
+        "highway": "cycleway",
+        "maxspeed": "10",
+        "segregated": "no",
+        "@timestamp": "2014-10-25T16:57:32Z",
+        "@version": 1,
+        "@changeset": 26325528,
+        "@user": "CarlosRodLop",
+        "@uid": 506967,
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4135831,
+            "reltags": {
+              "except": "bicycle",
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9929792,
+            37.38235
+          ],
+          [
+            -5.9895225,
+            37.3814376
+          ],
+          [
+            -5.9893745,
+            37.381416
+          ],
+          [
+            -5.9892726,
+            37.3814119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309605528",
+      "properties": {
+        "@id": "way/309605528",
+        "highway": "living_street",
+        "name": "Calle Miguel de Mañara",
+        "oneway": "yes",
+        "@timestamp": "2014-10-25T17:01:13Z",
+        "@version": 1,
+        "@changeset": 26325601,
+        "@user": "CarlosRodLop",
+        "@uid": 506967,
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4135835,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9924184,
+            37.3845961
+          ],
+          [
+            -5.9924962,
+            37.3845628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309705604",
+      "properties": {
+        "@id": "way/309705604",
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Calle Alhóndiga",
+        "oneway": "yes",
+        "surface": "cobblestone",
+        "@timestamp": "2014-10-26T10:56:23Z",
+        "@version": 3,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.988974,
+            37.3909862
+          ],
+          [
+            -5.9888216,
+            37.3912246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712271",
+      "properties": {
+        "@id": "way/309712271",
+        "highway": "residential",
+        "history": "Retrieved from v7",
+        "name": "Calle Boteros",
+        "oneway": "yes",
+        "@timestamp": "2014-10-26T10:56:22Z",
+        "@version": 1,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137486,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9893173,
+            37.3905023
+          ],
+          [
+            -5.9896975,
+            37.3906137
+          ],
+          [
+            -5.9899079,
+            37.39062
+          ],
+          [
+            -5.9902574,
+            37.3906904
+          ],
+          [
+            -5.9903595,
+            37.3907164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712272",
+      "properties": {
+        "@id": "way/309712272",
+        "highway": "pedestrian",
+        "name": "Calle Descalzos",
+        "surface": "cobblestone",
+        "@timestamp": "2014-10-26T10:56:22Z",
+        "@version": 1,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.988974,
+            37.3909862
+          ],
+          [
+            -5.9889766,
+            37.3909882
+          ],
+          [
+            -5.9891081,
+            37.3910908
+          ],
+          [
+            -5.9893141,
+            37.3911863
+          ],
+          [
+            -5.9895115,
+            37.3912954
+          ],
+          [
+            -5.98973,
+            37.3914352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712273",
+      "properties": {
+        "@id": "way/309712273",
+        "highway": "residential",
+        "maxspeed": "20",
+        "motor_vehicle": "destination",
+        "name": "Calle Águilas",
+        "note": "La señal de circulación prohibida lleva una nota. Textualmente \"Excepto residentes, servicio público, garajes autorizados, hoteles y de 8 a 12 H y de 16 a 18 H carga y descarga\"",
+        "oneway": "yes",
+        "psv": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-26T18:16:20Z",
+        "@version": 2,
+        "@changeset": 26346770,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9889854,
+            37.3898373
+          ],
+          [
+            -5.9896928,
+            37.3899671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712274",
+      "properties": {
+        "@id": "way/309712274",
+        "highway": "residential",
+        "maxspeed": "20",
+        "motor_vehicle": "destination",
+        "name": "Calle Águilas",
+        "note": "La señal de circulación prohibida lleva una nota. Textualmente \"Excepto residentes, servicio público, garajes autorizados, hoteles y de 8 a 12 H y de 16 a 18 H carga y descarga\"",
+        "oneway": "yes",
+        "psv": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-26T18:16:21Z",
+        "@version": 2,
+        "@changeset": 26346770,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137482,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9882714,
+            37.3899224
+          ],
+          [
+            -5.9884262,
+            37.389918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712275",
+      "properties": {
+        "@id": "way/309712275",
+        "highway": "residential",
+        "maxheight": "3",
+        "maxspeed": "20",
+        "maxwidth": "2",
+        "motor_vehicle": "destination",
+        "name": "Calle Águilas",
+        "note": "La señal de circulación prohibida lleva una nota. Textualmente \"Excepto residentes, servicio público, garajes autorizados, hoteles y de 8 a 12 H y de 16 a 18 H carga y descarga\"",
+        "oneway": "yes",
+        "psv": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt",
+        "@timestamp": "2014-10-26T18:16:21Z",
+        "@version": 2,
+        "@changeset": 26346770,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137481,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "from",
+            "rel": 4137483,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9884262,
+            37.389918
+          ],
+          [
+            -5.9887401,
+            37.3898592
+          ],
+          [
+            -5.9889545,
+            37.3898401
+          ],
+          [
+            -5.9889854,
+            37.3898373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129037726",
+      "properties": {
+        "@id": "way/129037726",
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4135831,
+            "reltags": {
+              "except": "bicycle",
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9948407,
+            37.3882854
+          ],
+          [
+            -5.9944518,
+            37.3880595
+          ],
+          [
+            -5.9943499,
+            37.3879188
+          ],
+          [
+            -5.9942023,
+            37.3868916
+          ],
+          [
+            -5.9941695,
+            37.3866388
+          ],
+          [
+            -5.9939929,
+            37.38568
+          ],
+          [
+            -5.9939019,
+            37.3847647
+          ],
+          [
+            -5.9937645,
+            37.3840077
+          ],
+          [
+            -5.9936456,
+            37.3833241
+          ],
+          [
+            -5.9935754,
+            37.382985
+          ],
+          [
+            -5.9935633,
+            37.3829412
+          ],
+          [
+            -5.9935221,
+            37.3827916
+          ],
+          [
+            -5.9934706,
+            37.382697
+          ],
+          [
+            -5.9933667,
+            37.3825678
+          ],
+          [
+            -5.9932031,
+            37.3824173
+          ],
+          [
+            -5.9930888,
+            37.3823121
+          ],
+          [
+            -5.9930585,
+            37.3822941
+          ],
+          [
+            -5.9930274,
+            37.3822758
+          ],
+          [
+            -5.9929792,
+            37.38235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309605282",
+      "properties": {
+        "@id": "way/309605282",
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4135831,
+            "reltags": {
+              "except": "bicycle",
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9929792,
+            37.38235
+          ],
+          [
+            -5.9895225,
+            37.3814376
+          ],
+          [
+            -5.9893745,
+            37.381416
+          ],
+          [
+            -5.9892726,
+            37.3814119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22743752",
+      "properties": {
+        "@id": "way/22743752",
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4135835,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9926726,
+            37.3840757
+          ],
+          [
+            -5.9926252,
+            37.3841262
+          ],
+          [
+            -5.9922948,
+            37.3843165
+          ],
+          [
+            -5.9922683,
+            37.3843594
+          ],
+          [
+            -5.9923309,
+            37.3844581
+          ],
+          [
+            -5.9924184,
+            37.3845961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309605528",
+      "properties": {
+        "@id": "way/309605528",
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4135835,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9924184,
+            37.3845961
+          ],
+          [
+            -5.9924962,
+            37.3845628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712271",
+      "properties": {
+        "@id": "way/309712271",
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137486,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9893173,
+            37.3905023
+          ],
+          [
+            -5.9896975,
+            37.3906137
+          ],
+          [
+            -5.9899079,
+            37.39062
+          ],
+          [
+            -5.9902574,
+            37.3906904
+          ],
+          [
+            -5.9903595,
+            37.3907164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19802253",
+      "properties": {
+        "@id": "way/19802253",
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137482,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9882755,
+            37.3905698
+          ],
+          [
+            -5.9883272,
+            37.3902612
+          ],
+          [
+            -5.9884582,
+            37.3900321
+          ],
+          [
+            -5.9884262,
+            37.389918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37569560",
+      "properties": {
+        "@id": "way/37569560",
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137484,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "from",
+            "rel": 4137486,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9899876,
+            37.3896031
+          ],
+          [
+            -5.9898529,
+            37.3897404
+          ],
+          [
+            -5.9896928,
+            37.3899671
+          ],
+          [
+            -5.9895839,
+            37.3902191
+          ],
+          [
+            -5.9893173,
+            37.3905023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37569562",
+      "properties": {
+        "@id": "way/37569562",
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137484,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9888621,
+            37.390538
+          ],
+          [
+            -5.9891239,
+            37.3904763
+          ],
+          [
+            -5.989273,
+            37.3904958
+          ],
+          [
+            -5.9893173,
+            37.3905023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116198088",
+      "properties": {
+        "@id": "way/116198088",
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137485,
+            "reltags": {
+              "restriction": "only_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9891843,
+            37.3895873
+          ],
+          [
+            -5.9892328,
+            37.3895124
+          ],
+          [
+            -5.9892638,
+            37.389364
+          ],
+          [
+            -5.9892543,
+            37.3892305
+          ],
+          [
+            -5.989182,
+            37.3890096
+          ],
+          [
+            -5.9890994,
+            37.3885043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151278398",
+      "properties": {
+        "@id": "way/151278398",
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137481,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "to",
+            "rel": 4137483,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "to",
+            "rel": 4137485,
+            "reltags": {
+              "restriction": "only_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9891843,
+            37.3895873
+          ],
+          [
+            -5.9890298,
+            37.3897491
+          ],
+          [
+            -5.9889854,
+            37.3898373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712274",
+      "properties": {
+        "@id": "way/309712274",
+        "@relations": [
+          {
+            "role": "from",
+            "rel": 4137482,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9882714,
+            37.3899224
+          ],
+          [
+            -5.9884262,
+            37.389918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309712275",
+      "properties": {
+        "@id": "way/309712275",
+        "@relations": [
+          {
+            "role": "to",
+            "rel": 4137481,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "from",
+            "rel": 4137483,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9884262,
+            37.389918
+          ],
+          [
+            -5.9887401,
+            37.3898592
+          ],
+          [
+            -5.9889545,
+            37.3898401
+          ],
+          [
+            -5.9889854,
+            37.3898373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/191232145",
+      "properties": {
+        "@id": "node/191232145",
+        "access": "no",
+        "highway": "give_way",
+        "@timestamp": "2014-10-25T16:34:16Z",
+        "@version": 18,
+        "@changeset": 26325043,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4137484,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "via",
+            "rel": 4137486,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9893173,
+          37.3905023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/191232621",
+      "properties": {
+        "@id": "node/191232621",
+        "@timestamp": "2014-10-26T10:10:36Z",
+        "@version": 13,
+        "@changeset": 26338542,
+        "@user": "tanoca60",
+        "@uid": 693887,
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4137485,
+            "reltags": {
+              "restriction": "only_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891843,
+          37.3895873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263336205",
+      "properties": {
+        "@id": "node/263336205",
+        "parking_lane:left": "no_stopping",
+        "traffic_sign": "ES:r307",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 5,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0053202,
+          37.3929132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353981205",
+      "properties": {
+        "@id": "node/353981205",
+        "parking_lane:left": "no_stopping",
+        "traffic_sign": "ES:r307",
+        "@timestamp": "2014-10-25T16:59:20Z",
+        "@version": 2,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.005205,
+          37.3929344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/366839946",
+      "properties": {
+        "@id": "node/366839946",
+        "addr:city": "Sevilla",
+        "addr:country": "ES",
+        "addr:housenumber": "69",
+        "addr:province": "Sevilla",
+        "addr:street": "Recaredo",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Puerta de Carmona",
+        "opening_hours": "Mo-Su 09:30-22:00",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-28T19:50:37Z",
+        "@version": 6,
+        "@changeset": 26396867,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9846553,
+          37.3891358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/710632979",
+      "properties": {
+        "@id": "node/710632979",
+        "highway": "stop",
+        "@timestamp": "2014-10-25T16:41:58Z",
+        "@version": 3,
+        "@changeset": 26325191,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892726,
+          37.3814119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1291733102",
+      "properties": {
+        "@id": "node/1291733102",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "yes",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 2,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858714,
+          37.3855554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1300151861",
+      "properties": {
+        "@id": "node/1300151861",
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:44Z",
+        "@version": 3,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9847505,
+          37.3799494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1300151872",
+      "properties": {
+        "@id": "node/1300151872",
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:44Z",
+        "@version": 3,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848828,
+          37.3799846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1313593133",
+      "properties": {
+        "@id": "node/1313593133",
+        "name": "El Jamón",
+        "shop": "supermarket",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 3,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9844847,
+          37.3878814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1333504827",
+      "properties": {
+        "@id": "node/1333504827",
+        "highway": "bus_stop",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:44Z",
+        "@version": 2,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98509,
+          37.3803676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1343588604",
+      "properties": {
+        "@id": "node/1343588604",
+        "addr:street": "Avda. Menéndez y Pelayo",
+        "name": "Supermercados Mas",
+        "shop": "supermarket",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 3,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9849974,
+          37.387336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1348488868",
+      "properties": {
+        "@id": "node/1348488868",
+        "addr:street": "Avda. Menéndez y Pelayo",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Café de Indias",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:43:44Z",
+        "@version": 3,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9862842,
+          37.3855975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1351928991",
+      "properties": {
+        "@id": "node/1351928991",
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 5,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9844309,
+          37.3892788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1366212809",
+      "properties": {
+        "@id": "node/1366212809",
+        "highway": "traffic_signals:sound",
+        "@timestamp": "2014-10-25T16:39:05Z",
+        "@version": 2,
+        "@changeset": 26325131,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9882547,
+          37.3816652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1424593528",
+      "properties": {
+        "@id": "node/1424593528",
+        "highway": "stop",
+        "@timestamp": "2014-10-25T16:46:30Z",
+        "@version": 2,
+        "@changeset": 26325279,
+        "@user": "CarlosRodLop",
+        "@uid": 506967,
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4135831,
+            "reltags": {
+              "except": "bicycle",
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9929792,
+          37.38235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811088769",
+      "properties": {
+        "@id": "node/1811088769",
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 3,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848246,
+          37.3885458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2293459771",
+      "properties": {
+        "@id": "node/2293459771",
+        "name": "Opencor",
+        "shop": "convenience",
+        "source": "survey",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:44Z",
+        "@version": 3,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9838584,
+          37.3797221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2293459783",
+      "properties": {
+        "@id": "node/2293459783",
+        "railway": "subway_entrance",
+        "tactile_paving": "no",
+        "@timestamp": "2014-10-25T17:10:44Z",
+        "@version": 3,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9873558,
+          37.3806897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2706901469",
+      "properties": {
+        "@id": "node/2706901469",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 2,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9842778,
+          37.3891141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149356536",
+      "properties": {
+        "@id": "node/3149356536",
+        "amenity": "taxi",
+        "@timestamp": "2014-10-25T16:20:42Z",
+        "@version": 1,
+        "@changeset": 26324763,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9913234,
+          37.3860941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149356537",
+      "properties": {
+        "@id": "node/3149356537",
+        "amenity": "parking",
+        "capacity": "disabled=only",
+        "@timestamp": "2014-10-25T16:29:14Z",
+        "@version": 2,
+        "@changeset": 26324935,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9911186,
+          37.3860942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149367623",
+      "properties": {
+        "@id": "node/3149367623",
+        "amenity": "parking",
+        "capacity": "disabled=only",
+        "@timestamp": "2014-10-25T16:32:01Z",
+        "@version": 1,
+        "@changeset": 26324991,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878262,
+          37.3846801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149375241",
+      "properties": {
+        "@id": "node/3149375241",
+        "highway": "traffic_mirror",
+        "@timestamp": "2014-10-25T16:35:47Z",
+        "@version": 1,
+        "@changeset": 26325073,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9868463,
+          37.3842342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149375242",
+      "properties": {
+        "@id": "node/3149375242",
+        "highway": "traffic_mirror",
+        "@timestamp": "2014-10-25T16:35:47Z",
+        "@version": 1,
+        "@changeset": 26325073,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9868297,
+          37.3842685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149376288",
+      "properties": {
+        "@id": "node/3149376288",
+        "highway": "crossing",
+        "@timestamp": "2014-10-25T16:36:40Z",
+        "@version": 1,
+        "@changeset": 26325098,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978875,
+          37.3904487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149376289",
+      "properties": {
+        "@id": "node/3149376289",
+        "highway": "crossing",
+        "@timestamp": "2014-10-25T16:36:40Z",
+        "@version": 1,
+        "@changeset": 26325098,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978983,
+          37.3904517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378235",
+      "properties": {
+        "@id": "node/3149378235",
+        "highway": "give_way",
+        "vehicle": "yes",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 1,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9973369,
+          37.3864473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378236",
+      "properties": {
+        "@id": "node/3149378236",
+        "vehicle": "yes",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 1,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9977,
+          37.3864808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378238",
+      "properties": {
+        "@id": "node/3149378238",
+        "highway": "give_way",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 1,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9982731,
+          37.3866899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378239",
+      "properties": {
+        "@id": "node/3149378239",
+        "maxwidth": "1.9",
+        "@timestamp": "2014-10-25T16:39:46Z",
+        "@version": 1,
+        "@changeset": 26325146,
+        "@user": "Morlok",
+        "@uid": 136947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978558,
+          37.3870894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399120",
+      "properties": {
+        "@id": "node/3149399120",
+        "highway": "stop",
+        "@timestamp": "2014-10-25T16:52:28Z",
+        "@version": 1,
+        "@changeset": 26325415,
+        "@user": "CarlosRodLop",
+        "@uid": 506967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892726,
+          37.3814119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399932",
+      "properties": {
+        "@id": "node/3149399932",
+        "maxwidth": "1.9",
+        "@timestamp": "2014-10-25T16:51:45Z",
+        "@version": 1,
+        "@changeset": 26325402,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9990095,
+          37.3891074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399933",
+      "properties": {
+        "@id": "node/3149399933",
+        "parking": "underground",
+        "@timestamp": "2014-10-25T16:51:45Z",
+        "@version": 1,
+        "@changeset": 26325402,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9994449,
+          37.3893449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399934",
+      "properties": {
+        "@id": "node/3149399934",
+        "highway": "crossing",
+        "@timestamp": "2014-10-25T16:51:45Z",
+        "@version": 1,
+        "@changeset": 26325402,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985822,
+          37.3900088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149407539",
+      "properties": {
+        "@id": "node/3149407539",
+        "highway": "give_way",
+        "@timestamp": "2014-10-25T16:57:30Z",
+        "@version": 1,
+        "@changeset": 26325525,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9983044,
+          37.3886822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149408282",
+      "properties": {
+        "@id": "node/3149408282",
+        "parking_lane:right": "no_stopping",
+        "traffic_sign": "ES:r307",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 1,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0049576,
+          37.3927938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149408283",
+      "properties": {
+        "@id": "node/3149408283",
+        "highway": "give_way",
+        "traffic_sign": "ES:r1",
+        "@timestamp": "2014-10-25T16:59:19Z",
+        "@version": 1,
+        "@changeset": 26325563,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0043344,
+          37.3930648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430129",
+      "properties": {
+        "@id": "node/3149430129",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9838068,
+          37.3798457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430130",
+      "properties": {
+        "@id": "node/3149430130",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9837411,
+          37.3799374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430131",
+      "properties": {
+        "@id": "node/3149430131",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9837274,
+          37.3799699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430132",
+      "properties": {
+        "@id": "node/3149430132",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9849344,
+          37.3801463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430133",
+      "properties": {
+        "@id": "node/3149430133",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9849667,
+          37.3801562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430134",
+      "properties": {
+        "@id": "node/3149430134",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848823,
+          37.3802449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430135",
+      "properties": {
+        "@id": "node/3149430135",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9832288,
+          37.380282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430136",
+      "properties": {
+        "@id": "node/3149430136",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9845945,
+          37.3803297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430137",
+      "properties": {
+        "@id": "node/3149430137",
+        "highway": "bus_stop",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9853065,
+          37.3804305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430138",
+      "properties": {
+        "@id": "node/3149430138",
+        "highway": "bus_stop",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9855188,
+          37.3804932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430139",
+      "properties": {
+        "@id": "node/3149430139",
+        "highway": "bus_stop",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9858276,
+          37.3805741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430140",
+      "properties": {
+        "@id": "node/3149430140",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9862907,
+          37.3805936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430141",
+      "properties": {
+        "@id": "node/3149430141",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:37Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9862521,
+          37.3806898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430142",
+      "properties": {
+        "@id": "node/3149430142",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:10:38Z",
+        "@version": 1,
+        "@changeset": 26325812,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9873854,
+          37.380793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441407",
+      "properties": {
+        "@id": "node/3149441407",
+        "traffic_sign": "ES:r101",
+        "@timestamp": "2014-10-25T17:20:13Z",
+        "@version": 1,
+        "@changeset": 26326031,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0023519,
+          37.3907913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441408",
+      "properties": {
+        "@id": "node/3149441408",
+        "parking_lane:left": "no_stopping",
+        "traffic_sign": "ES:r307",
+        "@timestamp": "2014-10-25T17:20:13Z",
+        "@version": 1,
+        "@changeset": 26326031,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0019891,
+          37.3909258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441409",
+      "properties": {
+        "@id": "node/3149441409",
+        "parking_lane:right": "no_stopping",
+        "traffic_sign": "ES:r307",
+        "@timestamp": "2014-10-25T17:20:13Z",
+        "@version": 1,
+        "@changeset": 26326031,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0018984,
+          37.3909443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441410",
+      "properties": {
+        "@id": "node/3149441410",
+        "amenity": "taxi",
+        "traffic_sign": "ES:s18",
+        "@timestamp": "2014-10-25T17:20:13Z",
+        "@version": 1,
+        "@changeset": 26326031,
+        "@user": "antoniacarvajal",
+        "@uid": 2424607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0020279,
+          37.3910149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489004",
+      "properties": {
+        "@id": "node/3149489004",
+        "highway": "elevator",
+        "subway": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:43:42Z",
+        "@version": 1,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9870626,
+          37.3806034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489007",
+      "properties": {
+        "@id": "node/3149489007",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 2,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9862196,
+          37.385688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489009",
+      "properties": {
+        "@id": "node/3149489009",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 2,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9860266,
+          37.3860016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489011",
+      "properties": {
+        "@id": "node/3149489011",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:43:43Z",
+        "@version": 1,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9857643,
+          37.3864651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489012",
+      "properties": {
+        "@id": "node/3149489012",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:43:43Z",
+        "@version": 1,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9856823,
+          37.3866528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489013",
+      "properties": {
+        "@id": "node/3149489013",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T17:43:43Z",
+        "@version": 1,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9855226,
+          37.3869344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489014",
+      "properties": {
+        "@id": "node/3149489014",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:43:43Z",
+        "@version": 1,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9851928,
+          37.387662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149489015",
+      "properties": {
+        "@id": "node/3149489015",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-25T17:43:43Z",
+        "@version": 1,
+        "@changeset": 26326495,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9851086,
+          37.3879115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149495500",
+      "properties": {
+        "@id": "node/3149495500",
+        "crossing": "uncontrolled",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "@timestamp": "2014-10-25T17:52:16Z",
+        "@version": 1,
+        "@changeset": 26326660,
+        "@user": "Paco Vte",
+        "@uid": 2422040
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879398,
+          37.386724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149506882",
+      "properties": {
+        "@id": "node/3149506882",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "yes",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-25T17:53:37Z",
+        "@version": 1,
+        "@changeset": 26326683,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850647,
+          37.3880314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150387805",
+      "properties": {
+        "@id": "node/3150387805",
+        "maxspeed": "20",
+        "@timestamp": "2014-10-26T10:14:13Z",
+        "@version": 1,
+        "@changeset": 26338594,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9962418,
+          37.3879036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150387806",
+      "properties": {
+        "@id": "node/3150387806",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T10:14:13Z",
+        "@version": 1,
+        "@changeset": 26338594,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9963333,
+          37.3879284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419447",
+      "properties": {
+        "@id": "node/3150419447",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9864642,
+          37.385268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419448",
+      "properties": {
+        "@id": "node/3150419448",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.985911,
+          37.3855717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419449",
+      "properties": {
+        "@id": "node/3150419449",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859819,
+          37.3857759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419450",
+      "properties": {
+        "@id": "node/3150419450",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "yes",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9859908,
+          37.38579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419451",
+      "properties": {
+        "@id": "node/3150419451",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9857171,
+          37.3860137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419452",
+      "properties": {
+        "@id": "node/3150419452",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9856062,
+          37.3862374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419453",
+      "properties": {
+        "@id": "node/3150419453",
+        "highway": "bus_stop",
+        "tactile_paving": "no",
+        "wheelchair": "yes",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9855458,
+          37.3864385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419454",
+      "properties": {
+        "@id": "node/3150419454",
+        "addr:country": "ES",
+        "amenity": "telephone",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850408,
+          37.3874055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419455",
+      "properties": {
+        "@id": "node/3150419455",
+        "crossing": "traffic_signals",
+        "crossing_ref": "zebra",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-10-30T20:47:20Z",
+        "@version": 2,
+        "@changeset": 26448140,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850203,
+          37.3876918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419456",
+      "properties": {
+        "@id": "node/3150419456",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "no",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9850046,
+          37.3877167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419457",
+      "properties": {
+        "@id": "node/3150419457",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:51Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9848089,
+          37.3877937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419458",
+      "properties": {
+        "@id": "node/3150419458",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "supervised": "no",
+        "tactile_paving": "no",
+        "wheelchair": "limited",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9846612,
+          37.3880129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150419459",
+      "properties": {
+        "@id": "node/3150419459",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "@timestamp": "2014-10-26T10:36:52Z",
+        "@version": 1,
+        "@changeset": 26338954,
+        "@user": "CristinaDC",
+        "@uid": 2392758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9843238,
+          37.3891322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438003",
+      "properties": {
+        "@id": "node/3150438003",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T10:52:51Z",
+        "@version": 1,
+        "@changeset": 26339224,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9934212,
+          37.3873573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438004",
+      "properties": {
+        "@id": "node/3150438004",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T10:52:51Z",
+        "@version": 1,
+        "@changeset": 26339224,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9954125,
+          37.3873681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438005",
+      "properties": {
+        "@id": "node/3150438005",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T10:52:51Z",
+        "@version": 1,
+        "@changeset": 26339224,
+        "@user": "Bodhi Pappas",
+        "@uid": 2424610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9936406,
+          37.3879005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150443042",
+      "properties": {
+        "@id": "node/3150443042",
+        "barrier": "bollard",
+        "bicycle": "yes",
+        "foot": "yes",
+        "material": "metal",
+        "@timestamp": "2014-10-26T10:56:21Z",
+        "@version": 1,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889685,
+          37.3909828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150443043",
+      "properties": {
+        "@id": "node/3150443043",
+        "barrier": "bollard",
+        "bicycle": "yes",
+        "foot": "yes",
+        "material": "metal",
+        "@timestamp": "2014-10-26T10:56:22Z",
+        "@version": 1,
+        "@changeset": 26339272,
+        "@user": "tanoca60",
+        "@uid": 693887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889766,
+          37.3909882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494906",
+      "properties": {
+        "@id": "node/3150494906",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9994452,
+          37.3893449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494907",
+      "properties": {
+        "@id": "node/3150494907",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985302,
+          37.3900604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494908",
+      "properties": {
+        "@id": "node/3150494908",
+        "amenity": "parking",
+        "capacity:disabled": "yes",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9995248,
+          37.3901703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494910",
+      "properties": {
+        "@id": "node/3150494910",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978083,
+          37.3905088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494911",
+      "properties": {
+        "@id": "node/3150494911",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9998551,
+          37.3905149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494912",
+      "properties": {
+        "@id": "node/3150494912",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9998188,
+          37.3905535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494913",
+      "properties": {
+        "@id": "node/3150494913",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992029,
+          37.3907901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494914",
+      "properties": {
+        "@id": "node/3150494914",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0008031,
+          37.390903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494915",
+      "properties": {
+        "@id": "node/3150494915",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:21Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9972172,
+          37.3911063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494916",
+      "properties": {
+        "@id": "node/3150494916",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0001017,
+          37.3920783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494917",
+      "properties": {
+        "@id": "node/3150494917",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985589,
+          37.3923733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494918",
+      "properties": {
+        "@id": "node/3150494918",
+        "amenity": "parking",
+        "capacity:disabled": "yes",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9969223,
+          37.3926507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494919",
+      "properties": {
+        "@id": "node/3150494919",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992498,
+          37.3930077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494920",
+      "properties": {
+        "@id": "node/3150494920",
+        "amenity": "parking",
+        "capacity:disabled": "yes",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0000684,
+          37.3930778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494921",
+      "properties": {
+        "@id": "node/3150494921",
+        "highway": "give_way",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9999947,
+          37.3931433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494922",
+      "properties": {
+        "@id": "node/3150494922",
+        "highway": "crossing",
+        "@timestamp": "2014-10-26T13:04:22Z",
+        "@version": 1,
+        "@changeset": 26339963,
+        "@user": "sun e",
+        "@uid": 2425793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006208,
+          37.3932577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263336205",
+      "properties": {
+        "@id": "node/263336205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0053202,
+          37.3929132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353981205",
+      "properties": {
+        "@id": "node/353981205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.005205,
+          37.3929344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149408282",
+      "properties": {
+        "@id": "node/3149408282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0049576,
+          37.3927938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149408283",
+      "properties": {
+        "@id": "node/3149408283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0043344,
+          37.3930648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1424593528",
+      "properties": {
+        "@id": "node/1424593528",
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4135831,
+            "reltags": {
+              "except": "bicycle",
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9929792,
+          37.38235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2344411004",
+      "properties": {
+        "@id": "node/2344411004",
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4135835,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9924184,
+          37.3845961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149367623",
+      "properties": {
+        "@id": "node/3149367623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9878262,
+          37.3846801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399120",
+      "properties": {
+        "@id": "node/3149399120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9892726,
+          37.3814119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149430135",
+      "properties": {
+        "@id": "node/3149430135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9832288,
+          37.380282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149376288",
+      "properties": {
+        "@id": "node/3149376288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978875,
+          37.3904487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149376289",
+      "properties": {
+        "@id": "node/3149376289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978983,
+          37.3904517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378235",
+      "properties": {
+        "@id": "node/3149378235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9973369,
+          37.3864473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378236",
+      "properties": {
+        "@id": "node/3149378236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9977,
+          37.3864808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378238",
+      "properties": {
+        "@id": "node/3149378238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9982731,
+          37.3866899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149378239",
+      "properties": {
+        "@id": "node/3149378239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978558,
+          37.3870894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399932",
+      "properties": {
+        "@id": "node/3149399932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9990095,
+          37.3891074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399933",
+      "properties": {
+        "@id": "node/3149399933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9994449,
+          37.3893449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149399934",
+      "properties": {
+        "@id": "node/3149399934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985822,
+          37.3900088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149407539",
+      "properties": {
+        "@id": "node/3149407539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9983044,
+          37.3886822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441407",
+      "properties": {
+        "@id": "node/3149441407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0023519,
+          37.3907913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441408",
+      "properties": {
+        "@id": "node/3149441408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0019891,
+          37.3909258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441409",
+      "properties": {
+        "@id": "node/3149441409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0018984,
+          37.3909443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149441410",
+      "properties": {
+        "@id": "node/3149441410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0020279,
+          37.3910149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494906",
+      "properties": {
+        "@id": "node/3150494906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9994452,
+          37.3893449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494907",
+      "properties": {
+        "@id": "node/3150494907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985302,
+          37.3900604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494910",
+      "properties": {
+        "@id": "node/3150494910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9978083,
+          37.3905088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494911",
+      "properties": {
+        "@id": "node/3150494911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9998551,
+          37.3905149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494912",
+      "properties": {
+        "@id": "node/3150494912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9998188,
+          37.3905535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494913",
+      "properties": {
+        "@id": "node/3150494913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992029,
+          37.3907901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494914",
+      "properties": {
+        "@id": "node/3150494914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0008031,
+          37.390903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494915",
+      "properties": {
+        "@id": "node/3150494915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9972172,
+          37.3911063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149356536",
+      "properties": {
+        "@id": "node/3149356536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9913234,
+          37.3860941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149356537",
+      "properties": {
+        "@id": "node/3149356537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9911186,
+          37.3860942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438003",
+      "properties": {
+        "@id": "node/3150438003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9934212,
+          37.3873573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438004",
+      "properties": {
+        "@id": "node/3150438004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9954125,
+          37.3873681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150438005",
+      "properties": {
+        "@id": "node/3150438005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9936406,
+          37.3879005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494916",
+      "properties": {
+        "@id": "node/3150494916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0001017,
+          37.3920783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494917",
+      "properties": {
+        "@id": "node/3150494917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9985589,
+          37.3923733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494918",
+      "properties": {
+        "@id": "node/3150494918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9969223,
+          37.3926507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494919",
+      "properties": {
+        "@id": "node/3150494919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9992498,
+          37.3930077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494920",
+      "properties": {
+        "@id": "node/3150494920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0000684,
+          37.3930778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494921",
+      "properties": {
+        "@id": "node/3150494921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9999947,
+          37.3931433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150494922",
+      "properties": {
+        "@id": "node/3150494922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0006208,
+          37.3932577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/191230158",
+      "properties": {
+        "@id": "node/191230158",
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4137481,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "via",
+            "rel": 4137483,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889854,
+          37.3898373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/191230159",
+      "properties": {
+        "@id": "node/191230159",
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4137482,
+            "reltags": {
+              "restriction": "no_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9884262,
+          37.389918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/191232145",
+      "properties": {
+        "@id": "node/191232145",
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4137484,
+            "reltags": {
+              "restriction": "no_left_turn",
+              "type": "restriction"
+            }
+          },
+          {
+            "role": "via",
+            "rel": 4137486,
+            "reltags": {
+              "restriction": "only_left_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9893173,
+          37.3905023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/191232621",
+      "properties": {
+        "@id": "node/191232621",
+        "@relations": [
+          {
+            "role": "via",
+            "rel": 4137485,
+            "reltags": {
+              "restriction": "only_right_turn",
+              "type": "restriction"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9891843,
+          37.3895873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149495500",
+      "properties": {
+        "@id": "node/3149495500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9879398,
+          37.386724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150443042",
+      "properties": {
+        "@id": "node/3150443042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889685,
+          37.3909828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150443043",
+      "properties": {
+        "@id": "node/3150443043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9889766,
+          37.3909882
+        ]
+      }
+    }
+  ]
+}
