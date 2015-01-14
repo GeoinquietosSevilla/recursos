@@ -12,10 +12,7 @@
         "natural": "tree",
         "species": "Dracaena draco",
         "species:es": "Drago",
-	"icon": {
-	    "iconUrl": "trees/tree1.png",
-	    "iconSize": [16, 16]
-   	}
+	"marker-symbol": "trees/tree1.png",
       },
       "geometry": {
         "type": "Point",
