@@ -12,13 +12,7735 @@
         "natural": "tree",
         "species": "Dracaena draco",
         "species:es": "Drago",
-	"marker-symbol": "trees/tree1.png",
+        "marker-symbol": "wetland",
+        "marker-size": "small",
+        "marker-color": "#005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -5.948247,
           37.3814296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422854",
+      "properties": {
+        "@id": "node/3149422854",
+        "natural": "tree",
+        "species": "Cupressus arizonica",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9498465,
+          37.3801334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422855",
+      "properties": {
+        "@id": "node/3149422855",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9498899,
+          37.3801362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422856",
+      "properties": {
+        "@id": "node/3149422856",
+        "natural": "tree",
+        "species": "Cupressus arizonica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488342,
+          37.3801508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422857",
+      "properties": {
+        "@id": "node/3149422857",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9497859,
+          37.3801678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422858",
+      "properties": {
+        "@id": "node/3149422858",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476851,
+          37.3804252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422859",
+      "properties": {
+        "@id": "node/3149422859",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476493,
+          37.3804487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422860",
+      "properties": {
+        "@id": "node/3149422860",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476488,
+          37.3804736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422861",
+      "properties": {
+        "@id": "node/3149422861",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476644,
+          37.3805024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422862",
+      "properties": {
+        "@id": "node/3149422862",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477102,
+          37.380526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422863",
+      "properties": {
+        "@id": "node/3149422863",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9460104,
+          37.381252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422864",
+      "properties": {
+        "@id": "node/3149422864",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9459496,
+          37.3812685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422865",
+      "properties": {
+        "@id": "node/3149422865",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9460306,
+          37.3813031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422866",
+      "properties": {
+        "@id": "node/3149422866",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9471169,
+          37.3813858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422867",
+      "properties": {
+        "@id": "node/3149422867",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469789,
+          37.3814035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422868",
+      "properties": {
+        "@id": "node/3149422868",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9471512,
+          37.3814495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422869",
+      "properties": {
+        "@id": "node/3149422869",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458722,
+          37.3816717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422870",
+      "properties": {
+        "@id": "node/3149422870",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9448551,
+          37.3816849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422871",
+      "properties": {
+        "@id": "node/3149422871",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9448172,
+          37.3817013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422872",
+      "properties": {
+        "@id": "node/3149422872",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945025,
+          37.3817408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422873",
+      "properties": {
+        "@id": "node/3149422873",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945059,
+          37.3817509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422874",
+      "properties": {
+        "@id": "node/3149422874",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9448385,
+          37.3817659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422875",
+      "properties": {
+        "@id": "node/3149422875",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450052,
+          37.3817728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422876",
+      "properties": {
+        "@id": "node/3149422876",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9449713,
+          37.3817841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422877",
+      "properties": {
+        "@id": "node/3149422877",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450313,
+          37.3818124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422878",
+      "properties": {
+        "@id": "node/3149422878",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94507,
+          37.3818312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422879",
+      "properties": {
+        "@id": "node/3149422879",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450613,
+          37.3818626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422880",
+      "properties": {
+        "@id": "node/3149422880",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473428,
+          37.3819591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422881",
+      "properties": {
+        "@id": "node/3149422881",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473536,
+          37.3820377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422882",
+      "properties": {
+        "@id": "node/3149422882",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473872,
+          37.38206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422883",
+      "properties": {
+        "@id": "node/3149422883",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445517,
+          37.3820761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422884",
+      "properties": {
+        "@id": "node/3149422884",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444751,
+          37.3820968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422885",
+      "properties": {
+        "@id": "node/3149422885",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473994,
+          37.3821325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422886",
+      "properties": {
+        "@id": "node/3149422886",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947064,
+          37.3821366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422887",
+      "properties": {
+        "@id": "node/3149422887",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445272,
+          37.3821451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422888",
+      "properties": {
+        "@id": "node/3149422888",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9468949,
+          37.3821466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422889",
+      "properties": {
+        "@id": "node/3149422889",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.944502,
+          37.3821683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422890",
+      "properties": {
+        "@id": "node/3149422890",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469992,
+          37.3821723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422891",
+      "properties": {
+        "@id": "node/3149422891",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947307,
+          37.3821877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422892",
+      "properties": {
+        "@id": "node/3149422892",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469498,
+          37.3821931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422893",
+      "properties": {
+        "@id": "node/3149422893",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9433871,
+          37.3824069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422894",
+      "properties": {
+        "@id": "node/3149422894",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9433761,
+          37.3824151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422895",
+      "properties": {
+        "@id": "node/3149422895",
+        "natural": "tree",
+        "species": "Cupressus arizonica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9441053,
+          37.382432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422896",
+      "properties": {
+        "@id": "node/3149422896",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9434409,
+          37.3824414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422897",
+      "properties": {
+        "@id": "node/3149422897",
+        "natural": "tree",
+        "species": "Cupressus arizonica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9441077,
+          37.3825168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422898",
+      "properties": {
+        "@id": "node/3149422898",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436344,
+          37.3825187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422899",
+      "properties": {
+        "@id": "node/3149422899",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436479,
+          37.3825268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422900",
+      "properties": {
+        "@id": "node/3149422900",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436897,
+          37.3825268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422901",
+      "properties": {
+        "@id": "node/3149422901",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431912,
+          37.382906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422902",
+      "properties": {
+        "@id": "node/3149422902",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94504,
+          37.3829537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422903",
+      "properties": {
+        "@id": "node/3149422903",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9475798,
+          37.3829603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422904",
+      "properties": {
+        "@id": "node/3149422904",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9475865,
+          37.3829797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422905",
+      "properties": {
+        "@id": "node/3149422905",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9475533,
+          37.3830011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422906",
+      "properties": {
+        "@id": "node/3149422906",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947609,
+          37.3830086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422907",
+      "properties": {
+        "@id": "node/3149422907",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476082,
+          37.3830146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422908",
+      "properties": {
+        "@id": "node/3149422908",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9432868,
+          37.383051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422909",
+      "properties": {
+        "@id": "node/3149422909",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94504,
+          37.3831195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422910",
+      "properties": {
+        "@id": "node/3149422910",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450661,
+          37.3831458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422911",
+      "properties": {
+        "@id": "node/3149422911",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450131,
+          37.3831722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422912",
+      "properties": {
+        "@id": "node/3149422912",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450708,
+          37.3831735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422913",
+      "properties": {
+        "@id": "node/3149422913",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9454011,
+          37.3832356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422914",
+      "properties": {
+        "@id": "node/3149422914",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440232,
+          37.3832476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422915",
+      "properties": {
+        "@id": "node/3149422915",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440342,
+          37.3833047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422916",
+      "properties": {
+        "@id": "node/3149422916",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436731,
+          37.3834083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422917",
+      "properties": {
+        "@id": "node/3149422917",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.943655,
+          37.3834321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422918",
+      "properties": {
+        "@id": "node/3149422918",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9462591,
+          37.3835188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422919",
+      "properties": {
+        "@id": "node/3149422919",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9459289,
+          37.3836669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422920",
+      "properties": {
+        "@id": "node/3149422920",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458301,
+          37.3837102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149422921",
+      "properties": {
+        "@id": "node/3149422921",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458625,
+          37.3837347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431151",
+      "properties": {
+        "@id": "node/3149431151",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9498839,
+          37.3809753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431152",
+      "properties": {
+        "@id": "node/3149431152",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9497967,
+          37.3809878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431153",
+      "properties": {
+        "@id": "node/3149431153",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9496978,
+          37.381022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431154",
+      "properties": {
+        "@id": "node/3149431154",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9496056,
+          37.3810317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431155",
+      "properties": {
+        "@id": "node/3149431155",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9498559,
+          37.3810415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431156",
+      "properties": {
+        "@id": "node/3149431156",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481101,
+          37.3818725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431157",
+      "properties": {
+        "@id": "node/3149431157",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480708,
+          37.3821385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431158",
+      "properties": {
+        "@id": "node/3149431158",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481222,
+          37.3821997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431159",
+      "properties": {
+        "@id": "node/3149431159",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481834,
+          37.382221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431160",
+      "properties": {
+        "@id": "node/3149431160",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481755,
+          37.3822829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431161",
+      "properties": {
+        "@id": "node/3149431161",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.948221,
+          37.3823023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431162",
+      "properties": {
+        "@id": "node/3149431162",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479717,
+          37.3828372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431163",
+      "properties": {
+        "@id": "node/3149431163",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480053,
+          37.3828404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149431164",
+      "properties": {
+        "@id": "node/3149431164",
+        "natural": "tree",
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9478287,
+          37.3828812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436405",
+      "properties": {
+        "@id": "node/3149436405",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481411,
+          37.3802309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436406",
+      "properties": {
+        "@id": "node/3149436406",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481661,
+          37.3802472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436407",
+      "properties": {
+        "@id": "node/3149436407",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477603,
+          37.3804093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436408",
+      "properties": {
+        "@id": "node/3149436408",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477651,
+          37.3804445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436409",
+      "properties": {
+        "@id": "node/3149436409",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473253,
+          37.380557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436410",
+      "properties": {
+        "@id": "node/3149436410",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473569,
+          37.3805892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436411",
+      "properties": {
+        "@id": "node/3149436411",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9474358,
+          37.3806043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436412",
+      "properties": {
+        "@id": "node/3149436412",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9513151,
+          37.3806676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436413",
+      "properties": {
+        "@id": "node/3149436413",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9509053,
+          37.3807125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436414",
+      "properties": {
+        "@id": "node/3149436414",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9509437,
+          37.3807564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436415",
+      "properties": {
+        "@id": "node/3149436415",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477003,
+          37.3807655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436416",
+      "properties": {
+        "@id": "node/3149436416",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477477,
+          37.3807893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436417",
+      "properties": {
+        "@id": "node/3149436417",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477477,
+          37.380812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436418",
+      "properties": {
+        "@id": "node/3149436418",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477871,
+          37.3808418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436419",
+      "properties": {
+        "@id": "node/3149436419",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9478416,
+          37.3808604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436420",
+      "properties": {
+        "@id": "node/3149436420",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9513025,
+          37.3808669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436421",
+      "properties": {
+        "@id": "node/3149436421",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9509518,
+          37.3808969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436422",
+      "properties": {
+        "@id": "node/3149436422",
+        "natural": "tree",
+        "species": "Olea europaea",
+        "species:es": "Olivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9511588,
+          37.3809084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149436423",
+      "properties": {
+        "@id": "node/3149436423",
+        "natural": "tree",
+        "species": "Dracaena draco",
+        "species:es": "Drago",
+        "marker-symbol": "wetland",
+        "marker-size": "small",
+        "marker-color": "#005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482928,
+          37.3814237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149446085",
+      "properties": {
+        "@id": "node/3149446085",
+        "Species": "Cupressus sempervirens",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9478237,
+          37.3804945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149446087",
+      "properties": {
+        "@id": "node/3149446087",
+        "Species": "Cupressus sempervirens",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9478002,
+          37.3805236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149446100",
+      "properties": {
+        "@id": "node/3149446100",
+        "Species": "Cupressus sempervirens",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444187,
+          37.3828948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149446101",
+      "properties": {
+        "@id": "node/3149446101",
+        "Species": "Cupressus sempervirens",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9443781,
+          37.3829652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149446102",
+      "properties": {
+        "@id": "node/3149446102",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444888,
+          37.3830004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460376",
+      "properties": {
+        "@id": "node/3149460376",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483292,
+          37.3802352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460382",
+      "properties": {
+        "@id": "node/3149460382",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483244,
+          37.3802848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460383",
+      "properties": {
+        "@id": "node/3149460383",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9474654,
+          37.3802882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460384",
+      "properties": {
+        "@id": "node/3149460384",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483596,
+          37.38032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460385",
+      "properties": {
+        "@id": "node/3149460385",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9470876,
+          37.3803386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460386",
+      "properties": {
+        "@id": "node/3149460386",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9471938,
+          37.380342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460387",
+      "properties": {
+        "@id": "node/3149460387",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947141,
+          37.3803552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460388",
+      "properties": {
+        "@id": "node/3149460388",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9471165,
+          37.3803764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460389",
+      "properties": {
+        "@id": "node/3149460389",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482636,
+          37.3803798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460390",
+      "properties": {
+        "@id": "node/3149460390",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451151,
+          37.3809665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460391",
+      "properties": {
+        "@id": "node/3149460391",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450644,
+          37.3809971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460392",
+      "properties": {
+        "@id": "node/3149460392",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9450015,
+          37.3810149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460393",
+      "properties": {
+        "@id": "node/3149460393",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945106,
+          37.3810229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460394",
+      "properties": {
+        "@id": "node/3149460394",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451034,
+          37.3810751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460395",
+      "properties": {
+        "@id": "node/3149460395",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9447795,
+          37.3810882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460397",
+      "properties": {
+        "@id": "node/3149460397",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445714,
+          37.3812586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460398",
+      "properties": {
+        "@id": "node/3149460398",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445577,
+          37.3812856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460399",
+      "properties": {
+        "@id": "node/3149460399",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9502372,
+          37.3812934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460400",
+      "properties": {
+        "@id": "node/3149460400",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9452416,
+          37.3813032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460401",
+      "properties": {
+        "@id": "node/3149460401",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9493536,
+          37.3813081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460402",
+      "properties": {
+        "@id": "node/3149460402",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9452304,
+          37.3813108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460403",
+      "properties": {
+        "@id": "node/3149460403",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9493943,
+          37.3813219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460404",
+      "properties": {
+        "@id": "node/3149460404",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9493544,
+          37.3813351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460405",
+      "properties": {
+        "@id": "node/3149460405",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9493823,
+          37.3813384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460406",
+      "properties": {
+        "@id": "node/3149460406",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445547,
+          37.381342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460407",
+      "properties": {
+        "@id": "node/3149460407",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9502006,
+          37.3815836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460408",
+      "properties": {
+        "@id": "node/3149460408",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9500719,
+          37.3816259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460409",
+      "properties": {
+        "@id": "node/3149460409",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95017,
+          37.3816319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460410",
+      "properties": {
+        "@id": "node/3149460410",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9497539,
+          37.3816408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460411",
+      "properties": {
+        "@id": "node/3149460411",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9496996,
+          37.3816477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460412",
+      "properties": {
+        "@id": "node/3149460412",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9501678,
+          37.3816666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460413",
+      "properties": {
+        "@id": "node/3149460413",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9497048,
+          37.3816864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460414",
+      "properties": {
+        "@id": "node/3149460414",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9443057,
+          37.3818265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460415",
+      "properties": {
+        "@id": "node/3149460415",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9443102,
+          37.3819152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460416",
+      "properties": {
+        "@id": "node/3149460416",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480686,
+          37.3819694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460417",
+      "properties": {
+        "@id": "node/3149460417",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.948105,
+          37.3819885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460418",
+      "properties": {
+        "@id": "node/3149460418",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481698,
+          37.3819933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460419",
+      "properties": {
+        "@id": "node/3149460419",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481132,
+          37.3819951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460420",
+      "properties": {
+        "@id": "node/3149460420",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481499,
+          37.3820083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460421",
+      "properties": {
+        "@id": "node/3149460421",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.944418,
+          37.3822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460422",
+      "properties": {
+        "@id": "node/3149460422",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440381,
+          37.3822017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460423",
+      "properties": {
+        "@id": "node/3149460423",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444332,
+          37.3822049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460424",
+      "properties": {
+        "@id": "node/3149460424",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444295,
+          37.3822269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460426",
+      "properties": {
+        "@id": "node/3149460426",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.943965,
+          37.3824251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460427",
+      "properties": {
+        "@id": "node/3149460427",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439938,
+          37.3825232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149460428",
+      "properties": {
+        "@id": "node/3149460428",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440355,
+          37.3825296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462029",
+      "properties": {
+        "@id": "node/3149462029",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439869,
+          37.3825436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462030",
+      "properties": {
+        "@id": "node/3149462030",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9442833,
+          37.3825682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462031",
+      "properties": {
+        "@id": "node/3149462031",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451671,
+          37.3828782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462032",
+      "properties": {
+        "@id": "node/3149462032",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451348,
+          37.3829051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462033",
+      "properties": {
+        "@id": "node/3149462033",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451634,
+          37.3829265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462034",
+      "properties": {
+        "@id": "node/3149462034",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451951,
+          37.3829448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462035",
+      "properties": {
+        "@id": "node/3149462035",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451335,
+          37.38298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462036",
+      "properties": {
+        "@id": "node/3149462036",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451916,
+          37.3829817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462037",
+      "properties": {
+        "@id": "node/3149462037",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444119,
+          37.3832016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149462038",
+      "properties": {
+        "@id": "node/3149462038",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9449483,
+          37.3832248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784017",
+      "properties": {
+        "@id": "node/3149784017",
+        "natural": "tree",
+        "species": "Albizia julibrissin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9434193,
+          37.3817879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784027",
+      "properties": {
+        "@id": "node/3149784027",
+        "natural": "tree",
+        "species": "Ficus carica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9434634,
+          37.3820938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784030",
+      "properties": {
+        "@id": "node/3149784030",
+        "natural": "tree",
+        "species": "Cercis siliquastrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.943153,
+          37.3821251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784031",
+      "properties": {
+        "@id": "node/3149784031",
+        "natural": "tree",
+        "species": "Cercis siliquastrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431405,
+          37.3821317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784032",
+      "properties": {
+        "@id": "node/3149784032",
+        "natural": "tree",
+        "species": "Koelreuteria paniculata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431457,
+          37.3821425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784034",
+      "properties": {
+        "@id": "node/3149784034",
+        "natural": "tree",
+        "species": "Koelreuteria paniculata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431296,
+          37.3821474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784035",
+      "properties": {
+        "@id": "node/3149784035",
+        "natural": "tree",
+        "species": "Koelreuteria paniculata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431457,
+          37.3821553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784036",
+      "properties": {
+        "@id": "node/3149784036",
+        "natural": "tree",
+        "species": "Koelreuteria paniculata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431265,
+          37.3821594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784040",
+      "properties": {
+        "@id": "node/3149784040",
+        "natural": "tree",
+        "species": "Phytolacca dioica L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436301,
+          37.3822498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784041",
+      "properties": {
+        "@id": "node/3149784041",
+        "natural": "tree",
+        "species": "Phytolacca dioica L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436103,
+          37.3822615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784042",
+      "properties": {
+        "@id": "node/3149784042",
+        "natural": "tree",
+        "species": "Phytolacca dioica L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9436331,
+          37.3822656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784062",
+      "properties": {
+        "@id": "node/3149784062",
+        "natural": "tree",
+        "species": "Tipuana tipu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9442648,
+          37.3826825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784063",
+      "properties": {
+        "@id": "node/3149784063",
+        "natural": "tree",
+        "species": "Phytolacca dioica L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440683,
+          37.3826841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784064",
+      "properties": {
+        "@id": "node/3149784064",
+        "natural": "tree",
+        "species": "Tipuana tipu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9442378,
+          37.3826973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784065",
+      "properties": {
+        "@id": "node/3149784065",
+        "natural": "tree",
+        "species": "Phytolacca dioica L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440381,
+          37.3827056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149784066",
+      "properties": {
+        "@id": "node/3149784066",
+        "natural": "tree",
+        "species": "Phytolacca dioica L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440745,
+          37.3827163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807963",
+      "properties": {
+        "@id": "node/3149807963",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490122,
+          37.380153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807964",
+      "properties": {
+        "@id": "node/3149807964",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489826,
+          37.3801574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807965",
+      "properties": {
+        "@id": "node/3149807965",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490132,
+          37.3801711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807966",
+      "properties": {
+        "@id": "node/3149807966",
+        "natural": "tree",
+        "species": "Washingtonia filifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9492355,
+          37.3801893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807967",
+      "properties": {
+        "@id": "node/3149807967",
+        "natural": "tree",
+        "species": "Washingtonia filifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9492803,
+          37.3802101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807968",
+      "properties": {
+        "@id": "node/3149807968",
+        "natural": "tree",
+        "species": "Washingtonia filifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9492338,
+          37.3802282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807969",
+      "properties": {
+        "@id": "node/3149807969",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488017,
+          37.3802406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807970",
+      "properties": {
+        "@id": "node/3149807970",
+        "natural": "tree",
+        "species": "Washingtonia filifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9491725,
+          37.380284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807971",
+      "properties": {
+        "@id": "node/3149807971",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9493995,
+          37.380301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807972",
+      "properties": {
+        "@id": "node/3149807972",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9494331,
+          37.3803283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807973",
+      "properties": {
+        "@id": "node/3149807973",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9494327,
+          37.3803287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807974",
+      "properties": {
+        "@id": "node/3149807974",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9494438,
+          37.3803307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807975",
+      "properties": {
+        "@id": "node/3149807975",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9495521,
+          37.3803776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807976",
+      "properties": {
+        "@id": "node/3149807976",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9495488,
+          37.3803783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807977",
+      "properties": {
+        "@id": "node/3149807977",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.949551,
+          37.3803798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807978",
+      "properties": {
+        "@id": "node/3149807978",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.949513,
+          37.3804126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807979",
+      "properties": {
+        "@id": "node/3149807979",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9494538,
+          37.3804477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807980",
+      "properties": {
+        "@id": "node/3149807980",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9494324,
+          37.380483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807981",
+      "properties": {
+        "@id": "node/3149807981",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9468144,
+          37.3809789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807982",
+      "properties": {
+        "@id": "node/3149807982",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469926,
+          37.3809867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807983",
+      "properties": {
+        "@id": "node/3149807983",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9468115,
+          37.3809897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807984",
+      "properties": {
+        "@id": "node/3149807984",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9468222,
+          37.3809959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807985",
+      "properties": {
+        "@id": "node/3149807985",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9465349,
+          37.3810014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807986",
+      "properties": {
+        "@id": "node/3149807986",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9466562,
+          37.3812811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807987",
+      "properties": {
+        "@id": "node/3149807987",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9472045,
+          37.3813771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807988",
+      "properties": {
+        "@id": "node/3149807988",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9472045,
+          37.3813941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807989",
+      "properties": {
+        "@id": "node/3149807989",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473517,
+          37.38146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807990",
+      "properties": {
+        "@id": "node/3149807990",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483262,
+          37.3814642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807991",
+      "properties": {
+        "@id": "node/3149807991",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469114,
+          37.3814653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807992",
+      "properties": {
+        "@id": "node/3149807992",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482814,
+          37.3814872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807993",
+      "properties": {
+        "@id": "node/3149807993",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482573,
+          37.3815042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807994",
+      "properties": {
+        "@id": "node/3149807994",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482435,
+          37.381549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807995",
+      "properties": {
+        "@id": "node/3149807995",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482118,
+          37.3815901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3149807996",
+      "properties": {
+        "@id": "node/3149807996",
+        "natural": "tree",
+        "species": "Phoenix dactylifera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9470594,
+          37.3816015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445277",
+      "properties": {
+        "@id": "node/3151445277",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9491353,
+          37.3812783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445278",
+      "properties": {
+        "@id": "node/3151445278",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490977,
+          37.3812933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445279",
+      "properties": {
+        "@id": "node/3151445279",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489765,
+          37.3813127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445280",
+      "properties": {
+        "@id": "node/3151445280",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490573,
+          37.3813132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445281",
+      "properties": {
+        "@id": "node/3151445281",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490034,
+          37.3813197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445282",
+      "properties": {
+        "@id": "node/3151445282",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489571,
+          37.3813241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445283",
+      "properties": {
+        "@id": "node/3151445283",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490236,
+          37.3813278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445284",
+      "properties": {
+        "@id": "node/3151445284",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489498,
+          37.3813349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445285",
+      "properties": {
+        "@id": "node/3151445285",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489063,
+          37.3813405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445286",
+      "properties": {
+        "@id": "node/3151445286",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488673,
+          37.3813589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445287",
+      "properties": {
+        "@id": "node/3151445287",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9492359,
+          37.3813728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445288",
+      "properties": {
+        "@id": "node/3151445288",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483351,
+          37.3816225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445289",
+      "properties": {
+        "@id": "node/3151445289",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483191,
+          37.3816387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445290",
+      "properties": {
+        "@id": "node/3151445290",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482611,
+          37.3816558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445291",
+      "properties": {
+        "@id": "node/3151445291",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482884,
+          37.3817195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445292",
+      "properties": {
+        "@id": "node/3151445292",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482953,
+          37.3817397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445293",
+      "properties": {
+        "@id": "node/3151445293",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482997,
+          37.3817995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445294",
+      "properties": {
+        "@id": "node/3151445294",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483051,
+          37.3818069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445295",
+      "properties": {
+        "@id": "node/3151445295",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482855,
+          37.3818318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445296",
+      "properties": {
+        "@id": "node/3151445296",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483201,
+          37.3818357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445297",
+      "properties": {
+        "@id": "node/3151445297",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483553,
+          37.3818828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445298",
+      "properties": {
+        "@id": "node/3151445298",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485145,
+          37.3820735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445299",
+      "properties": {
+        "@id": "node/3151445299",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485056,
+          37.3821199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445300",
+      "properties": {
+        "@id": "node/3151445300",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9486835,
+          37.382359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445301",
+      "properties": {
+        "@id": "node/3151445301",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485757,
+          37.3825953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445302",
+      "properties": {
+        "@id": "node/3151445302",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9484725,
+          37.382677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3151445303",
+      "properties": {
+        "@id": "node/3151445303",
+        "natural": "tree",
+        "species": "Eucalyptus melliodora",
+        "species:es": "Eucalipto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9484389,
+          37.3826967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208595",
+      "properties": {
+        "@id": "node/3275208595",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945163,
+          37.3804053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208596",
+      "properties": {
+        "@id": "node/3275208596",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451386,
+          37.3804168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208597",
+      "properties": {
+        "@id": "node/3275208597",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463106,
+          37.3807451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208598",
+      "properties": {
+        "@id": "node/3275208598",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463039,
+          37.380752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208599",
+      "properties": {
+        "@id": "node/3275208599",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463171,
+          37.3807896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208600",
+      "properties": {
+        "@id": "node/3275208600",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9454976,
+          37.3807954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208601",
+      "properties": {
+        "@id": "node/3275208601",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9454853,
+          37.3807977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208602",
+      "properties": {
+        "@id": "node/3275208602",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439598,
+          37.3808148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208603",
+      "properties": {
+        "@id": "node/3275208603",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9462819,
+          37.3808164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208604",
+      "properties": {
+        "@id": "node/3275208604",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9454754,
+          37.3808214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208605",
+      "properties": {
+        "@id": "node/3275208605",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439357,
+          37.3808242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208606",
+      "properties": {
+        "@id": "node/3275208606",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9438499,
+          37.3808299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208607",
+      "properties": {
+        "@id": "node/3275208607",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439123,
+          37.380831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208608",
+      "properties": {
+        "@id": "node/3275208608",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.943843,
+          37.3808344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208609",
+      "properties": {
+        "@id": "node/3275208609",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463665,
+          37.380838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208610",
+      "properties": {
+        "@id": "node/3275208610",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463508,
+          37.3808631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208611",
+      "properties": {
+        "@id": "node/3275208611",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457535,
+          37.3809066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208612",
+      "properties": {
+        "@id": "node/3275208612",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457257,
+          37.3809115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208613",
+      "properties": {
+        "@id": "node/3275208613",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458727,
+          37.3809174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208614",
+      "properties": {
+        "@id": "node/3275208614",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458064,
+          37.3809234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208615",
+      "properties": {
+        "@id": "node/3275208615",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456962,
+          37.3809259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208616",
+      "properties": {
+        "@id": "node/3275208616",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458189,
+          37.3809317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208617",
+      "properties": {
+        "@id": "node/3275208617",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456406,
+          37.38097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208618",
+      "properties": {
+        "@id": "node/3275208618",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456303,
+          37.3810751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208619",
+      "properties": {
+        "@id": "node/3275208619",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456117,
+          37.3810905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208620",
+      "properties": {
+        "@id": "node/3275208620",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9437397,
+          37.3814911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208621",
+      "properties": {
+        "@id": "node/3275208621",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9437441,
+          37.3815094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208622",
+      "properties": {
+        "@id": "node/3275208622",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9437162,
+          37.3815516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208623",
+      "properties": {
+        "@id": "node/3275208623",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9434877,
+          37.3817652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208624",
+      "properties": {
+        "@id": "node/3275208624",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9434893,
+          37.3817704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208625",
+      "properties": {
+        "@id": "node/3275208625",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9432264,
+          37.3818068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208626",
+      "properties": {
+        "@id": "node/3275208626",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9432334,
+          37.3818069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208627",
+      "properties": {
+        "@id": "node/3275208627",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9432196,
+          37.3818493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208628",
+      "properties": {
+        "@id": "node/3275208628",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431893,
+          37.3819028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208629",
+      "properties": {
+        "@id": "node/3275208629",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431784,
+          37.3819392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208630",
+      "properties": {
+        "@id": "node/3275208630",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431533,
+          37.3820134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208631",
+      "properties": {
+        "@id": "node/3275208631",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431487,
+          37.3820491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208632",
+      "properties": {
+        "@id": "node/3275208632",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431408,
+          37.3820866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208633",
+      "properties": {
+        "@id": "node/3275208633",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431222,
+          37.3821196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208634",
+      "properties": {
+        "@id": "node/3275208634",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9431099,
+          37.382157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208635",
+      "properties": {
+        "@id": "node/3275208635",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430873,
+          37.3822273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208636",
+      "properties": {
+        "@id": "node/3275208636",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.943069,
+          37.3822998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208637",
+      "properties": {
+        "@id": "node/3275208637",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430632,
+          37.3823351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208638",
+      "properties": {
+        "@id": "node/3275208638",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430624,
+          37.3823586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208639",
+      "properties": {
+        "@id": "node/3275208639",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430596,
+          37.3823875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208640",
+      "properties": {
+        "@id": "node/3275208640",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430515,
+          37.3824129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208641",
+      "properties": {
+        "@id": "node/3275208641",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430329,
+          37.382455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208642",
+      "properties": {
+        "@id": "node/3275208642",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430086,
+          37.3825191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208643",
+      "properties": {
+        "@id": "node/3275208643",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9430089,
+          37.3825622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208644",
+      "properties": {
+        "@id": "node/3275208644",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429918,
+          37.3826048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208645",
+      "properties": {
+        "@id": "node/3275208645",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429422,
+          37.3827154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208646",
+      "properties": {
+        "@id": "node/3275208646",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429329,
+          37.3827574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208647",
+      "properties": {
+        "@id": "node/3275208647",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429186,
+          37.3827852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208648",
+      "properties": {
+        "@id": "node/3275208648",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429015,
+          37.3828516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208649",
+      "properties": {
+        "@id": "node/3275208649",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9428993,
+          37.3828976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208650",
+      "properties": {
+        "@id": "node/3275208650",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9428836,
+          37.38293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208651",
+      "properties": {
+        "@id": "node/3275208651",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9428639,
+          37.3830176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208652",
+      "properties": {
+        "@id": "node/3275208652",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9428696,
+          37.3830264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208653",
+      "properties": {
+        "@id": "node/3275208653",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429291,
+          37.3830574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208654",
+      "properties": {
+        "@id": "node/3275208654",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9428945,
+          37.383063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208655",
+      "properties": {
+        "@id": "node/3275208655",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440378,
+          37.3831243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208656",
+      "properties": {
+        "@id": "node/3275208656",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440737,
+          37.3831346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208657",
+      "properties": {
+        "@id": "node/3275208657",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9442569,
+          37.3831846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208658",
+      "properties": {
+        "@id": "node/3275208658",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446476,
+          37.383277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208659",
+      "properties": {
+        "@id": "node/3275208659",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9442892,
+          37.3832793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275208660",
+      "properties": {
+        "@id": "node/3275208660",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446572,
+          37.3833134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212961",
+      "properties": {
+        "@id": "node/3275212961",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9443098,
+          37.3833161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212962",
+      "properties": {
+        "@id": "node/3275212962",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446589,
+          37.3833235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212963",
+      "properties": {
+        "@id": "node/3275212963",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445065,
+          37.3833339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212964",
+      "properties": {
+        "@id": "node/3275212964",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9444971,
+          37.3833347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212965",
+      "properties": {
+        "@id": "node/3275212965",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445553,
+          37.3833477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212966",
+      "properties": {
+        "@id": "node/3275212966",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446058,
+          37.3833769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212967",
+      "properties": {
+        "@id": "node/3275212967",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9438731,
+          37.3834512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212968",
+      "properties": {
+        "@id": "node/3275212968",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9443466,
+          37.3834559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212969",
+      "properties": {
+        "@id": "node/3275212969",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439502,
+          37.3834755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212970",
+      "properties": {
+        "@id": "node/3275212970",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9439848,
+          37.3834954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212971",
+      "properties": {
+        "@id": "node/3275212971",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9440579,
+          37.3835111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212972",
+      "properties": {
+        "@id": "node/3275212972",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.944245,
+          37.3835122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212973",
+      "properties": {
+        "@id": "node/3275212973",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9441875,
+          37.3835207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212974",
+      "properties": {
+        "@id": "node/3275212974",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9443378,
+          37.3835255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212975",
+      "properties": {
+        "@id": "node/3275212975",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446987,
+          37.3836902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212976",
+      "properties": {
+        "@id": "node/3275212976",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445645,
+          37.3838093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212977",
+      "properties": {
+        "@id": "node/3275212977",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.944551,
+          37.3838105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212978",
+      "properties": {
+        "@id": "node/3275212978",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9445413,
+          37.3838522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212979",
+      "properties": {
+        "@id": "node/3275212979",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446125,
+          37.3838641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212980",
+      "properties": {
+        "@id": "node/3275212980",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446432,
+          37.3838778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212981",
+      "properties": {
+        "@id": "node/3275212981",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9446972,
+          37.3838868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212982",
+      "properties": {
+        "@id": "node/3275212982",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9447774,
+          37.383916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212983",
+      "properties": {
+        "@id": "node/3275212983",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9448699,
+          37.3839521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212984",
+      "properties": {
+        "@id": "node/3275212984",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9449889,
+          37.3839851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275212985",
+      "properties": {
+        "@id": "node/3275212985",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945049,
+          37.3839901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250750",
+      "properties": {
+        "@id": "node/3275250750",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9487777,
+          37.3803928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250751",
+      "properties": {
+        "@id": "node/3275250751",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488163,
+          37.3804151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250752",
+      "properties": {
+        "@id": "node/3275250752",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488632,
+          37.3804421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250753",
+      "properties": {
+        "@id": "node/3275250753",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488819,
+          37.3804682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250754",
+      "properties": {
+        "@id": "node/3275250754",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489042,
+          37.380484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250755",
+      "properties": {
+        "@id": "node/3275250755",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489569,
+          37.3805975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250756",
+      "properties": {
+        "@id": "node/3275250756",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489791,
+          37.3806459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250757",
+      "properties": {
+        "@id": "node/3275250757",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9489451,
+          37.3807166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250758",
+      "properties": {
+        "@id": "node/3275250758",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488397,
+          37.3807939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250759",
+      "properties": {
+        "@id": "node/3275250759",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476753,
+          37.380994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275250760",
+      "properties": {
+        "@id": "node/3275250760",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477095,
+          37.3810167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257461",
+      "properties": {
+        "@id": "node/3275257461",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9476141,
+          37.381042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257462",
+      "properties": {
+        "@id": "node/3275257462",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481712,
+          37.3810442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257463",
+      "properties": {
+        "@id": "node/3275257463",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9477024,
+          37.3810477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257464",
+      "properties": {
+        "@id": "node/3275257464",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481222,
+          37.3810493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257465",
+      "properties": {
+        "@id": "node/3275257465",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481981,
+          37.3810654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257466",
+      "properties": {
+        "@id": "node/3275257466",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480996,
+          37.3810925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257467",
+      "properties": {
+        "@id": "node/3275257467",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9478534,
+          37.381155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257468",
+      "properties": {
+        "@id": "node/3275257468",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9478733,
+          37.381191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257469",
+      "properties": {
+        "@id": "node/3275257469",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463667,
+          37.3814453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257470",
+      "properties": {
+        "@id": "node/3275257470",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456792,
+          37.3829477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257471",
+      "properties": {
+        "@id": "node/3275257471",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457105,
+          37.3829506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257472",
+      "properties": {
+        "@id": "node/3275257472",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457259,
+          37.3829936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257473",
+      "properties": {
+        "@id": "node/3275257473",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457422,
+          37.3830077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257474",
+      "properties": {
+        "@id": "node/3275257474",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9466634,
+          37.3833203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257475",
+      "properties": {
+        "@id": "node/3275257475",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9466472,
+          37.383392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257476",
+      "properties": {
+        "@id": "node/3275257476",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9465821,
+          37.3834061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257477",
+      "properties": {
+        "@id": "node/3275257477",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9465575,
+          37.383468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257478",
+      "properties": {
+        "@id": "node/3275257478",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9466142,
+          37.3834796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257479",
+      "properties": {
+        "@id": "node/3275257479",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.946536,
+          37.3835017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257480",
+      "properties": {
+        "@id": "node/3275257480",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9464887,
+          37.3835288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257481",
+      "properties": {
+        "@id": "node/3275257481",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9464284,
+          37.3835497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257482",
+      "properties": {
+        "@id": "node/3275257482",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463675,
+          37.3835806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257483",
+      "properties": {
+        "@id": "node/3275257483",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9463239,
+          37.3836002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257484",
+      "properties": {
+        "@id": "node/3275257484",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9462179,
+          37.383655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257485",
+      "properties": {
+        "@id": "node/3275257485",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9459509,
+          37.3836788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257486",
+      "properties": {
+        "@id": "node/3275257486",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.946161,
+          37.383693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257487",
+      "properties": {
+        "@id": "node/3275257487",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457646,
+          37.3837322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257488",
+      "properties": {
+        "@id": "node/3275257488",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9461156,
+          37.3837359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257489",
+      "properties": {
+        "@id": "node/3275257489",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9460714,
+          37.3837632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257490",
+      "properties": {
+        "@id": "node/3275257490",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9460232,
+          37.3837848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257491",
+      "properties": {
+        "@id": "node/3275257491",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456471,
+          37.3837924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257492",
+      "properties": {
+        "@id": "node/3275257492",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456451,
+          37.3837927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257493",
+      "properties": {
+        "@id": "node/3275257493",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456171,
+          37.3838029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257494",
+      "properties": {
+        "@id": "node/3275257494",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456359,
+          37.383818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257495",
+      "properties": {
+        "@id": "node/3275257495",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9459022,
+          37.3838275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257496",
+      "properties": {
+        "@id": "node/3275257496",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945857,
+          37.3838397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257497",
+      "properties": {
+        "@id": "node/3275257497",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458092,
+          37.3838653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257498",
+      "properties": {
+        "@id": "node/3275257498",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457402,
+          37.3839017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257499",
+      "properties": {
+        "@id": "node/3275257499",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9457019,
+          37.383915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257500",
+      "properties": {
+        "@id": "node/3275257500",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9456523,
+          37.3839346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257502",
+      "properties": {
+        "@id": "node/3275257502",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94561,
+          37.3839524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257503",
+      "properties": {
+        "@id": "node/3275257503",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9455468,
+          37.3839707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257504",
+      "properties": {
+        "@id": "node/3275257504",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9452821,
+          37.3839822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257505",
+      "properties": {
+        "@id": "node/3275257505",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9454475,
+          37.3839977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257506",
+      "properties": {
+        "@id": "node/3275257506",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9452223,
+          37.3839978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257507",
+      "properties": {
+        "@id": "node/3275257507",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9452513,
+          37.3840115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257508",
+      "properties": {
+        "@id": "node/3275257508",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945339,
+          37.3840156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257509",
+      "properties": {
+        "@id": "node/3275257509",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.945121,
+          37.3840227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257510",
+      "properties": {
+        "@id": "node/3275257510",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9453642,
+          37.3840312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257511",
+      "properties": {
+        "@id": "node/3275257511",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9451794,
+          37.3840327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257512",
+      "properties": {
+        "@id": "node/3275257512",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9453437,
+          37.3840434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275257513",
+      "properties": {
+        "@id": "node/3275257513",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9452942,
+          37.3840549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276917",
+      "properties": {
+        "@id": "node/3275276917",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947532,
+          37.3787878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276918",
+      "properties": {
+        "@id": "node/3275276918",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9471007,
+          37.3788256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276919",
+      "properties": {
+        "@id": "node/3275276919",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9474084,
+          37.3788313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276920",
+      "properties": {
+        "@id": "node/3275276920",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469755,
+          37.3788365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276921",
+      "properties": {
+        "@id": "node/3275276921",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9471562,
+          37.3788429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276922",
+      "properties": {
+        "@id": "node/3275276922",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.946857,
+          37.3788469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276923",
+      "properties": {
+        "@id": "node/3275276923",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9470418,
+          37.3788546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276924",
+      "properties": {
+        "@id": "node/3275276924",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9472647,
+          37.3788569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276925",
+      "properties": {
+        "@id": "node/3275276925",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9472031,
+          37.3788639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276926",
+      "properties": {
+        "@id": "node/3275276926",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473204,
+          37.3788639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276927",
+      "properties": {
+        "@id": "node/3275276927",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9473556,
+          37.3788639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276928",
+      "properties": {
+        "@id": "node/3275276928",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9469509,
+          37.3788756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276929",
+      "properties": {
+        "@id": "node/3275276929",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9468014,
+          37.3788872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276930",
+      "properties": {
+        "@id": "node/3275276930",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479673,
+          37.3789077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276931",
+      "properties": {
+        "@id": "node/3275276931",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947982,
+          37.3789225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276932",
+      "properties": {
+        "@id": "node/3275276932",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480166,
+          37.3789491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276933",
+      "properties": {
+        "@id": "node/3275276933",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480111,
+          37.3789956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276934",
+      "properties": {
+        "@id": "node/3275276934",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479971,
+          37.3790548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276935",
+      "properties": {
+        "@id": "node/3275276935",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947999,
+          37.3790799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276936",
+      "properties": {
+        "@id": "node/3275276936",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479962,
+          37.3791073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276937",
+      "properties": {
+        "@id": "node/3275276937",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479878,
+          37.3791427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276938",
+      "properties": {
+        "@id": "node/3275276938",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479711,
+          37.3791827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276939",
+      "properties": {
+        "@id": "node/3275276939",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479772,
+          37.3792367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276940",
+      "properties": {
+        "@id": "node/3275276940",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479655,
+          37.3793649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276941",
+      "properties": {
+        "@id": "node/3275276941",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479831,
+          37.3794278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276942",
+      "properties": {
+        "@id": "node/3275276942",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479508,
+          37.3794627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276943",
+      "properties": {
+        "@id": "node/3275276943",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479596,
+          37.3795466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276944",
+      "properties": {
+        "@id": "node/3275276944",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479772,
+          37.3795909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276945",
+      "properties": {
+        "@id": "node/3275276945",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480187,
+          37.3796471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276946",
+      "properties": {
+        "@id": "node/3275276946",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479934,
+          37.3797189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276947",
+      "properties": {
+        "@id": "node/3275276947",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479744,
+          37.3797711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276948",
+      "properties": {
+        "@id": "node/3275276948",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9492569,
+          37.3797954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276949",
+      "properties": {
+        "@id": "node/3275276949",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9492069,
+          37.3798253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276950",
+      "properties": {
+        "@id": "node/3275276950",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479894,
+          37.379827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276951",
+      "properties": {
+        "@id": "node/3275276951",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9491173,
+          37.3798447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276952",
+      "properties": {
+        "@id": "node/3275276952",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490756,
+          37.3798527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276953",
+      "properties": {
+        "@id": "node/3275276953",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9493617,
+          37.3798536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276954",
+      "properties": {
+        "@id": "node/3275276954",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479816,
+          37.3798661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276955",
+      "properties": {
+        "@id": "node/3275276955",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9490103,
+          37.3798733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276956",
+      "properties": {
+        "@id": "node/3275276956",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479908,
+          37.3798815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276957",
+      "properties": {
+        "@id": "node/3275276957",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.948716,
+          37.3798912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276958",
+      "properties": {
+        "@id": "node/3275276958",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488593,
+          37.3798921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276959",
+      "properties": {
+        "@id": "node/3275276959",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485954,
+          37.3799017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275276960",
+      "properties": {
+        "@id": "node/3275276960",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9487615,
+          37.3799033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277661",
+      "properties": {
+        "@id": "node/3275277661",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9486399,
+          37.3799059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277662",
+      "properties": {
+        "@id": "node/3275277662",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485354,
+          37.3799085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277663",
+      "properties": {
+        "@id": "node/3275277663",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9488028,
+          37.3799101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277664",
+      "properties": {
+        "@id": "node/3275277664",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9484971,
+          37.3799118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277665",
+      "properties": {
+        "@id": "node/3275277665",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9486779,
+          37.379913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277666",
+      "properties": {
+        "@id": "node/3275277666",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947975,
+          37.3799154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277667",
+      "properties": {
+        "@id": "node/3275277667",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.948418,
+          37.3799297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277668",
+      "properties": {
+        "@id": "node/3275277668",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.948359,
+          37.3799371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277669",
+      "properties": {
+        "@id": "node/3275277669",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481334,
+          37.3799406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277670",
+      "properties": {
+        "@id": "node/3275277670",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9484345,
+          37.3799474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277671",
+      "properties": {
+        "@id": "node/3275277671",
+        "natural": "tree",
+        "species": "Schinus areira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485901,
+          37.3799508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277672",
+      "properties": {
+        "@id": "node/3275277672",
+        "natural": "tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9486436,
+          37.3799517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277673",
+      "properties": {
+        "@id": "node/3275277673",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9486885,
+          37.3799521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277674",
+      "properties": {
+        "@id": "node/3275277674",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480626,
+          37.3799533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277675",
+      "properties": {
+        "@id": "node/3275277675",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480159,
+          37.3799541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277676",
+      "properties": {
+        "@id": "node/3275277676",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483093,
+          37.3799545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277677",
+      "properties": {
+        "@id": "node/3275277677",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483845,
+          37.3799582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277678",
+      "properties": {
+        "@id": "node/3275277678",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9484988,
+          37.3799611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277679",
+      "properties": {
+        "@id": "node/3275277679",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482124,
+          37.3799636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277680",
+      "properties": {
+        "@id": "node/3275277680",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9485427,
+          37.379968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277681",
+      "properties": {
+        "@id": "node/3275277681",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482967,
+          37.3799732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277682",
+      "properties": {
+        "@id": "node/3275277682",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9483106,
+          37.3799769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277683",
+      "properties": {
+        "@id": "node/3275277683",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9482502,
+          37.3799812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277684",
+      "properties": {
+        "@id": "node/3275277684",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481854,
+          37.3799973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277685",
+      "properties": {
+        "@id": "node/3275277685",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9481291,
+          37.3800078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277686",
+      "properties": {
+        "@id": "node/3275277686",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480871,
+          37.3800133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277687",
+      "properties": {
+        "@id": "node/3275277687",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9479913,
+          37.380014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3275277688",
+      "properties": {
+        "@id": "node/3275277688",
+        "natural": "tree",
+        "species": "Branchychiton populneus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9480412,
+          37.3800376
         ]
       }
     }
