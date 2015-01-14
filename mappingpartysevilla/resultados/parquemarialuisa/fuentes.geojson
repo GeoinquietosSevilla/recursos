@@ -14,7 +14,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +37,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +60,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +83,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +107,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +130,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +153,10 @@
         "@version": "2",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +177,10 @@
         "@version": "1",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +200,10 @@
         "@version": "1",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -196,7 +223,10 @@
         "@version": "1",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +246,10 @@
         "@version": "1",
         "@changeset": "26325045",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -237,7 +270,10 @@
         "@version": "2",
         "@changeset": "26325175",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +293,10 @@
         "@version": "1",
         "@changeset": "26325175",
         "@user": "Guadalcanal",
-        "@uid": "2424666"
+        "@uid": "2424666",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "marker-color": "#f44"
       },
       "geometry": {
         "type": "Point",
