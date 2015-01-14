@@ -11,7 +11,10 @@
         "@id": "node/3149400832",
         "natural": "tree",
         "species": "Dracaena draco",
-        "species:es": "Drago"
+        "species:es": "Drago",
+        "marker-symbol": "wetland",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +30,10 @@
       "properties": {
         "@id": "node/3149422854",
         "natural": "tree",
-        "species": "Cupressus arizonica"
+        "species": "Cupressus arizonica",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +49,10 @@
       "properties": {
         "@id": "node/3149422855",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +84,10 @@
       "properties": {
         "@id": "node/3149422857",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +103,10 @@
       "properties": {
         "@id": "node/3149422858",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -107,7 +122,10 @@
       "properties": {
         "@id": "node/3149422859",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -123,7 +141,10 @@
       "properties": {
         "@id": "node/3149422860",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -139,7 +160,10 @@
       "properties": {
         "@id": "node/3149422861",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -155,7 +179,10 @@
       "properties": {
         "@id": "node/3149422862",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +198,10 @@
       "properties": {
         "@id": "node/3149422863",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +217,10 @@
       "properties": {
         "@id": "node/3149422864",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +236,10 @@
       "properties": {
         "@id": "node/3149422865",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -219,7 +255,10 @@
       "properties": {
         "@id": "node/3149422866",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -235,7 +274,10 @@
       "properties": {
         "@id": "node/3149422867",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +293,10 @@
       "properties": {
         "@id": "node/3149422868",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -267,7 +312,10 @@
       "properties": {
         "@id": "node/3149422869",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -283,7 +331,10 @@
       "properties": {
         "@id": "node/3149422870",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +350,10 @@
       "properties": {
         "@id": "node/3149422871",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +369,10 @@
       "properties": {
         "@id": "node/3149422872",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +388,10 @@
       "properties": {
         "@id": "node/3149422873",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -347,7 +407,10 @@
       "properties": {
         "@id": "node/3149422874",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -363,7 +426,10 @@
       "properties": {
         "@id": "node/3149422875",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -379,7 +445,10 @@
       "properties": {
         "@id": "node/3149422876",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -395,7 +464,10 @@
       "properties": {
         "@id": "node/3149422877",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +483,10 @@
       "properties": {
         "@id": "node/3149422878",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -427,7 +502,10 @@
       "properties": {
         "@id": "node/3149422879",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -443,7 +521,10 @@
       "properties": {
         "@id": "node/3149422880",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +540,10 @@
       "properties": {
         "@id": "node/3149422881",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -475,7 +559,10 @@
       "properties": {
         "@id": "node/3149422882",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -491,7 +578,10 @@
       "properties": {
         "@id": "node/3149422883",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -507,7 +597,10 @@
       "properties": {
         "@id": "node/3149422884",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +616,10 @@
       "properties": {
         "@id": "node/3149422885",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -539,7 +635,10 @@
       "properties": {
         "@id": "node/3149422886",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -555,7 +654,10 @@
       "properties": {
         "@id": "node/3149422887",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -571,7 +673,10 @@
       "properties": {
         "@id": "node/3149422888",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -587,7 +692,10 @@
       "properties": {
         "@id": "node/3149422889",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +711,10 @@
       "properties": {
         "@id": "node/3149422890",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -619,7 +730,10 @@
       "properties": {
         "@id": "node/3149422891",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +749,10 @@
       "properties": {
         "@id": "node/3149422892",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +768,10 @@
       "properties": {
         "@id": "node/3149422893",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -667,7 +787,10 @@
       "properties": {
         "@id": "node/3149422894",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -699,7 +822,10 @@
       "properties": {
         "@id": "node/3149422896",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -731,7 +857,10 @@
       "properties": {
         "@id": "node/3149422898",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +876,10 @@
       "properties": {
         "@id": "node/3149422899",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -763,7 +895,10 @@
       "properties": {
         "@id": "node/3149422900",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -779,7 +914,10 @@
       "properties": {
         "@id": "node/3149422901",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -795,7 +933,10 @@
       "properties": {
         "@id": "node/3149422902",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -811,7 +952,10 @@
       "properties": {
         "@id": "node/3149422903",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +971,10 @@
       "properties": {
         "@id": "node/3149422904",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -843,7 +990,10 @@
       "properties": {
         "@id": "node/3149422905",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +1009,10 @@
       "properties": {
         "@id": "node/3149422906",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +1028,10 @@
       "properties": {
         "@id": "node/3149422907",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +1047,10 @@
       "properties": {
         "@id": "node/3149422908",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -907,7 +1066,10 @@
       "properties": {
         "@id": "node/3149422909",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -923,7 +1085,10 @@
       "properties": {
         "@id": "node/3149422910",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -939,7 +1104,10 @@
       "properties": {
         "@id": "node/3149422911",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -955,7 +1123,10 @@
       "properties": {
         "@id": "node/3149422912",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +1142,10 @@
       "properties": {
         "@id": "node/3149422913",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -987,7 +1161,10 @@
       "properties": {
         "@id": "node/3149422914",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1003,7 +1180,10 @@
       "properties": {
         "@id": "node/3149422915",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1019,7 +1199,10 @@
       "properties": {
         "@id": "node/3149422916",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1035,7 +1218,10 @@
       "properties": {
         "@id": "node/3149422917",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1051,7 +1237,10 @@
       "properties": {
         "@id": "node/3149422918",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1067,7 +1256,10 @@
       "properties": {
         "@id": "node/3149422919",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1275,10 @@
       "properties": {
         "@id": "node/3149422920",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1099,7 +1294,10 @@
       "properties": {
         "@id": "node/3149422921",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1115,7 +1313,10 @@
       "properties": {
         "@id": "node/3149431151",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1332,10 @@
       "properties": {
         "@id": "node/3149431152",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1147,7 +1351,10 @@
       "properties": {
         "@id": "node/3149431153",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1163,7 +1370,10 @@
       "properties": {
         "@id": "node/3149431154",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1179,7 +1389,10 @@
       "properties": {
         "@id": "node/3149431155",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1195,7 +1408,10 @@
       "properties": {
         "@id": "node/3149431156",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1211,7 +1427,10 @@
       "properties": {
         "@id": "node/3149431157",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1227,7 +1446,10 @@
       "properties": {
         "@id": "node/3149431158",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1243,7 +1465,10 @@
       "properties": {
         "@id": "node/3149431159",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1259,7 +1484,10 @@
       "properties": {
         "@id": "node/3149431160",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1275,7 +1503,10 @@
       "properties": {
         "@id": "node/3149431161",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1291,7 +1522,10 @@
       "properties": {
         "@id": "node/3149431162",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1307,7 +1541,10 @@
       "properties": {
         "@id": "node/3149431163",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1323,7 +1560,10 @@
       "properties": {
         "@id": "node/3149431164",
         "natural": "tree",
-        "species": "Pinus SPP."
+        "species": "Pinus SPP.",
+        "marker-symbol": "park",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
@@ -1646,7 +1886,10 @@
         "@id": "node/3149436423",
         "natural": "tree",
         "species": "Dracaena draco",
-        "species:es": "Drago"
+        "species:es": "Drago",
+        "marker-symbol": "wetland",
+        "marker-size": "small",
+        "marker-color": "#167927"
       },
       "geometry": {
         "type": "Point",
