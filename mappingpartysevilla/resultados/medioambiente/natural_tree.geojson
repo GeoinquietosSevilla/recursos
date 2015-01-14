@@ -13,8 +13,8 @@
         "species": "Dracaena draco",
         "species:es": "Drago",
 	"icon": {
-	    "icon_url": "trees/tree1.png",
-	    "iconSize": [50, 50], // size of the icon
+	    "iconUrl": "trees/tree1.png",
+	    "iconSize": [16, 16]
    	}
       },
       "geometry": {
